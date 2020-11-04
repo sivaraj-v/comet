@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: Microsoft Azure Fundamentals
+metadata:
+  title: 'Exam AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exam AZ-900: Microsoft Azure Fundamentals'
+uid: exam.az-900-test
+displayName: AZ-900
+summary: |-
+  This exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those services are provided with Microsoft Azure. The exam is intended for candidates with non-technical backgrounds, such as those involved in selling or purchasing cloud based solutions and services, or who have some involvement with cloud based solutions and services, as well as those with a technical background who have a need to validate their foundational-level knowledge around cloud services. Technical IT experience is not required, however, some general IT knowledge or experience would be beneficial.
+
+  This exam can be taken as an optional first step in learning about cloud services and how those concepts are exemplified by Microsoft Azure. It can be taken as a precursor to Microsoft Azure or Microsoft cloud services exams. While it would be a beneficial first step, validating foundational-level knowledge, taking this exam is not a prerequisite before taking any other Azure-based certifications.
+subTitle: 'This exam measures your ability to understand the following concepts: cloud concepts; core Azure services; security, privacy, compliance, and trust; and Azure pricing and support.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- beginner
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Understand cloud concepts (15-20%)
+- Understand core Azure services (30-35%)
+- Understand security, privacy, compliance, and trust (25-30%)
+- Understand Azure pricing and support (20-25%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.az-900t01-test
+paths:
+- uid: learn.cloud-foundations
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals-test
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become Microsoft Certified: Azure Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

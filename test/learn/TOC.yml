@@ -1,0 +1,138 @@
+- name: Index
+  href: index.md
+- name: Home Page
+  href: home.yml
+- name: Product Page
+  href: ./azure/index.yml
+- name: Learn Browse Page
+  href: ./browse/index.yml
+- name: Challenge Page
+  href: ./challenges.yml
+- name: Path Pages
+  items:
+    - name: CSharp First Steps
+      href: ./paths/csharp-first-steps/index.yml
+    - name: Manage Resources in Azure
+      href: ./paths/manage-resources-in-azure/index.yml
+- name: Module Pages
+  items:
+    - name: align-requirements-in-azure
+      href: ./azure/align-requirements-in-azure/index.yml
+    - name: automate-azure-tasks-with-powershell
+      href: ./azure/automate-azure-tasks-with-powershell/index.yml
+    - name: control-and-organize-with-azure-resource-manager
+      href: ./azure/control-and-organize-with-azure-resource-manager/index.yml
+    - name: control-azure-services-with-cli
+      href: ./azure/control-azure-services-with-cli/index.yml
+    - name: move-azure-resources-another-resource-group
+      href: ./azure/move-azure-resources-another-resource-group/index.yml
+    - name: predict-costs-and-optimize-spending
+      href: ./azure/predict-costs-and-optimize-spending/index.yml
+    - name: csharp-arrays
+      href: ./azure/csharp-arrays/index.yml
+    - name: csharp-write-first
+      href: ./azure/csharp-write-first/index.yml
+    - name: configure-perform-procure-to-purchase-in-dynamics-365-finance-ops
+      href: ./dyn365/lab-on-demand.yml
+    - name: deploy-vms-from-vhd-templates
+      href: ./azure/deploy-vms-from-vhd-templates/index.yml
+- name: Certification
+  items:
+    - name: Certification Landing Page
+      href: ./certifications/index.yml
+    - name: Certification Browse Page
+      href: ./certifications/browse/index.yml
+    - name: Course Browse Page
+      href: ./certifications/courses/browse/index.yml
+    - name: Course Pages
+      items:
+        - name: az-203t01
+          href: ./certifications/courses/az-203t01.yml
+        - name: az-900t01
+          href: ./certifications/courses/az-900t01.yml
+        - name: dp-070t00
+          href: ./certifications/courses/dp-070t00.yml
+    - name: Role Pages
+      items:
+        - name: solutions-architect
+          href: ./certifications/roles/solutions-architect.yml
+    - name: Certification Pages
+      items:
+        - name: azure-developer
+          href: ./certifications/azure-developer.yml
+        - name: azure-for-sap-workloads-specialty
+          href: ./certifications/azure-for-sap-workloads-specialty.yml
+        - name: azure-fundamentals
+          href: ./certifications/azure-fundamentals.yml
+        - name: azure-solutions-architect
+          href: ./certifications/azure-solutions-architect.yml
+        - name: d365-finance-and-operations-apps-developer-associate
+          href: ./certifications/d365-finance-and-operations-apps-developer-associate.yml
+        - name: d365-finance-and-operations-apps-solution-architect-expert
+          href: ./certifications/d365-finance-and-operations-apps-solution-architect-expert.yml
+        - name: d365-functional-consultant-customer-service
+          href: ./certifications/d365-functional-consultant-customer-service.yml
+        - name: d365-functional-consultant-field-service
+          href: ./certifications/d365-functional-consultant-field-service.yml
+        - name: d365-functional-consultant-financials
+          href: ./certifications/d365-functional-consultant-financials.yml
+        - name: d365-functional-consultant-manufacturing
+          href: ./certifications/d365-functional-consultant-manufacturing.yml
+        - name: d365-functional-consultant-sales
+          href: ./certifications/d365-functional-consultant-sales.yml
+        - name: d365-functional-consultant-supply-chain-management
+          href: ./certifications/d365-functional-consultant-supply-chain-management.yml
+        - name: d365-fundamentals
+          href: ./certifications/d365-fundamentals.yml
+    - name: Examination Pages
+      items:
+        - name: az-203
+          href: ./certifications/exams/az-203.yml
+        - name: az-300
+          href: ./certifications/exams/az-300.yml
+        - name: az-301
+          href: ./certifications/exams/az-301.yml
+        - name: az-900
+          href: ./certifications/exams/az-900.yml
+        - name: mb-200
+          href: ./certifications/exams/mb-200.yml
+        - name: mb-210
+          href: ./certifications/exams/mb-210.yml
+        - name: mb-230
+          href: ./certifications/exams/mb-230.yml
+        - name: mb-240
+          href: ./certifications/exams/mb-240.yml
+        - name: mb-300
+          href: ./certifications/exams/mb-300.yml
+        - name: mb-310
+          href: ./certifications/exams/mb-310.yml
+        - name: mb-320
+          href: ./certifications/exams/mb-320.yml
+        - name: mb-400
+          href: ./certifications/exams/mb-400.yml
+        - name: mb-500
+          href: ./certifications/exams/mb-500.yml
+        - name: mb-600
+          href: ./certifications/exams/mb-600.yml
+        - name: mb-700
+          href: ./certifications/exams/mb-700.yml
+        - name: mb-901
+          href: ./certifications/exams/mb-901.yml
+        - name: ms-900
+          href: ./certifications/exams/ms-900.yml
+        - name: pl-900
+          href: ./certifications/exams/pl-900.yml
+- name: Recommendations (localhost only)
+  href: ./recommendations/troubleshoot-diagnostic-logs.md
+- name: Support
+  items:
+    - name: Troubleshooting known issues
+      href: ./support/troubleshooting.md
+- name: Topic Landing Pages
+  items:
+    - name: Student Topic Landing
+      href: ./students/sample-topic-landing.yml
+    - name: University Topic Landing
+      href: ./universities/sample-topic-landing.yml
+- name: TV
+  href: ./tv.yml

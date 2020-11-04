@@ -1,0 +1,54 @@
+### YamlMime:OData
+uid: Microsoft.Dynamics.CRM.RetrieveExchangeRate
+name: "RetrieveExchangeRate"
+type: function
+metadata: 
+  title: "Microsoft Dynamics 365 Customer Engagement RetrieveExchangeRate Function Reference | MicrosoftDocs"
+  ms.date: "03/20/2018"
+  ms.service: "crm-online"
+  ms.topic: "reference"
+  applies_to: 
+  - "Dynamics 365 (online)"
+  ms.assetid: 8f0b857b-7568-472f-bee1-f6e34b2766ac
+  author: "jimdaly"
+  ms.author: "jdaly"
+  manager: "jdaly"
+  meta-description: "Reference information about the Dynamics 365 Customer Engagement RetrieveExchangeRate Function."
+namespace: Microsoft.Dynamics.CRM
+description: "Retrieves the exchange rate.  "
+iscomposable: false
+# This function is not bound to any entities.
+isbound: false
+parameters:
+  description: "Parameters allow for data to be passed to the function."
+  parameter_items:
+  - name: TransactionCurrencyId
+    type: Edm.Guid
+    nullable: false
+    unicode: true
+    description: "The ID of the currency "
+    iscollection: false
+return_type:
+  description: "The RetrieveExchangeRate function returns the following value."
+  type: Microsoft.Dynamics.CRM.RetrieveExchangeRateResponse
+  iscollection: false
+  nullable: false
+entities:
+  description: "Use the RetrieveExchangeRate function with this entity type:"
+  entity_items:
+  - type: Microsoft.Dynamics.CRM.transactioncurrency
+    displayName: "Currency"
+    description: "Currency in which a financial transaction is carried out."
+# This function has no remarks.
+href_see_also:
+- text: "Use the Microsoft Dynamics 365 Customer Engagement Web API"
+  href: "https://docs.microsoft.com/dynamics365/customer-engagement/developer/use-microsoft-dynamics-365-web-api"
+xref_see_also:
+- Microsoft.Dynamics.CRM.EntityTypeIndex
+- Microsoft.Dynamics.CRM.ActionIndex
+- Microsoft.Dynamics.CRM.FunctionIndex
+- Microsoft.Dynamics.CRM.QueryFunctionIndex
+- Microsoft.Dynamics.CRM.ComplexTypeIndex
+- Microsoft.Dynamics.CRM.EnumTypeIndex
+- Microsoft.Dynamics.CRM.MetadataEntityTypeIndex
+- Microsoft.Dynamics.CRM.SolutionIndex

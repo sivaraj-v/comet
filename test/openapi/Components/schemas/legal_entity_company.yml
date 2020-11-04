@@ -1,0 +1,7 @@
+### YamlMime:OpenAPIType
+uid: media.schemas.legal_entity_company
+name: legal_entity_company
+isDictionary: true
+referencedType: media.schemas.account
+apiVersion: 2019-05-16
+service: media

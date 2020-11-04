@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: Microsoft Certified Power Platform Fundamentals
+metadata:
+  title: Microsoft Certified Power Platform Fundamentals
+  description: Prove you understand the core capabilities of the Power Platform–from business value and core product capabilities to building a basic Power Apps canvas app, connecting data sources, automating with Microsoft Flow, and creating a Power BI dashboard.
+uid: certification.power-platform-fundamentals-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Prove you understand the core capabilities of the Power Platform–from business value and core product capabilities to building a basic Power Apps canvas app, connecting data sources, automating with Microsoft Flow, and creating a Power BI dashboard.
+subTitle: Prove you understand the core capabilities of the Power Platform–from business value and core product capabilities to building a basic Power Apps canvas app, connecting data sources, automating with Microsoft Flow, and creating a Power BI dashboard.
+levels:
+- beginner
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Understand the business value of Power Platform
+- Understand the Core Components of Power Platform
+- Demonstrate the business value of Power BI
+- Demonstrate the business value of Power Apps
+- Demonstrate the business value of Microsoft Flow
+roles:
+- business-user
+- functional-consultant
+type: fundamentals
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00-test
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KLw
+exams:
+- uid: exam.pl-900-test
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become Microsoft Certified: Power Platform Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

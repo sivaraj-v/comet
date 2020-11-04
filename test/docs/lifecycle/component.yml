@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Dynamics Retail Management System 2.0 (component)
+policyType: component
+products:
+- dynamics-retail
+name: Microsoft Dynamics Retail Management System 2.0
+summary: Microsoft Dynamics Retail Management System 2.0 follows the [Fixed](https://support.microsoft.com/en-us/help/14085) Lifecycle Policy.
+supportDates:
+  start: 07/31/2007
+releases:
+- version: Service Pack 1
+  startDate: 07/31/2007
+  endDate: 07/14/2009
+content: |
+  > [!NOTE]
+  > Notes will appear here - like Support ends 24 months after the next service pack releases or at the end of the product&#39;s support lifecycle, whichever comes first. For more information, please see the service pack policy here.
+  > [!NOTE]
+  > Notes will appear here - like Support ends 24 months after the next service pack releases or at the end of the product&#39;s support lifecycle, whichever comes first.
+
+  > [!TIP]
+  > A key tip - something to rise above the other notes
+
+  ## Links 
+  * [Service Pack Policy](https://docs.microsoft.com/en-us/lifecycle/policies/fixed#service-packs)

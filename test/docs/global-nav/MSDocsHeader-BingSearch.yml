@@ -1,0 +1,90 @@
+## YamlMime:ContentNav
+
+category:
+  href: /bing/
+  title: Bing Search
+items:
+  - title: Web
+    items:
+      - href:  /bing/web-search-api/overview
+        title: Overview
+      - href:  /bing/bing-web-search/search-the-web
+        title: Search the web
+      - href:  /bing/bing-web-search/filter-answers
+        title: Filtering results
+      - href:  /bing/bing-web-search/rank-results
+        title: Ranking results
+      - href:  /bing/bing-web-search/quickstarts/quickstarts
+        title: Quickstarts 
+      - href:  /bing/bing-web-search/reference/endpoints
+        title: Reference
+  - title: Image
+    items:
+      - href:  /bing/bing-image-search/overview
+        title: Overview
+      - href:  /bing/bing-image-search/how-to/get-images
+        title: Search the web
+      - href:  /bing/bing-image-search/how-to/trending-images
+        title: Trending
+      - href:  /bing/bing-image-search/how-to/image-insights
+        title: Image insights
+      - href:  /bing/bing-image-search/quickstarts/quickstarts
+        title: Quickstarts 
+      - href:  /bing/bing-image-search/reference/endpoints
+        title: Reference
+  - title: News
+    items:
+      - href:  /bing/bing-news-search/overview
+        title: Overview
+      - href:  /bing/bing-news-search/how-to/search-for-news
+        title: Search the web
+      - href:  /bing/bing-news-search/how-to/search-for-news#get-todays-top-news
+        title: Today's top news
+      - href:  /bing/bing-news-search/how-to/category-news
+        title: Category news
+      - href:  /bing/bing-news-search/how-to/trending-news
+        title: Trending news
+      - href:  /bing/bing-news-search/quickstarts/quickstarts
+        title: Quickstarts
+      - href:  /bing/bing-news-search/reference/endpoints
+        title: Reference
+  - title: Video
+    items:
+      - href:  /bing/bing-video-search/overview
+        title: Overview
+      - href:  /bing/bing-video-search/how-to/get-videos
+        title: Search the web
+      - href:  /bing/bing-video-search/how-to/trending-videos
+        title: Trending videos
+      - href:  /bing/bing-video-search/quickstarts/quickstarts
+        title: Quickstarts 
+      - href:  /bing/bing-video-search/reference/endpoints
+        title: Reference
+  - title: Custom
+    items:
+      - href:  /bing/bing-custom-search/overview
+        title: Overview
+      - href:  /bing/bing-custom-search/how-to/define-your-custom-view
+        title: Define your instance
+      - href:  /bing/bing-custom-search/how-to/hosted-ui
+        title: Configure a hosted UI
+      - href:  /bing/bing-custom-search/quickstarts/quickstarts
+        title: Quickstarts 
+      - href:  /bing/bing-custom-search/reference/endpoints
+        title: Reference
+  - title: Other APIs
+    items:
+      - href:  /bing/bing-visual-search/overview
+        title: Visual search
+      - href:  /bing/bing-entity-search/overview
+        title: Entity search
+      - href:  /bing/bing-autosuggest/overview
+        title: Autosuggest
+      - href:  /bing/bing-spell-check/overview
+        title: Spell check 
+  - title: Support
+    items:
+      - href:  https://azure.microsoft.com/en-us/support/create-ticket/
+        title: Create a ticket
+      - href:  https://stackoverflow.com/questions/tagged/Bing-API
+        title: Stack Overflow

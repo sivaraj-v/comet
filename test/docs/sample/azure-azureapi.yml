@@ -1,0 +1,21 @@
+### YamlMime:Sample
+metadata:
+  ms.date: 01/31/2020
+authors:
+- id: maririos
+  displayName: Mariana Rios Flores
+- id: AlexanderSher
+  displayName: Alexander Sher
+- id: annelo-msft
+  displayName: Anne Thompson
+codeUrl: https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples
+content: "\r\n\r\n\r\n\r\n- [Detect Language](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample1_DetectLanguage.md)\r\n- [Analyze Sentiment](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample2_AnalyzeSentiment.md)\r\n- [Extract Key Phrases](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample3_ExtractKeyPhrases.md)\r\n- [Recognize Entities](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample4_RecognizeEntities.md)\r\n- [Recognize PII Entities](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample5_RecognizePiiEntities.md)\r\n- [Recognize Linked Entities](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples/Sample6_RecognizeLinkedEntities.md)"
+languages:
+- csharp
+products:
+- azure
+- azure-text-analytics
+title: Azure Text Analytics samples for .NET
+description: Samples for the Azure.AI.TextAnalytics client library
+uid: Azure-azure-sdk-for-net-azure-text-analytics-client-sdk-samples
+zipUrl: https://github.com/Azure/azure-sdk-for-net/releases/download/118743/Azure_Text_Analytics_samples_for__NET.zip

@@ -1,0 +1,25 @@
+### YamlMime:ContentNav
+
+category:
+  href: /assessments/
+  title: Assessments
+items:
+  - title: Available assessments
+    items:
+      - href: /assessments/?id=azure-architecture-review
+        title: Microsoft Azure Well-Architected Review
+      - href: /assessments/?id=cloud-journey-tracker
+        title: Cloud Journey Tracker
+      - href: https://www.cafbaseline.com/
+        title: Governance Benchmark
+      - href: /assessments/?id=Strategic-Migration-Assessment
+        title: Strategic Migration Assessment and Readiness Tool
+      - href: https://developervelocityassessment.com/
+        title: Developer Velocity
+  - href: /assessments/support/
+    title: FAQ & Help
+callToAction:
+  primary:
+    title: Azure Free Trial
+    href: https://azure.microsoft.com/en-us/free/?utm_source=docs.microsoft.com/assessments/
+preview: true

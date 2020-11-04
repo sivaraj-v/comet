@@ -1,0 +1,83 @@
+### YamlMime:ContentNav
+
+category:
+  href: /azure
+  title: Azure
+items:
+  - title: Product documentation
+    items:
+      - title: Compute
+        href: /azure/?product=compute
+      - title: Networking
+        href: /azure/?product=networking
+      - title: Storage
+        href: /azure/?product=storage
+      - title: Web
+        href: /azure/?product=web
+      - title: Mobile
+        href: /azure/?product=mobile
+      - title: Containers
+        href: /azure/?product=containers
+      - title: Databases
+        href: /azure/?product=databases
+      - title: All products
+        href: /azure
+  - title: Architecture
+    items:
+      - title: Get started
+        href: /azure/architecture/guide/
+      - title: Reference architectures
+        href: /azure/architecture/architectures/reference-architectures
+      - title: Cloud Adoption Framework for Azure
+        href: /azure/cloud-adoption-framework/
+      - title: Azure Well-Architected Framework
+        href: /azure/architecture/framework/
+      - title: Design patterns
+        href: /azure/architecture/patterns/
+      - title: Assessments
+        href: /assessments/
+  - title: Learn Azure
+    items:
+      - title: Self-paced learning paths
+        href: /learn/azure/
+      - title: Pluralsight
+        href: https://go.microsoft.com/fwlink/?linkid=2012831
+      - title: Instructor-led courses
+        href: /learn/certifications/courses/browse/?products=azure
+  - title: Develop
+    items:
+      - title: Python
+        href: /azure/python/
+      - title: .NET
+        href: /dotnet/azure/
+      - title: JavaScript
+        href: /azure/javascript/
+      - title: Java
+        href: /azure/java/
+      - title: Go
+        href: /azure/go/
+  - title: Resources
+    items:
+      - title: Pricing
+        href: https://azure.microsoft.com/pricing/
+      - title: Contact sales
+        href: https://azure.microsoft.com/overview/sales-number/
+      - title: Videos
+        href: https://azure.microsoft.com/resources/videos/home/
+      - title: Webinars
+        href: https://azure.microsoft.com/overview/webinars/
+      - title: Updates
+        href: https://azure.microsoft.com/updates/
+      - title: White papers
+        href: https://azure.microsoft.com/resources/whitepapers/
+      - title: Blog
+        href: https://azure.microsoft.com/blog/
+      - title: Support
+        href: https://azure.microsoft.com/support/options/
+callToAction:
+  primary:
+    href: https://azure.microsoft.com/free/
+    title: Free account
+  secondary:
+    href: https://portal.azure.com
+    title: Portal

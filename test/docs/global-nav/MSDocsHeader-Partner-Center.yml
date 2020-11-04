@@ -1,0 +1,14 @@
+### YamlMime:ContentNav
+
+category:
+  href: /partner-center/
+  title: Partner Center
+items:
+  - href: https://partner.microsoft.com/commercial
+    title: Partner Network
+  - href: https://partner.microsoft.com/support
+    title: Support
+callToAction:
+  primary:
+    href: https://partner.microsoft.com/dashboard
+    title: Dashboard

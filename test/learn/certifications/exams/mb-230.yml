@@ -1,0 +1,75 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Customer Service
+metadata:
+  title: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
+  description: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
+uid: exam.mb-230-test
+displayName: MB-230
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>The content of this exam will be updated in April 2020. Please download the skills measured document below to learn more.<br/><br/></div>
+  
+  Candidates for this exam are Dynamics 365 functional consultants with customer service expertise. Candidates are responsible for implementing omnichannel solutions that focus upon service, quality, reliability, efficiency, and customer satisfaction.
+  <br/>
+
+  Candidates design and implement service management visualizations and reports provided by and in collaboration with the Solution Architect. Candidates collaborate with the Dynamics 365 administrator to implement and upgrade Power platform components, including knowledge base and Forms Pro.
+  
+  Candidates must have strong applied knowledge meeting user needs through the Dynamics 365 Customer Service, including in-depth understanding of cases, knowledge base, queues, entitlements, Service Level Agreements (SLAs), visualizations, and Unified Service Desk.
+  
+  Candidates should understand industry terminology, priorities, standards, methodologies, customer service operations, and best practices. Candidates should include a comprehensive understanding of the Customer Service application's role in relationship to the Dynamics 365 suite of applications along with a basic understanding of the solution architecture and quality assurance.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: perform configuration; manage cases and the knowledge base; manage queues, entitlements, and SLAs; and configure voice of the customer.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
+locales:
+- en
+levels:
+- intermediate
+skills:
+- The content of this exam will be updated in April 2020. Please download the skills measured document below to learn more.
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Perform configuration (25-30%)
+- Manage cases and the knowledge base (30-35%)
+- Manage queues, entitlements, and SLAs (25-30%)
+- Configure voice of the customer (15-20%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200-test
+courses:
+- uid: course.mb-230t01-test
+paths:
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-bizapps.dyn365-voice-of-customer
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-customer-service-test
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

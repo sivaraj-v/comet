@@ -1,0 +1,6 @@
+### YamlMime:ContextObject
+brand: azure
+breadcrumb_path: ./azure/breadcrumb.json
+toc_rel: ./azure/toc.yml
+searchScope:
+- Azure

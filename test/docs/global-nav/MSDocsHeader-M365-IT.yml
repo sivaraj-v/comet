@@ -1,0 +1,65 @@
+### YamlMime:ContentNav
+
+category:
+  href: /microsoft-365/
+  title: Microsoft 365
+
+
+items:
+  - title: Solutions and architecture
+    items:
+      - title: Get started
+        href: /microsoft-365/solutions/solution-architecture-center
+      - title: Empower remote workers
+        href: /microsoft-365/solutions/empower-people-to-work-remotely
+      - title: Set up secure collaboration
+        href: /microsoft-365/solutions/setup-secure-collaboration-with-teams
+      - title: Deploy threat protection
+        href: /microsoft-365/solutions/deploy-threat-protection
+      - title: Deploy information protection
+        href: /microsoft-365/solutions/information-protection-deploy
+      - title: Microsoft 365 for campaigns (security guidance for all small businesses)
+        href: /microsoft-365/campaigns/
+  - title: Apps and services
+    items:
+      - title: Microsoft Teams
+        href: /MicrosoftTeams
+      - title: Microsoft 365 admin center 
+        href: /microsoft-365/admin/
+      - title: Microsoft 365 Apps
+        href: /DeployOffice
+      - title: Microsoft 365 compliance 
+        href: /microsoft-365/compliance/
+      - title: Microsoft 365 security 
+        href: /microsoft-365/security/
+      - title: SharePoint
+        href: /sharepoint
+      - title: OneDrive
+        href: /onedrive
+      - title: All apps and services
+        href: /microsoft-365
+  - title: Training
+    items:
+      - title: Training for IT Pros 
+        href: /learn/m365/
+      - title: Certification
+        href: https://www.microsoft.com/learning/microsoft365-training.aspx
+      - title: Microsoft 365 learning pathways
+        href: /office365/customlearning/
+  - title: Resources
+    items:
+      - title: Microsoft 365 support 
+        href: https://support.microsoft.com/microsoft-365
+      - title: FastTrack 
+        href: https://www.microsoft.com/fasttrack/microsoft-365
+      - title: Troubleshooting 
+        href: /office/troubleshoot
+      - title: Microsoft 365 tech community 
+        href: https://techcommunity.microsoft.com/t5/Microsoft-365/ct-p/microsoft365
+      - title: Resources for developers 
+        href: https://developer.microsoft.com/microsoft-365
+
+callToAction:
+  primary:
+    href: https://www.microsoft.com/microsoft-365/microsoft-365-business-standard-one-month-trial
+    title: Free Account

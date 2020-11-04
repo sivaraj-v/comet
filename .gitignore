@@ -4,5 +4,7 @@ _site/
 .optemp/
 _themes*/
 _repo.*/
-
+_model/
+_viewmodel/
+_dependentPackages/
 .openpublishing.buildcore.ps1

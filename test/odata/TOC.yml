@@ -1,0 +1,26 @@
+- name: Index
+  href: index.md
+- name: EntityType
+  items:
+  - name: activitypointer
+    uid: Microsoft.Dynamics.CRM.activitypointer
+- name: Function
+  items:
+  - name: Function
+    uid: Microsoft.Dynamics.CRM.FunctionIndex
+  - name: CalculateTotalTimeIncident
+    uid: Microsoft.Dynamics.CRM.CalculateTotalTimeIncident
+  - name: CRM.RetrieveExchangeRate
+    uid: Microsoft.Dynamics.CRM.RetrieveExchangeRate
+- name: QueryFunction
+  items:
+  - name: Above
+    uid: Microsoft.Dynamics.CRM.Above
+- name: ComplexType
+  items:
+  - name: MailboxTrackingFolderMapping
+    uid: Microsoft.Dynamics.CRM.MailboxTrackingFolderMapping
+- name: EnumType
+  items:
+  - name: RelationshipType
+    uid: Microsoft.Dynamics.CRM.RelationshipType

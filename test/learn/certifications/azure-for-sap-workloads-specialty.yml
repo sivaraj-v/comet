@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+metadata:
+  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
+  description: Architects of Azure for SAP Workloads have extensive experience and knowledge of the SAP Landscape Certification process and industry standards that are specific to the long-term operation of an SAP solution.
+uid: certification.azure-for-sap-workloads-specialty-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Architects of Azure for SAP Workloads have extensive experience and knowledge of the SAP Landscape Certification process and industry standards that are specific to the long-term operation of an SAP solution.
+subTitle: Architects of Azure for SAP Workloads have extensive experience and knowledge of the SAP Landscape Certification process and industry standards that are specific to the long-term operation of an SAP solution.
+levels:
+- advanced
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Migrate SAP Workloads to Azure
+- Design an Azure Solution to Support SAP Workloads
+- Build and Deploy Azure SAP Workloads
+- Validate Azure Infrastructure for SAP Workloads
+- Operationalize Azure SAP Architecture
+roles:
+- administrator
+- solution-architect
+type: specialty
+products:
+- azure
+courses:
+- uid: course.az-120t00-test
+paths:
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.sap-certified-offerings-azure
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
+exams:
+- uid: exam.az-300-test
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

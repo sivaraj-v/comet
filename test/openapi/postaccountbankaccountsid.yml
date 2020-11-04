@@ -1,0 +1,8 @@
+### YamlMime:OpenAPIGroup
+uid: media.postaccountbankaccountsid
+name: PostAccountBankAccountsId
+groupType: operations
+groupItems:
+- media.postaccountbankaccountsid.postaccountbankaccountsid
+apiVersion: 2019-05-16
+service: media

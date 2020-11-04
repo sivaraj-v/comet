@@ -1,0 +1,61 @@
+[
+	{
+		"toc_title": "API Browser",
+		"href": "/test/docs/apiBrowser/index",
+		"level": 1,
+		"children": [
+			{
+				"href": "/test/docs/apiBrowser/dotnet",
+				"homepage": "/test/docs/apiBrowser/index",
+				"toc_title": ".NET",
+				"level": 2
+			},
+			{
+				"href": "/test/docs/apiBrowser/powershell",
+				"homepage": "/test/docs/apiBrowser/index",
+				"toc_title": "PowerShell",
+				"level": 2
+			}
+		]
+	},
+	{
+		"href": "/test/docs/",
+		"homepage": "/test/docs/index",
+		"toc_title": "Test",
+		"level": 1,
+		"children": [
+			{
+				"href": "/test/docs/assessments/",
+				"homepage": "/test/docs/assessments/index",
+				"toc_title": "Assessments",
+				"level": 2
+			},
+			{
+				"href": "/test/docs/legacy/hubPage/aspnet",
+				"homepage": "/test/docs/legacy/hubPage/aspnet",
+				"toc_title": "Hub Pages",
+				"level": 2
+			},
+			{
+				"href": "/test/docs/legacy/landingPages/azureCat",
+				"homepage": "/test/docs/legacy/landingPages/azureCat",
+				"toc_title": "Landing Pages",
+				"level": 2
+			},
+			{
+				"href": "/test/docs/browse/",
+				"homepage": "/test/docs/browse/",
+				"toc_title": "Browse",
+				"level": 2,
+				"children": [
+					{
+						"href": "/test/docs/browse/sample",
+						"homepage": "/test/docs/browse/sample",
+						"toc_title": "Browse samples",
+						"level": 3
+					}
+				]
+			}
+		]
+	}
+]

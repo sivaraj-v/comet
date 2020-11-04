@@ -1,0 +1,327 @@
+### YamlMime:ContentNav
+
+category:
+  href: /
+  title: Microsoft Azure operated by 21Vianet
+items:
+  - title: Why Azure
+    items:
+      - href: https://updates.azure.cn/what-is-azure/
+        title: What is Azure
+      - href: https://www.microsoft.com/china/azure
+        title: Microsoft Azure operated by 21Vianet vs. Global Azure
+      - href: https://azure.microsoft.com/zh-cn/global-infrastructure/services/?products=all&regions=china-non-regional,china-north,china-north-2,china-east,china-east-2
+        title: Azure Services Availability
+      - href: https://webinars.azure.cn/zh-cn/webinars/
+        title: Azure Webinars
+  - title: Products
+    items:
+      - title: AI
+        items:
+          - href: https://azure.microsoft.com/services/cognitive-services/
+            title: Cognitive Services
+          - href: https://azure.microsoft.com/services/cognitive-services/face/
+            title: Face
+          - href: https://azure.microsoft.com/services/cognitive-services/computer-vision/
+            title: Computer Vision
+          - href: https://azure.microsoft.com/services/cognitive-services/content-moderator/
+            title: Content Moderator
+          - href: https://azure.microsoft.com/services/cognitive-services/ext-analytics/
+            title: Text Analytics
+          - href: https://azure.microsoft.com/services/cognitive-services/translator-text-api/
+            title: Translator Text
+          - href: https://azure.microsoft.com/services/cognitive-services/language-understanding-intelligent-service/
+            title: Language Understanding
+          - href: https://azure.microsoft.com/services/cognitive-services/speech-services
+            title: Speech Services
+      - href: https://azure.microsoft.com/overview/azure-stack/
+        title: Azure Stack
+      - title: Security
+        items:
+          - href: https://azure.microsoft.com/services/key-vault/
+            title: Key Vault
+          - href: https://azure.microsoft.com/services/active-directory/
+            title: Azure Active Directory
+          - href: https://azure.microsoft.com/services/application-gateway/
+            title: Application Gateway
+          - href: https://azure.microsoft.com/services/vpn-gateway/
+            title: VPN Gateway
+          - href: https://azure.microsoft.com/services/security-center/
+            title: Security Center
+          - href: https://azure.microsoft.com/services/information-protection/
+            title: Azure Information Protection
+      - title: Identity
+        items:
+          - href: https://azure.microsoft.com/services/active-directory/
+            title: Azure Active Directory
+          - href: https://azure.microsoft.com/services/active-directory-b2c/
+            title: Azure Active Directory B2C
+          - href: https://www.azure.cn/home/features/multi-factor-authentication/
+            title: Multi-Factor Authentication
+          - href: https://azure.microsoft.com/services/information-protection/
+            title: Azure Information Protection
+      - title: Storage
+        items:
+          - href: https://azure.microsoft.com/services/storage/
+            title: Azure Storage
+          - href: https://azure.microsoft.com/services/storage/blobs/
+            title: Blob Storage
+          - href: https://azure.microsoft.com/services/storage/data-lake-storage/
+            title: Azure Data Lake Storage
+          - href: https://azure.microsoft.com/services/storage/disks/
+            title: Disk Storage
+          - href: https://azure.microsoft.com/services/storage/disks/
+            title: Managed Disks
+          - href: https://azure.microsoft.com/services/storage/queues/
+            title: Queues Storage
+          - href: https://azure.microsoft.com/services/storage/files/
+            title: File Storage
+      - title: Analytics
+        items:
+          - href: https://azure.microsoft.com/services/synapse-analytics/
+            title: SQL Data Warehouse
+          - href: https://azure.microsoft.com/services/hdinsight/
+            title: HDInsight
+          - href: https://azure.microsoft.com/services/stream-analytics/
+            title: Stream Analytics
+          - href: https://azure.microsoft.com/services/power-bi-embedded/
+            title: Power BI Embedded
+          - href: https://azure.microsoft.com/services/analysis-services/
+            title: Azure Analysis Services
+          - href: https://azure.microsoft.com/services/event-hubs/
+            title: Event Hubs
+          - href: https://azure.microsoft.com/services/data-factory/
+            title: Data Factory
+          - href: https://azure.microsoft.com/services/data-explorer/
+            title: Azure Data Explorer
+      - title: Management Tools
+        items:
+          - href: https://azure.microsoft.com/features/azure-portal/
+            title: Azure Portal
+          - href: https://azure.microsoft.com/services/advisor/
+            title: Azure Advisor
+          - href: https://azure.microsoft.com/services/automation/
+            title: Automation
+          - href: https://azure.microsoft.com/services/backup/
+            title: Backup
+          - href: https://azure.microsoft.com/services/site-recovery/
+            title: Site Recovery
+          - href: https://azure.microsoft.com/services/scheduler/
+            title: Scheduler
+          - href: https://azure.microsoft.com/services/monitor/
+            title: Azure Monitor
+          - href: https://azure.microsoft.com/features/service-health/
+            title: Azure Service Health
+          - href: https://azure.microsoft.com/services/traffic-manager/
+            title: Traffic Manager
+          - href: https://azure.microsoft.com/services/network-watcher/
+            title: Network Watcher
+          - href: https://azure.microsoft.com/services/azure-policy/
+            title: Azure Policy
+          - href: https://azure.microsoft.com/features/resource-manager/
+            title: Azure Resource Manager
+          - href: https://www.azure.cn/home/features/resource-graph/
+            title: Azure Resource Graph
+      - title: Integration
+        items:
+          - href: https://azure.microsoft.com/services/service-bus/
+            title: Service Bus
+          - href: https://azure.microsoft.com/services/api-management/
+            title: API Management
+          - href: https://azure.microsoft.com/services/event-grid/
+            title: Event Grid
+      - title: Compute
+        items:
+          - href: https://azure.microsoft.com/services/virtual-machines/
+            title: Virtual Machines
+          - href: https://azure.microsoft.com/services/virtual-machine-scale-sets/
+            title: Virtual Machine Scale Sets
+          - href: https://azure.microsoft.com/services/app-service/
+            title: App Service
+          - href: https://azure.microsoft.com/services/batch/
+            title: Batch
+          - href: https://azure.microsoft.com/services/service-fabric/
+            title: Service Fabric
+          - href: https://azure.microsoft.com/services/cloud-services/
+            title: Cloud Services
+          - href: https://azure.microsoft.com/services/functions/
+            title: Azure Functions
+          - href: https://azure.microsoft.com/services/kubernetes-service/
+            title: Azure Kubernetes Service (AKS)
+      - title: Networking
+        items:
+          - href: https://azure.microsoft.com/services/cdn/
+            title: CDN
+          - href: https://azure.microsoft.com/services/expressroute/
+            title: Express Route
+          - href: https://azure.microsoft.com/services/dns/
+            title: Azure DNS
+          - href: https://azure.microsoft.com/services/virtual-network/
+            title: Virtual Network
+          - href: https://azure.microsoft.com/services/traffic-manager/
+            title: Traffic Manager
+          - href: https://azure.microsoft.com/services/load-balancer/
+            title: Load Balancer
+          - href: https://azure.microsoft.com/services/vpn-gateway/
+            title: VPN Gateway
+          - href: https://azure.microsoft.com/services/application-gateway/
+            title: Application Gateway
+          - href: https://azure.microsoft.com/services/network-watcher/
+            title: Network Watcher
+          - href: https://www.azure.cn/home/features/cloud-connection-service/
+            title: Cloud Connection Service
+          - href: https://azure.microsoft.com/services/azure-firewall/
+            title: Azure Firewall
+          - href: https://azure.microsoft.com/services/virtual-wan/
+            title: Azure Virtual WAN
+      - href: https://azure.microsoft.com/services/media-services/
+        title: Media Services
+      - title: Migration
+        items:
+          - href: https://azure.microsoft.com/services/database-migration/
+            title: Azure Database Migration Service
+          - href: https://azure.microsoft.com/services/site-recovery/
+            title: Site Recovery
+      - title: Containers
+        items:
+          - href: https://azure.microsoft.com/services/service-fabric/
+            title: Service Fabric
+          - href: https://azure.microsoft.com/services/container-registry/
+            title: Container Registry
+          - href: https://azure.microsoft.com/services/container-registry/
+            title: Container Registry
+          - href: https://azure.microsoft.com/services/app-service/
+            title: App Service
+          - href: https://azure.microsoft.com/services/batch/
+            title: Batch
+          - href: https://azure.microsoft.com/services/kubernetes-service/
+            title: Azure Kubernetes Service (AKS)
+          - href: https://azure.microsoft.com/services/container-instances/
+            title: Container Instances
+      - title: Databases
+        items:
+          - href: https://azure.microsoft.com/services/sql-database/
+            title: Azure SQL Databases
+          - href: https://azure.microsoft.com/services/synapse-analytics/
+            title: SQL Data Warehouse
+          - href: https://azure.microsoft.com/services/sql-server-stretch-database/
+            title: SQL Server Stretch Database
+          - href: https://azure.microsoft.com/services/cosmos-db/
+            title: Azure Cosmos DB
+          - href: https://azure.microsoft.com/services/cache/
+            title: Azure Cache for Redis
+          - href: https://azure.microsoft.com/services/postgresql/
+            title: Azure Database for PostgreSQL
+          - href: https://azure.microsoft.com/services/mysql/
+            title: Azure Database for MySQL
+          - href: https://azure.microsoft.com/services/mariadb/
+            title: Azure Database for MariaDB
+          - href: https://azure.microsoft.com/services/data-factory/
+            title: Data Factory
+          - href: https://azure.microsoft.com/services/database-migration/
+            title: Azure Database Migration Service
+      - title: Web
+        items:
+          - href: https://azure.microsoft.com/services/app-service/
+            title: App Service
+          - href: https://azure.microsoft.com/services/app-service/web/
+            title: Web Apps
+          - href: https://azure.microsoft.com/services/notification-hubs/
+            title: Notification Hubs
+          - href: https://azure.microsoft.com/services/api-management/
+            title: API Management
+          - href: https://azure.microsoft.com/services/cdn/
+            title: CDN
+          - href: https://azure.microsoft.com/services/signalr-service/
+            title: Azure SignalR Service
+      - title: Internet of Things
+        items:
+          - href: https://azure.microsoft.com/services/iot-hub/
+            title: Azure IoT Hub
+          - href: https://azure.microsoft.com/services/iot-edge/
+            title: Azure IoT Edge
+          - href: https://azure.microsoft.com/services/event-hubs/
+            title: Event Hubs
+          - href: https://azure.microsoft.com/services/event-grid/
+            title: Event Grid
+          - href: https://azure.microsoft.com/services/stream-analytics/
+            title: Stream Analytics
+          - href: https://azure.microsoft.com/services/logic-apps/
+            title: Logic Apps
+          - href: https://azure.microsoft.com/services/notification-hubs/
+            title: Notification Hubs
+          - href: https://azure.microsoft.com/services/cosmos-db/
+            title: Azure Cosmos DB
+          - href: https://azure.microsoft.com/services/api-management/
+            title: API Management
+          - href: https://azure.microsoft.com/services/time-series-insights/
+            title: Azure Time Series Insights
+      - title: Mobile
+        items:
+          - href: https://azure.microsoft.com/services/app-service/
+            title: App Service
+          - href: https://azure.microsoft.com/services/app-service/web/
+            title: Web Apps
+          - href: https://azure.microsoft.com/services/app-service/mobile/
+            title: Mobile Apps
+          - href: https://azure.microsoft.com/services/notification-hubs/
+            title: Notification Hubs
+          - href: https://azure.microsoft.com/services/app-service/api/
+            title: API Apps
+  - href: https://www.azure.cn/pricing/
+    title: Pricing
+  - href: https://azure.microsoft.com/zh-cn/solutions/
+    title: Solutions
+  - title: Partners
+    items:
+      - href: https://customers.azure.cn/
+        title: Case Studies
+      - href: https://www.microsoft.com/solution-providers/home
+        title: Find a partner
+  - title: Purchase and Billing
+    items:
+      - href: /articles/azure-china-purchasing-guidance/
+        title: Azure China Purchase Guidance
+      - href: /articles/azure-global-purchasing-guidance/
+        title: Azure Global Purchasing Guide
+      - href: /billing/
+        title: Azure China Billing Documentation
+      - href: /enterprise-agreement-billing/
+        title: Azure China EA Billing Documentation
+      - href: /articles/azure-china-migration-playbook/
+        title: Azure China Cloud Migration Guide
+  - href: https://azure.microsoft.com/zh-cn/blog/
+    title: Blog
+  - href: https://docs.microsoft.com/zh-cn/learn/azure/
+    title: Training
+  - title: Support
+    items:
+      - href: https://support.azure.cn/zh-cn/support/contact/
+        title: Contact Us
+      - href: https://support.azure.cn/zh-cn/support/plans/
+        title: Support Plan
+      - href: https://status.azure.com/status
+        title: Service Dashboard
+      - href: https://www.azure.cn/support/legal/
+        title: Legal Information
+      - href: https://www.trustcenter.cn/en-us/
+        title: Trust Center
+      - href: https://updates.azure.cn/azure-ip-advantage/
+        title: Azure IP Advantage
+      - href: https://www.azure.cn/support/icp/
+        title: ICP Filling
+      - href: https://www.azure.cn/support/announcement/public-security-registration/
+        title: Public Security Registration
+      - href: https://support.azure.cn/zh-cn/support/faq/
+        title: FAQ
+  - href: https://market.azure.cn/
+    title: Marketplace
+  - href: https://azure.microsoft.com/global-infrastructure/china/
+    title: Azure Global/China
+callToAction:
+  primary:
+    href: https://wd.azure.cn/pricing/1rmb-trial/
+    title: 1RMB Trial
+  secondary:
+    href: https://portal.azure.cn/
+    title: Portal

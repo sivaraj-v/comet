@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-test.manage-resources-in-azure
+hidden: true
+metadata:
+  title: Manage resources in Azure learning path
+  description: Learn how to work with the Azure command line and web portal to create, manage, retrieve your app's data, and control cloud based resources.
+  brand: azure
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Manage resources in Azure
+summary: Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.
+prerequisites: None
+iconUrl: /learn/achievements/manage-resources-in-azure.svg
+levels:
+- beginner
+roles:
+- developer
+- solution-architect
+- administrator
+products:
+- azure
+- azure-clis
+- azure-portal
+- azure-cost-management
+modules:
+- learn-test.align-requirements-in-azure
+- learn-test.control-azure-services-with-cli
+- learn-test.automate-azure-tasks-with-powershell
+- learn-test.predict-costs-and-optimize-spending
+- learn-test.control-and-organize-with-resource-manager
+- learn-test.azure.move-azure-resources-to-another-resource-group
+trophy:
+  uid: learn-test.manage-resources-in-azure.trophy

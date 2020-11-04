@@ -1,0 +1,32 @@
+### YamlMime:ContentNav
+
+category:
+  href: /
+  title: Power Automate
+items:
+  - href: https://flow.microsoft.com/templates
+    title: Templates
+  - href: https://flow.microsoft.com/connectors
+    title: Connectors
+  - title: Learn Power Automate
+    items:
+      - href: https://go.microsoft.com/fwlink/p/?linkid=2018566
+        title: Guided Learning
+      - href: https://flow.microsoft.com/support
+        title: Support
+      - href: https://go.microsoft.com/fwlink/?LinkID=787467
+        title: Community
+      - href: https://go.microsoft.com/fwlink/?LinkID=787474
+        title: Give Feedback
+      - href: https://flow.microsoft.com/blog
+        title: Blog
+      - href: https://flow.microsoft.com/pricing
+        title: Pricing
+callToAction:
+  primary:
+    href: https://flow.microsoft.com/signin
+    title: Open Power Automate
+  secondary:
+    href: https://flow.microsoft.com/
+    title: Free account
+

@@ -1,0 +1,41 @@
+### YamlMime:Certification
+title: Microsoft Certified Educator
+metadata:
+  title: Microsoft Certified Educator
+  description: Microsoft Certified Educator
+uid: certification.microsoft-certified-educator-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  The Microsoft Certified Educator (MCE) certification validates that educators have the global educator technology literacy competencies needed to provide a rich, custom learning experience for students.
+  MCE certification is ideal for educators-in-training, faculty of teacher training colleges, and in-service educators.
+
+  Microsoft offers a comprehensive e-learning curriculum, 21CLD, to help educators prepare for this rigorous exam.
+
+  **Note** The Microsoft Certified Educator exam assesses whether educators understand how to apply technology tools in the six different content domains, not whether they are proficient in using specific technology tools. If you are looking for information on getting certified to teach specific Microsoft products and technologies, visit the [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx) page.
+subTitle: The Microsoft Certified Educator (MCE) certification validates that educators have the global educator technology literacy competencies needed to provide a rich, custom learning experience for students.
+levels:
+- advanced
+skills:
+- Facilitate student collaboration
+- Facilitate skilled communication
+- Facilitate self-regulation
+- Facilitate real-world problem solving and innovation
+- Facilitate student use of Information and Communication Tools (ICT)
+- Use ICT to be an effective educator
+roles:
+- developer
+type: mce
+products:
+- windows
+exams:
+- uid: exam.mb-200-test
+resources:
+- title: Innovative Teaching and Learning (ITL) Research project
+  description: Innovative Teaching and Learning (ITL) Research project
+  href: https://education.microsoft.com/GetTrained/ITL-Research
+- title: Study Guide
+  description: Find training materials to prepare for the exam
+  href: http://aka.ms/MCEStudyGuide
+- title: Exam Replay
+  description: Digital Kit for the Teach the Future Now Campaign (poster, data sheet, and MCE exam objective domain)
+  href: http://aka.ms/MCEAssets

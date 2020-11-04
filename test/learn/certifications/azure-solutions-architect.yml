@@ -1,0 +1,95 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Solutions Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Azure Solutions Architect Expert'
+  description: 'Microsoft Azure Solutions Architects must have expertise in compute, network, storage, and security so that they can design solutions that run on Azure.'
+uid: certification.azure-solutions-architect-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Microsoft Azure Solutions Architects must have expertise in compute, network, storage, and security so that they can design solutions that run on Azure.
+subTitle: Microsoft Azure Solutions Architects must have expertise in compute, network, storage, and security so that they can design solutions that run on Azure.
+levels:
+- advanced
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Deploy and configure infrastructure
+- Implement workloads and security
+- Create and deploy apps
+- Implement authentication and secure data
+- Develop for the cloud and for Azure storage
+- Determine workload requirements
+- Design for identity and security
+- Design a data platform solution
+- Design a business continuity strategy
+- Design for deployment, migration, and integration
+- Design an infrastructure strategy
+roles:
+- solution-architect
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+
+courses:
+- uid: course.az-300t01-test
+- uid: course.az-300t02-test
+- uid: course.az-300t03-test
+- uid: course.az-300t04-test
+- uid: course.az-300t06-test
+- uid: course.az-301t01-test
+- uid: course.az-301t02-test
+- uid: course.az-301t03-test
+- uid: course.az-301t04-test
+paths:
+- uid: learn.architect-great-solutions-in-azure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUW
+exams:
+- uid: exam.az-300-test
+- uid: exam.az-301-test
+resources:
+- title: Certification learning path
+  description: 'Discover training resources to become a Microsoft Certified: Azure Solutions Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

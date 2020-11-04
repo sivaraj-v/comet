@@ -1,0 +1,246 @@
+### YamlMime:RESTOperation
+uid: management.azure.com.appservice.provider.getavailablestacks
+name: Get Available Stacks
+service: App Service
+groupName: Provider
+apiVersion: 2019-08-01
+summary: "Get available application frameworks and their versions  \nDescription for Get available application frameworks and their versions"
+consumes:
+- application/json
+produces:
+- application/json
+paths:
+- content: GET https://management.azure.com/providers/Microsoft.Web/availableStacks?api-version=2019-08-01
+- content: GET https://management.azure.com/providers/Microsoft.Web/availableStacks?osTypeSelected={osTypeSelected}&api-version=2019-08-01
+  isOptional: true
+uriParameters:
+- name: osTypeSelected
+  in: query
+  types:
+  - uid: string
+- name: api-version
+  in: query
+  isRequired: true
+  description: API Version
+  types:
+  - uid: string
+responses:
+- name: 200 OK
+  description: OK
+  types:
+  - uid: ApplicationStackCollection
+- name: Other Status Codes
+  description: App Service error response.
+  types:
+  - uid: DefaultErrorResponse
+requestHeader: []
+definitions:
+- name: ApplicationStackCollection
+  description: Collection of Application Stacks
+  kind: object
+  properties:
+  - name: value
+    description: Collection of resources.
+    types:
+    - uid: ApplicationStackResource
+      isArray: true
+  - name: nextLink
+    isReadyOnly: true
+    description: Link to next page of resources.
+    types:
+    - uid: string
+- name: DefaultErrorResponse
+  description: App Service error response.
+  kind: object
+  properties:
+  - name: error
+    isReadyOnly: true
+    description: Error model.
+    types:
+    - uid: Error
+- name: ApplicationStackResource
+  description: ARM resource for a ApplicationStack.
+  kind: object
+  properties:
+  - name: properties.name
+    description: Application stack name.
+    types:
+    - uid: string
+  - name: properties.display
+    description: Application stack display name.
+    types:
+    - uid: string
+  - name: properties.dependency
+    description: Application stack dependency.
+    types:
+    - uid: string
+  - name: properties.majorVersions
+    description: List of major versions available.
+    types:
+    - uid: StackMajorVersion
+      isArray: true
+  - name: properties.frameworks
+    description: List of frameworks associated with application stack.
+    types:
+    - uid: ApplicationStack
+      isArray: true
+  - name: id
+    isReadyOnly: true
+    description: Resource Id.
+    types:
+    - uid: string
+  - name: name
+    isReadyOnly: true
+    description: Resource Name.
+    types:
+    - uid: string
+  - name: kind
+    description: Kind of resource.
+    types:
+    - uid: string
+  - name: type
+    isReadyOnly: true
+    description: Resource type.
+    types:
+    - uid: string
+- name: Error
+  description: Error model.
+  kind: object
+  properties:
+  - name: code
+    isReadyOnly: true
+    description: Standardized string to programmatically identify the error.
+    types:
+    - uid: string
+  - name: message
+    isReadyOnly: true
+    description: Detailed error description and debugging information.
+    types:
+    - uid: string
+  - name: target
+    isReadyOnly: true
+    description: Detailed error description and debugging information.
+    types:
+    - uid: string
+  - name: details
+    description: Detailed errors.
+    types:
+    - uid: Details
+      isArray: true
+  - name: innererror
+    isReadyOnly: true
+    description: More information to debug error.
+    types:
+    - uid: string
+- name: StackMajorVersion
+  description: Application stack major version.
+  kind: object
+  properties:
+  - name: displayVersion
+    description: Application stack major version (display only).
+    types:
+    - uid: string
+  - name: runtimeVersion
+    description: Application stack major version (runtime only).
+    types:
+    - uid: string
+  - name: isDefault
+    description: <code>true</code> if this is the default major version; otherwise, <code>false</code>.
+    types:
+    - uid: boolean
+  - name: minorVersions
+    description: Minor versions associated with the major version.
+    types:
+    - uid: StackMinorVersion
+      isArray: true
+  - name: applicationInsights
+    description: <code>true</code> if this supports Application Insights; otherwise, <code>false</code>.
+    types:
+    - uid: boolean
+  - name: isPreview
+    description: <code>true</code> if this stack is in Preview, otherwise <code>false</code>.
+    types:
+    - uid: boolean
+  - name: isDeprecated
+    description: <code>true</code> if this stack has been deprecated, otherwise <code>false</code>.
+    types:
+    - uid: boolean
+  - name: isHidden
+    description: <code>true</code> if this stack should be hidden for new customers on portal, otherwise <code>false</code>.
+    types:
+    - uid: boolean
+- name: ApplicationStack
+  description: Application stack.
+  kind: object
+  properties:
+  - name: name
+    description: Application stack name.
+    types:
+    - uid: string
+  - name: display
+    description: Application stack display name.
+    types:
+    - uid: string
+  - name: dependency
+    description: Application stack dependency.
+    types:
+    - uid: string
+  - name: majorVersions
+    description: List of major versions available.
+    types:
+    - uid: StackMajorVersion
+      isArray: true
+  - name: frameworks
+    description: List of frameworks associated with application stack.
+    types:
+    - uid: ApplicationStack
+      isArray: true
+- name: Details
+  kind: object
+  properties:
+  - name: code
+    isReadyOnly: true
+    description: Standardized string to programmatically identify the error.
+    types:
+    - uid: string
+  - name: message
+    isReadyOnly: true
+    description: Detailed error description and debugging information.
+    types:
+    - uid: string
+  - name: target
+    isReadyOnly: true
+    description: Detailed error description and debugging information.
+    types:
+    - uid: string
+- name: StackMinorVersion
+  description: Application stack minor version.
+  kind: object
+  properties:
+  - name: displayVersion
+    description: Application stack minor version (display only).
+    types:
+    - uid: string
+  - name: runtimeVersion
+    description: Application stack minor version (runtime only).
+    types:
+    - uid: string
+  - name: isDefault
+    description: <code>true</code> if this is the default minor version; otherwise, <code>false</code>.
+    types:
+    - uid: boolean
+  - name: isRemoteDebuggingEnabled
+    description: <code>true</code> if this supports Remote Debugging, otherwise <code>false</code>.
+    types:
+    - uid: boolean
+examples: []
+security:
+- name: azure_auth
+  type: oauth2
+  description: Azure Active Directory OAuth2 Flow
+  flow: implicit
+  authorizationUrl: https://login.microsoftonline.com/common/oauth2/authorize
+  scopes:
+  - name: user_impersonation
+    description: impersonate your user account
+errorCodes: []

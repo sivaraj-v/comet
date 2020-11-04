@@ -1,0 +1,70 @@
+### YamlMime:ContentNav
+
+category:
+  href: /aspnet/
+  title: ASP.NET
+items:
+  - title: Languages
+    items:
+      - href: /dotnet/csharp/
+        title: C#
+      - href: /dotnet/fsharp/
+        title: F#
+      - href: /dotnet/visual-basic/
+        title: Visual Basic
+  - title: Workloads
+    items:
+      - href: /aspnet/core/
+        title: Web
+      - href: /xamarin/
+        title: Mobile
+      - href: /dotnet/azure/
+        title: Cloud
+      - title: Desktop
+        items:
+          - href: /dotnet/desktop-wpf/
+            title: Windows Presentation Foundation
+          - href: /dotnet/framework/winforms/
+            title: Windows Forms
+          - href: /windows/uwp/
+            title: Universal Windows apps
+      - title: Machine Learning & Data
+        items:
+          - href: /dotnet/machine-learning/
+            title: ML.NET
+          - href: /dotnet/spark/
+            title: .NET for Apache Spark
+          - href: /ef/
+            title: Entity Framework
+  - title: APIs
+    items:
+      - href: /dotnet/api/?view=netcore-3.1 
+        title: .NET Core
+      - href: /dotnet/api/?view=netframework-4.8
+        title: .NET Framework
+      - href: /dotnet/api/?view=aspnetcore-3.1
+        title: ASP.NET
+      - href: /dotnet/api/?view=ml-dotnet
+        title: ML.NET
+      - href: /dotnet/api/?view=efcore-3.1
+        title: EF Core
+  - title: Resources
+    items:
+      - href: https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet
+        title: What is .NET?
+      - href: https://dotnet.microsoft.com/learn/dotnet/architecture-guides
+        title: .NET Architecture Guides
+      - href: https://dotnet.microsoft.com/learn
+        title: Learning Materials
+      - href: https://dotnet.microsoft.com/download
+        title: Downloads
+      - href: https://dotnet.microsoft.com/platform/community
+        title: Community
+      - href: https://dotnet.microsoft.com/platform/support
+        title: Support
+      - href: https://devblogs.microsoft.com/aspnet/
+        title: Blog
+callToAction:
+  primary:
+    href: https://dotnet.microsoft.com/download
+    title: Download .NET

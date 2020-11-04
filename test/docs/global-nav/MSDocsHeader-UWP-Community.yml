@@ -1,0 +1,56 @@
+### YamlMime:ContentNav
+
+category:
+  href: /windows/communitytoolkit/
+  title: Windows Community Toolkit
+items:
+  - title: Overview
+    items:
+      - href: /windows/communitytoolkit/getting-started
+        title: Get Started
+      - href: https://aka.ms/windowstoolkitapp
+        title: Sample App
+      - href: https://github.com/windows-toolkit/WindowsCommunityToolkit/milestones
+        title: Roadmap       
+  - title: Community
+    items:
+      - href: https://github.com/windows-toolkit/WindowsCommunityToolkit
+        title: Code repository
+      - href: https://github.com/windows-toolkit/WindowsCommunityToolkit/blob/master/contributing.md
+        title: Contribute
+      - href: https://github.com/windows-toolkit/WindowsCommunityToolkit/graphs/contributors
+        title: Contributors
+      - href: https://github.com/windows-toolkit/WindowsCommunityToolkit/wiki
+        title: Project Wiki
+  - title: UWP
+    items:
+      - href: https://developer.microsoft.com/windows/apps
+        title: Create UWP apps
+      - href: https://aka.ms/wts
+        title: Windows Template Studio
+      - href: https://docs.microsoft.com/windows/uwp/design/
+        title: Design Guidelines
+      - href: http://aka.ms/xamlcontrolsgallery
+        title: XAML Controls Gallery
+      - href: https://aka.ms/winui
+        title: WinUI Controls
+      - href: https://aka.ms/XAMLStudio
+        title: XAML Studio
+      - href: /uwp
+        title: UWP API reference
+      - href: https://developer.microsoft.com/windows/downloads
+        title: Get the SDK
+      - href: /windows/uwp/whats-new/windows-10-version-latest
+        title: Lastest SDK Changes
+      - href: https://developer.microsoft.com/windows/samples
+        title: UWP samples
+      - href: https://developer.microsoft.com/windows/support
+        title: Support
+  - title: Resources
+    items:
+      - href: https://github.com/windows-toolkit/WindowsCommunityToolkit/issues
+        title: GitHub Issues
+      - href: https://discord.com/invite/zBA5aCn
+        title: UWP Community Discord
+      - href: https://stackoverflow.com/questions/tagged/windows-community-toolkit
+        title: Stack Overflow

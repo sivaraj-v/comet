@@ -1,0 +1,9372 @@
+### YamlMime:ExamPricing
+exams:
+- examType: '77'
+  price:
+    countryCode: US
+    amount: 100
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: MO
+  price:
+    countryCode: US
+    amount: 100
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: '62'
+  availability:
+  - countryCode: AF
+    amount: 62
+  - countryCode: AX
+    amount: 127
+  - countryCode: AL
+    amount: 62
+  - countryCode: DZ
+    amount: 62
+  - countryCode: AS
+    amount: 127
+  - countryCode: AD
+    amount: 127
+  - countryCode: AO
+    amount: 62
+  - countryCode: AI
+    amount: 62
+  - countryCode: AQ
+    amount: 62
+  - countryCode: AG
+    amount: 89
+  - countryCode: AR
+    amount: 62
+  - countryCode: AM
+    amount: 62
+  - countryCode: AW
+    amount: 89
+  - countryCode: AU
+    amount: 127
+  - countryCode: AT
+    amount: 127
+  - countryCode: AZ
+    amount: 62
+  - countryCode: BS
+    amount: 89
+  - countryCode: BH
+    amount: 127
+  - countryCode: BD
+    amount: 62
+  - countryCode: BB
+    amount: 89
+  - countryCode: BY
+    amount: 62
+  - countryCode: BE
+    amount: 127
+  - countryCode: BZ
+    amount: 62
+  - countryCode: BJ
+    amount: 62
+  - countryCode: BM
+    amount: 89
+  - countryCode: BT
+    amount: 62
+  - countryCode: BO
+    amount: 62
+  - countryCode: BQ
+    amount: 62
+  - countryCode: BA
+    amount: 62
+  - countryCode: BW
+    amount: 62
+  - countryCode: BV
+    amount: 127
+  - countryCode: BR
+    amount: 77
+  - countryCode: IO
+    amount: 62
+  - countryCode: BN
+    amount: 127
+  - countryCode: BG
+    amount: 62
+  - countryCode: BF
+    amount: 62
+  - countryCode: BI
+    amount: 62
+  - countryCode: KH
+    amount: 62
+  - countryCode: CM
+    amount: 62
+  - countryCode: CA
+    amount: 127
+  - countryCode: CV
+    amount: 62
+  - countryCode: KY
+    amount: 89
+  - countryCode: CF
+    amount: 62
+  - countryCode: TD
+    amount: 62
+  - countryCode: CL
+    amount: 62
+  - countryCode: CN
+    amount: 89
+  - countryCode: CX
+    amount: 62
+  - countryCode: CC
+    amount: 62
+  - countryCode: CO
+    amount: 62
+  - countryCode: KM
+    amount: 62
+  - countryCode: CG
+    amount: 62
+  - countryCode: CD
+    amount: 62
+  - countryCode: CK
+    amount: 127
+  - countryCode: CR
+    amount: 77
+  - countryCode: CI
+    amount: 62
+  - countryCode: HR
+    amount: 62
+  - countryCode: CW
+    amount: 89
+  - countryCode: CY
+    amount: 77
+  - countryCode: CZ
+    amount: 85
+  - countryCode: DK
+    amount: 127
+  - countryCode: DJ
+    amount: 62
+  - countryCode: DM
+    amount: 62
+  - countryCode: DO
+    amount: 62
+  - countryCode: EC
+    amount: 62
+  - countryCode: EG
+    amount: 62
+  - countryCode: SV
+    amount: 62
+  - countryCode: GQ
+    amount: 62
+  - countryCode: ER
+    amount: 62
+  - countryCode: EE
+    amount: 77
+  - countryCode: ET
+    amount: 62
+  - countryCode: FK
+    amount: 62
+  - countryCode: FO
+    amount: 127
+  - countryCode: FJ
+    amount: 127
+  - countryCode: FI
+    amount: 127
+  - countryCode: FR
+    amount: 127
+  - countryCode: GF
+    amount: 62
+  - countryCode: PF
+    amount: 127
+  - countryCode: TF
+    amount: 62
+  - countryCode: GA
+    amount: 62
+  - countryCode: GM
+    amount: 62
+  - countryCode: GE
+    amount: 62
+  - countryCode: DE
+    amount: 127
+  - countryCode: GH
+    amount: 62
+  - countryCode: GI
+    amount: 87
+  - countryCode: GR
+    amount: 77
+  - countryCode: GL
+    amount: 127
+  - countryCode: GD
+    amount: 77
+  - countryCode: GP
+    amount: 89
+  - countryCode: GU
+    amount: 127
+  - countryCode: GT
+    amount: 62
+  - countryCode: GG
+    amount: 87
+  - countryCode: GN
+    amount: 62
+  - countryCode: GW
+    amount: 62
+  - countryCode: GY
+    amount: 62
+  - countryCode: HT
+    amount: 62
+  - countryCode: HM
+    amount: 62
+  - countryCode: HN
+    amount: 62
+  - countryCode: HK
+    amount: 96
+  - countryCode: HU
+    amount: 85
+  - countryCode: IS
+    amount: 127
+  - countryCode: IN
+    amount: 3696
+  - countryCode: ID
+    amount: 62
+  - countryCode: IQ
+    amount: 62
+  - countryCode: IE
+    amount: 127
+  - countryCode: IM
+    amount: 87
+  - countryCode: IL
+    amount: 62
+  - countryCode: IT
+    amount: 127
+  - countryCode: JM
+    amount: 77
+  - countryCode: JP
+    amount: 14040
+  - countryCode: JE
+    amount: 87
+  - countryCode: JO
+    amount: 62
+  - countryCode: KZ
+    amount: 62
+  - countryCode: KE
+    amount: 62
+  - countryCode: KI
+    amount: 62
+  - countryCode: KR
+    amount: 89
+  - countryCode: KW
+    amount: 127
+  - countryCode: KG
+    amount: 62
+  - countryCode: LA
+    amount: 62
+  - countryCode: LV
+    amount: 77
+  - countryCode: LB
+    amount: 85
+  - countryCode: LS
+    amount: 62
+  - countryCode: LR
+    amount: 62
+  - countryCode: LY
+    amount: 89
+  - countryCode: LI
+    amount: 127
+  - countryCode: LT
+    amount: 77
+  - countryCode: LU
+    amount: 127
+  - countryCode: MO
+    amount: 96
+  - countryCode: MK
+    amount: 62
+  - countryCode: MG
+    amount: 62
+  - countryCode: MW
+    amount: 62
+  - countryCode: MY
+    amount: 69
+  - countryCode: MV
+    amount: 62
+  - countryCode: ML
+    amount: 62
+  - countryCode: MT
+    amount: 77
+  - countryCode: MH
+    amount: 62
+  - countryCode: MQ
+    amount: 89
+  - countryCode: MR
+    amount: 62
+  - countryCode: MU
+    amount: 62
+  - countryCode: YT
+    amount: 62
+  - countryCode: MX
+    amount: 62
+  - countryCode: FM
+    amount: 62
+  - countryCode: MD
+    amount: 62
+  - countryCode: MC
+    amount: 127
+  - countryCode: MN
+    amount: 62
+  - countryCode: ME
+    amount: 62
+  - countryCode: MS
+    amount: 62
+  - countryCode: MA
+    amount: 85
+  - countryCode: MZ
+    amount: 62
+  - countryCode: MM
+    amount: 62
+  - countryCode: NA
+    amount: 62
+  - countryCode: NR
+    amount: 62
+  - countryCode: NP
+    amount: 62
+  - countryCode: NL
+    amount: 127
+  - countryCode: NC
+    amount: 127
+  - countryCode: NZ
+    amount: 127
+  - countryCode: NI
+    amount: 62
+  - countryCode: NE
+    amount: 62
+  - countryCode: NG
+    amount: 62
+  - countryCode: NU
+    amount: 127
+  - countryCode: NF
+    amount: 127
+  - countryCode: MP
+    amount: 96
+  - countryCode: 'NO'
+    amount: 127
+  - countryCode: OM
+    amount: 127
+  - countryCode: PK
+    amount: 62
+  - countryCode: PW
+    amount: 62
+  - countryCode: PS
+    amount: 62
+  - countryCode: PA
+    amount: 77
+  - countryCode: PG
+    amount: 62
+  - countryCode: PY
+    amount: 62
+  - countryCode: PE
+    amount: 62
+  - countryCode: PH
+    amount: 69
+  - countryCode: PN
+    amount: 62
+  - countryCode: PL
+    amount: 85
+  - countryCode: PT
+    amount: 127
+  - countryCode: PR
+    amount: 89
+  - countryCode: QA
+    amount: 127
+  - countryCode: RE
+    amount: 62
+  - countryCode: RO
+    amount: 62
+  - countryCode: RU
+    amount: 62
+  - countryCode: RW
+    amount: 62
+  - countryCode: BL
+    amount: 62
+  - countryCode: KN
+    amount: 89
+  - countryCode: LC
+    amount: 89
+  - countryCode: MF
+    amount: 89
+  - countryCode: WS
+    amount: 62
+  - countryCode: SM
+    amount: 127
+  - countryCode: ST
+    amount: 62
+  - countryCode: SA
+    amount: 127
+  - countryCode: SN
+    amount: 62
+  - countryCode: RS
+    amount: 62
+  - countryCode: SC
+    amount: 62
+  - countryCode: SL
+    amount: 62
+  - countryCode: SG
+    amount: 136
+  - countryCode: SX
+    amount: 89
+  - countryCode: SK
+    amount: 77
+  - countryCode: SI
+    amount: 77
+  - countryCode: SB
+    amount: 62
+  - countryCode: SO
+    amount: 62
+  - countryCode: ZA
+    amount: 42
+  - countryCode: GS
+    amount: 127
+  - countryCode: SS
+    amount: 62
+  - countryCode: ES
+    amount: 127
+  - countryCode: LK
+    amount: 62
+  - countryCode: SH
+    amount: 62
+  - countryCode: PM
+    amount: 89
+  - countryCode: VC
+    amount: 77
+  - countryCode: SR
+    amount: 77
+  - countryCode: SJ
+    amount: 89
+  - countryCode: SZ
+    amount: 62
+  - countryCode: SE
+    amount: 127
+  - countryCode: CH
+    amount: 166
+  - countryCode: TW
+    amount: 96
+  - countryCode: TJ
+    amount: 62
+  - countryCode: TZ
+    amount: 62
+  - countryCode: TH
+    amount: 69
+  - countryCode: TL
+    amount: 62
+  - countryCode: TG
+    amount: 62
+  - countryCode: TK
+    amount: 62
+  - countryCode: TO
+    amount: 62
+  - countryCode: TT
+    amount: 89
+  - countryCode: TN
+    amount: 85
+  - countryCode: TR
+    amount: 77
+  - countryCode: TM
+    amount: 62
+  - countryCode: TC
+    amount: 89
+  - countryCode: TV
+    amount: 62
+  - countryCode: UG
+    amount: 62
+  - countryCode: UA
+    amount: 62
+  - countryCode: AE
+    amount: 127
+  - countryCode: GB
+    amount: 87
+  - countryCode: US
+    amount: 127
+  - countryCode: UY
+    amount: 77
+  - countryCode: UM
+    amount: 62
+  - countryCode: UZ
+    amount: 62
+  - countryCode: VU
+    amount: 62
+  - countryCode: VA
+    amount: 127
+  - countryCode: VE
+    amount: 77
+  - countryCode: VN
+    amount: 62
+  - countryCode: VG
+    amount: 62
+  - countryCode: VI
+    amount: 89
+  - countryCode: WF
+    amount: 127
+  - countryCode: EH
+    amount: 62
+  - countryCode: YE
+    amount: 62
+  - countryCode: ZM
+    amount: 62
+  - countryCode: ZW
+    amount: 62
+- examType: '70'
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: '74'
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: '98'
+  availability:
+  - countryCode: AF
+    amount: 62
+  - countryCode: AX
+    amount: 127
+  - countryCode: AL
+    amount: 62
+  - countryCode: DZ
+    amount: 62
+  - countryCode: AS
+    amount: 127
+  - countryCode: AD
+    amount: 127
+  - countryCode: AO
+    amount: 62
+  - countryCode: AI
+    amount: 62
+  - countryCode: AQ
+    amount: 62
+  - countryCode: AG
+    amount: 89
+  - countryCode: AR
+    amount: 62
+  - countryCode: AM
+    amount: 62
+  - countryCode: AW
+    amount: 89
+  - countryCode: AU
+    amount: 127
+  - countryCode: AT
+    amount: 127
+  - countryCode: AZ
+    amount: 62
+  - countryCode: BS
+    amount: 89
+  - countryCode: BH
+    amount: 127
+  - countryCode: BD
+    amount: 62
+  - countryCode: BB
+    amount: 89
+  - countryCode: BY
+    amount: 62
+  - countryCode: BE
+    amount: 127
+  - countryCode: BZ
+    amount: 62
+  - countryCode: BJ
+    amount: 62
+  - countryCode: BM
+    amount: 89
+  - countryCode: BT
+    amount: 62
+  - countryCode: BO
+    amount: 62
+  - countryCode: BQ
+    amount: 62
+  - countryCode: BA
+    amount: 62
+  - countryCode: BW
+    amount: 62
+  - countryCode: BV
+    amount: 127
+  - countryCode: BR
+    amount: 77
+  - countryCode: IO
+    amount: 62
+  - countryCode: BN
+    amount: 127
+  - countryCode: BG
+    amount: 62
+  - countryCode: BF
+    amount: 62
+  - countryCode: BI
+    amount: 62
+  - countryCode: KH
+    amount: 62
+  - countryCode: CM
+    amount: 62
+  - countryCode: CA
+    amount: 127
+  - countryCode: CV
+    amount: 62
+  - countryCode: KY
+    amount: 89
+  - countryCode: CF
+    amount: 62
+  - countryCode: TD
+    amount: 62
+  - countryCode: CL
+    amount: 62
+  - countryCode: CN
+    amount: 89
+  - countryCode: CX
+    amount: 62
+  - countryCode: CC
+    amount: 62
+  - countryCode: CO
+    amount: 62
+  - countryCode: KM
+    amount: 62
+  - countryCode: CG
+    amount: 62
+  - countryCode: CD
+    amount: 62
+  - countryCode: CK
+    amount: 127
+  - countryCode: CR
+    amount: 77
+  - countryCode: CI
+    amount: 62
+  - countryCode: HR
+    amount: 62
+  - countryCode: CW
+    amount: 89
+  - countryCode: CY
+    amount: 77
+  - countryCode: CZ
+    amount: 85
+  - countryCode: DK
+    amount: 127
+  - countryCode: DJ
+    amount: 62
+  - countryCode: DM
+    amount: 62
+  - countryCode: DO
+    amount: 62
+  - countryCode: EC
+    amount: 62
+  - countryCode: EG
+    amount: 62
+  - countryCode: SV
+    amount: 62
+  - countryCode: GQ
+    amount: 62
+  - countryCode: ER
+    amount: 62
+  - countryCode: EE
+    amount: 77
+  - countryCode: ET
+    amount: 62
+  - countryCode: FK
+    amount: 62
+  - countryCode: FO
+    amount: 127
+  - countryCode: FJ
+    amount: 127
+  - countryCode: FI
+    amount: 127
+  - countryCode: FR
+    amount: 127
+  - countryCode: GF
+    amount: 62
+  - countryCode: PF
+    amount: 127
+  - countryCode: TF
+    amount: 62
+  - countryCode: GA
+    amount: 62
+  - countryCode: GM
+    amount: 62
+  - countryCode: GE
+    amount: 62
+  - countryCode: DE
+    amount: 127
+  - countryCode: GH
+    amount: 62
+  - countryCode: GI
+    amount: 87
+  - countryCode: GR
+    amount: 77
+  - countryCode: GL
+    amount: 127
+  - countryCode: GD
+    amount: 77
+  - countryCode: GP
+    amount: 89
+  - countryCode: GU
+    amount: 127
+  - countryCode: GT
+    amount: 62
+  - countryCode: GG
+    amount: 87
+  - countryCode: GN
+    amount: 62
+  - countryCode: GW
+    amount: 62
+  - countryCode: GY
+    amount: 62
+  - countryCode: HT
+    amount: 62
+  - countryCode: HM
+    amount: 62
+  - countryCode: HN
+    amount: 62
+  - countryCode: HK
+    amount: 96
+  - countryCode: HU
+    amount: 85
+  - countryCode: IS
+    amount: 127
+  - countryCode: IN
+    amount: 3696
+  - countryCode: ID
+    amount: 62
+  - countryCode: IQ
+    amount: 62
+  - countryCode: IE
+    amount: 127
+  - countryCode: IM
+    amount: 87
+  - countryCode: IL
+    amount: 62
+  - countryCode: IT
+    amount: 127
+  - countryCode: JM
+    amount: 77
+  - countryCode: JP
+    amount: 14040
+  - countryCode: JE
+    amount: 87
+  - countryCode: JO
+    amount: 62
+  - countryCode: KZ
+    amount: 62
+  - countryCode: KE
+    amount: 62
+  - countryCode: KI
+    amount: 62
+  - countryCode: KR
+    amount: 89
+  - countryCode: KW
+    amount: 127
+  - countryCode: KG
+    amount: 62
+  - countryCode: LA
+    amount: 62
+  - countryCode: LV
+    amount: 77
+  - countryCode: LB
+    amount: 85
+  - countryCode: LS
+    amount: 62
+  - countryCode: LR
+    amount: 62
+  - countryCode: LY
+    amount: 89
+  - countryCode: LI
+    amount: 127
+  - countryCode: LT
+    amount: 77
+  - countryCode: LU
+    amount: 127
+  - countryCode: MO
+    amount: 96
+  - countryCode: MK
+    amount: 62
+  - countryCode: MG
+    amount: 62
+  - countryCode: MW
+    amount: 62
+  - countryCode: MY
+    amount: 69
+  - countryCode: MV
+    amount: 62
+  - countryCode: ML
+    amount: 62
+  - countryCode: MT
+    amount: 77
+  - countryCode: MH
+    amount: 62
+  - countryCode: MQ
+    amount: 89
+  - countryCode: MR
+    amount: 62
+  - countryCode: MU
+    amount: 62
+  - countryCode: YT
+    amount: 62
+  - countryCode: MX
+    amount: 62
+  - countryCode: FM
+    amount: 62
+  - countryCode: MD
+    amount: 62
+  - countryCode: MC
+    amount: 127
+  - countryCode: MN
+    amount: 62
+  - countryCode: ME
+    amount: 62
+  - countryCode: MS
+    amount: 62
+  - countryCode: MA
+    amount: 85
+  - countryCode: MZ
+    amount: 62
+  - countryCode: MM
+    amount: 62
+  - countryCode: NA
+    amount: 62
+  - countryCode: NR
+    amount: 62
+  - countryCode: NP
+    amount: 62
+  - countryCode: NL
+    amount: 127
+  - countryCode: NC
+    amount: 127
+  - countryCode: NZ
+    amount: 127
+  - countryCode: NI
+    amount: 62
+  - countryCode: NE
+    amount: 62
+  - countryCode: NG
+    amount: 62
+  - countryCode: NU
+    amount: 127
+  - countryCode: NF
+    amount: 127
+  - countryCode: MP
+    amount: 96
+  - countryCode: 'NO'
+    amount: 127
+  - countryCode: OM
+    amount: 127
+  - countryCode: PK
+    amount: 62
+  - countryCode: PW
+    amount: 62
+  - countryCode: PS
+    amount: 62
+  - countryCode: PA
+    amount: 77
+  - countryCode: PG
+    amount: 62
+  - countryCode: PY
+    amount: 62
+  - countryCode: PE
+    amount: 62
+  - countryCode: PH
+    amount: 69
+  - countryCode: PN
+    amount: 62
+  - countryCode: PL
+    amount: 85
+  - countryCode: PT
+    amount: 127
+  - countryCode: PR
+    amount: 89
+  - countryCode: QA
+    amount: 127
+  - countryCode: RE
+    amount: 62
+  - countryCode: RO
+    amount: 62
+  - countryCode: RU
+    amount: 62
+  - countryCode: RW
+    amount: 62
+  - countryCode: BL
+    amount: 62
+  - countryCode: KN
+    amount: 89
+  - countryCode: LC
+    amount: 89
+  - countryCode: MF
+    amount: 89
+  - countryCode: WS
+    amount: 62
+  - countryCode: SM
+    amount: 127
+  - countryCode: ST
+    amount: 62
+  - countryCode: SA
+    amount: 127
+  - countryCode: SN
+    amount: 62
+  - countryCode: RS
+    amount: 62
+  - countryCode: SC
+    amount: 62
+  - countryCode: SL
+    amount: 62
+  - countryCode: SG
+    amount: 136
+  - countryCode: SX
+    amount: 89
+  - countryCode: SK
+    amount: 77
+  - countryCode: SI
+    amount: 77
+  - countryCode: SB
+    amount: 62
+  - countryCode: SO
+    amount: 62
+  - countryCode: ZA
+    amount: 42
+  - countryCode: GS
+    amount: 127
+  - countryCode: SS
+    amount: 62
+  - countryCode: ES
+    amount: 127
+  - countryCode: LK
+    amount: 62
+  - countryCode: SH
+    amount: 62
+  - countryCode: PM
+    amount: 89
+  - countryCode: VC
+    amount: 77
+  - countryCode: SR
+    amount: 77
+  - countryCode: SJ
+    amount: 89
+  - countryCode: SZ
+    amount: 62
+  - countryCode: SE
+    amount: 127
+  - countryCode: CH
+    amount: 166
+  - countryCode: TW
+    amount: 96
+  - countryCode: TJ
+    amount: 62
+  - countryCode: TZ
+    amount: 62
+  - countryCode: TH
+    amount: 69
+  - countryCode: TL
+    amount: 62
+  - countryCode: TG
+    amount: 62
+  - countryCode: TK
+    amount: 62
+  - countryCode: TO
+    amount: 62
+  - countryCode: TT
+    amount: 89
+  - countryCode: TN
+    amount: 85
+  - countryCode: TR
+    amount: 77
+  - countryCode: TM
+    amount: 62
+  - countryCode: TC
+    amount: 89
+  - countryCode: TV
+    amount: 62
+  - countryCode: UG
+    amount: 62
+  - countryCode: UA
+    amount: 62
+  - countryCode: AE
+    amount: 127
+  - countryCode: GB
+    amount: 87
+  - countryCode: US
+    amount: 127
+  - countryCode: UY
+    amount: 77
+  - countryCode: UM
+    amount: 62
+  - countryCode: UZ
+    amount: 62
+  - countryCode: VU
+    amount: 62
+  - countryCode: VA
+    amount: 127
+  - countryCode: VE
+    amount: 77
+  - countryCode: VN
+    amount: 62
+  - countryCode: VG
+    amount: 62
+  - countryCode: VI
+    amount: 89
+  - countryCode: WF
+    amount: 127
+  - countryCode: EH
+    amount: 62
+  - countryCode: YE
+    amount: 62
+  - countryCode: ZM
+    amount: 62
+  - countryCode: ZW
+    amount: 62
+- examType: DP
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: AI
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: AZ
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: MD
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: MS
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: MB
+  availability:
+  - countryCode: AF
+    amount: 80
+  - countryCode: AX
+    amount: 165
+  - countryCode: AL
+    amount: 80
+  - countryCode: DZ
+    amount: 80
+  - countryCode: AS
+    amount: 165
+  - countryCode: AD
+    amount: 165
+  - countryCode: AO
+    amount: 80
+  - countryCode: AI
+    amount: 80
+  - countryCode: AQ
+    amount: 80
+  - countryCode: AG
+    amount: 115
+  - countryCode: AR
+    amount: 80
+  - countryCode: AM
+    amount: 80
+  - countryCode: AW
+    amount: 115
+  - countryCode: AU
+    amount: 165
+  - countryCode: AT
+    amount: 165
+  - countryCode: AZ
+    amount: 80
+  - countryCode: BS
+    amount: 115
+  - countryCode: BH
+    amount: 165
+  - countryCode: BD
+    amount: 80
+  - countryCode: BB
+    amount: 115
+  - countryCode: BY
+    amount: 80
+  - countryCode: BE
+    amount: 165
+  - countryCode: BZ
+    amount: 80
+  - countryCode: BJ
+    amount: 80
+  - countryCode: BM
+    amount: 115
+  - countryCode: BT
+    amount: 80
+  - countryCode: BO
+    amount: 80
+  - countryCode: BQ
+    amount: 80
+  - countryCode: BA
+    amount: 80
+  - countryCode: BW
+    amount: 80
+  - countryCode: BV
+    amount: 165
+  - countryCode: BR
+    amount: 100
+  - countryCode: IO
+    amount: 80
+  - countryCode: BN
+    amount: 165
+  - countryCode: BG
+    amount: 80
+  - countryCode: BF
+    amount: 80
+  - countryCode: BI
+    amount: 80
+  - countryCode: KH
+    amount: 80
+  - countryCode: CM
+    amount: 80
+  - countryCode: CA
+    amount: 165
+  - countryCode: CV
+    amount: 80
+  - countryCode: KY
+    amount: 115
+  - countryCode: CF
+    amount: 80
+  - countryCode: TD
+    amount: 80
+  - countryCode: CL
+    amount: 80
+  - countryCode: CN
+    amount: 115
+  - countryCode: CX
+    amount: 80
+  - countryCode: CC
+    amount: 80
+  - countryCode: CO
+    amount: 80
+  - countryCode: KM
+    amount: 80
+  - countryCode: CG
+    amount: 80
+  - countryCode: CD
+    amount: 80
+  - countryCode: CK
+    amount: 165
+  - countryCode: CR
+    amount: 100
+  - countryCode: CI
+    amount: 80
+  - countryCode: HR
+    amount: 80
+  - countryCode: CW
+    amount: 115
+  - countryCode: CY
+    amount: 100
+  - countryCode: CZ
+    amount: 110
+  - countryCode: DK
+    amount: 165
+  - countryCode: DJ
+    amount: 80
+  - countryCode: DM
+    amount: 80
+  - countryCode: DO
+    amount: 80
+  - countryCode: EC
+    amount: 80
+  - countryCode: EG
+    amount: 80
+  - countryCode: SV
+    amount: 80
+  - countryCode: GQ
+    amount: 80
+  - countryCode: ER
+    amount: 80
+  - countryCode: EE
+    amount: 100
+  - countryCode: ET
+    amount: 80
+  - countryCode: FK
+    amount: 80
+  - countryCode: FO
+    amount: 165
+  - countryCode: FJ
+    amount: 165
+  - countryCode: FI
+    amount: 165
+  - countryCode: FR
+    amount: 165
+  - countryCode: GF
+    amount: 80
+  - countryCode: PF
+    amount: 165
+  - countryCode: TF
+    amount: 80
+  - countryCode: GA
+    amount: 80
+  - countryCode: GM
+    amount: 80
+  - countryCode: GE
+    amount: 80
+  - countryCode: DE
+    amount: 165
+  - countryCode: GH
+    amount: 80
+  - countryCode: GI
+    amount: 113
+  - countryCode: GR
+    amount: 100
+  - countryCode: GL
+    amount: 165
+  - countryCode: GD
+    amount: 100
+  - countryCode: GP
+    amount: 115
+  - countryCode: GU
+    amount: 165
+  - countryCode: GT
+    amount: 80
+  - countryCode: GG
+    amount: 113
+  - countryCode: GN
+    amount: 80
+  - countryCode: GW
+    amount: 80
+  - countryCode: GY
+    amount: 80
+  - countryCode: HT
+    amount: 80
+  - countryCode: HM
+    amount: 80
+  - countryCode: HN
+    amount: 80
+  - countryCode: HK
+    amount: 125
+  - countryCode: HU
+    amount: 110
+  - countryCode: IS
+    amount: 165
+  - countryCode: IN
+    amount: 4800
+  - countryCode: ID
+    amount: 80
+  - countryCode: IQ
+    amount: 80
+  - countryCode: IE
+    amount: 165
+  - countryCode: IM
+    amount: 113
+  - countryCode: IL
+    amount: 80
+  - countryCode: IT
+    amount: 165
+  - countryCode: JM
+    amount: 100
+  - countryCode: JP
+    amount: 21103
+  - countryCode: JE
+    amount: 113
+  - countryCode: JO
+    amount: 80
+  - countryCode: KZ
+    amount: 80
+  - countryCode: KE
+    amount: 80
+  - countryCode: KI
+    amount: 80
+  - countryCode: KR
+    amount: 115
+  - countryCode: KW
+    amount: 165
+  - countryCode: KG
+    amount: 80
+  - countryCode: LA
+    amount: 80
+  - countryCode: LV
+    amount: 100
+  - countryCode: LB
+    amount: 110
+  - countryCode: LS
+    amount: 80
+  - countryCode: LR
+    amount: 80
+  - countryCode: LY
+    amount: 115
+  - countryCode: LI
+    amount: 165
+  - countryCode: LT
+    amount: 100
+  - countryCode: LU
+    amount: 165
+  - countryCode: MO
+    amount: 125
+  - countryCode: MK
+    amount: 80
+  - countryCode: MG
+    amount: 80
+  - countryCode: MW
+    amount: 80
+  - countryCode: MY
+    amount: 90
+  - countryCode: MV
+    amount: 80
+  - countryCode: ML
+    amount: 80
+  - countryCode: MT
+    amount: 100
+  - countryCode: MH
+    amount: 80
+  - countryCode: MQ
+    amount: 115
+  - countryCode: MR
+    amount: 80
+  - countryCode: MU
+    amount: 80
+  - countryCode: YT
+    amount: 80
+  - countryCode: MX
+    amount: 80
+  - countryCode: FM
+    amount: 80
+  - countryCode: MD
+    amount: 80
+  - countryCode: MC
+    amount: 165
+  - countryCode: MN
+    amount: 80
+  - countryCode: ME
+    amount: 80
+  - countryCode: MS
+    amount: 80
+  - countryCode: MA
+    amount: 110
+  - countryCode: MZ
+    amount: 80
+  - countryCode: MM
+    amount: 80
+  - countryCode: NA
+    amount: 80
+  - countryCode: NR
+    amount: 80
+  - countryCode: NP
+    amount: 80
+  - countryCode: NL
+    amount: 165
+  - countryCode: NC
+    amount: 165
+  - countryCode: NZ
+    amount: 165
+  - countryCode: NI
+    amount: 80
+  - countryCode: NE
+    amount: 80
+  - countryCode: NG
+    amount: 80
+  - countryCode: NU
+    amount: 165
+  - countryCode: NF
+    amount: 165
+  - countryCode: MP
+    amount: 125
+  - countryCode: 'NO'
+    amount: 165
+  - countryCode: OM
+    amount: 165
+  - countryCode: PK
+    amount: 80
+  - countryCode: PW
+    amount: 80
+  - countryCode: PS
+    amount: 80
+  - countryCode: PA
+    amount: 100
+  - countryCode: PG
+    amount: 80
+  - countryCode: PY
+    amount: 80
+  - countryCode: PE
+    amount: 80
+  - countryCode: PH
+    amount: 90
+  - countryCode: PN
+    amount: 80
+  - countryCode: PL
+    amount: 110
+  - countryCode: PT
+    amount: 165
+  - countryCode: PR
+    amount: 115
+  - countryCode: QA
+    amount: 165
+  - countryCode: RE
+    amount: 80
+  - countryCode: RO
+    amount: 80
+  - countryCode: RU
+    amount: 80
+  - countryCode: RW
+    amount: 80
+  - countryCode: BL
+    amount: 80
+  - countryCode: KN
+    amount: 115
+  - countryCode: LC
+    amount: 115
+  - countryCode: MF
+    amount: 115
+  - countryCode: WS
+    amount: 80
+  - countryCode: SM
+    amount: 165
+  - countryCode: ST
+    amount: 80
+  - countryCode: SA
+    amount: 165
+  - countryCode: SN
+    amount: 80
+  - countryCode: RS
+    amount: 80
+  - countryCode: SC
+    amount: 80
+  - countryCode: SL
+    amount: 80
+  - countryCode: SG
+    amount: 176
+  - countryCode: SX
+    amount: 115
+  - countryCode: SK
+    amount: 100
+  - countryCode: SI
+    amount: 100
+  - countryCode: SB
+    amount: 80
+  - countryCode: SO
+    amount: 80
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 165
+  - countryCode: SS
+    amount: 80
+  - countryCode: ES
+    amount: 165
+  - countryCode: LK
+    amount: 80
+  - countryCode: SH
+    amount: 80
+  - countryCode: PM
+    amount: 115
+  - countryCode: VC
+    amount: 100
+  - countryCode: SR
+    amount: 100
+  - countryCode: SJ
+    amount: 115
+  - countryCode: SZ
+    amount: 80
+  - countryCode: SE
+    amount: 165
+  - countryCode: CH
+    amount: 216
+  - countryCode: TW
+    amount: 125
+  - countryCode: TJ
+    amount: 80
+  - countryCode: TZ
+    amount: 80
+  - countryCode: TH
+    amount: 90
+  - countryCode: TL
+    amount: 80
+  - countryCode: TG
+    amount: 80
+  - countryCode: TK
+    amount: 80
+  - countryCode: TO
+    amount: 80
+  - countryCode: TT
+    amount: 115
+  - countryCode: TN
+    amount: 110
+  - countryCode: TR
+    amount: 100
+  - countryCode: TM
+    amount: 80
+  - countryCode: TC
+    amount: 115
+  - countryCode: TV
+    amount: 80
+  - countryCode: UG
+    amount: 80
+  - countryCode: UA
+    amount: 80
+  - countryCode: AE
+    amount: 165
+  - countryCode: GB
+    amount: 113
+  - countryCode: US
+    amount: 165
+  - countryCode: UY
+    amount: 100
+  - countryCode: UM
+    amount: 80
+  - countryCode: UZ
+    amount: 80
+  - countryCode: VU
+    amount: 80
+  - countryCode: VA
+    amount: 165
+  - countryCode: VE
+    amount: 100
+  - countryCode: VN
+    amount: 80
+  - countryCode: VG
+    amount: 80
+  - countryCode: VI
+    amount: 115
+  - countryCode: WF
+    amount: 165
+  - countryCode: EH
+    amount: 80
+  - countryCode: YE
+    amount: 80
+  - countryCode: ZM
+    amount: 80
+  - countryCode: ZW
+    amount: 80
+- examType: INF
+  availability:
+  - countryCode: AF
+    amount: 62
+  - countryCode: AX
+    amount: 127
+  - countryCode: AL
+    amount: 62
+  - countryCode: DZ
+    amount: 62
+  - countryCode: AS
+    amount: 127
+  - countryCode: AD
+    amount: 127
+  - countryCode: AO
+    amount: 62
+  - countryCode: AI
+    amount: 62
+  - countryCode: AQ
+    amount: 62
+  - countryCode: AG
+    amount: 89
+  - countryCode: AR
+    amount: 62
+  - countryCode: AM
+    amount: 62
+  - countryCode: AW
+    amount: 89
+  - countryCode: AU
+    amount: 127
+  - countryCode: AT
+    amount: 127
+  - countryCode: AZ
+    amount: 62
+  - countryCode: BS
+    amount: 89
+  - countryCode: BH
+    amount: 127
+  - countryCode: BD
+    amount: 62
+  - countryCode: BB
+    amount: 89
+  - countryCode: BY
+    amount: 62
+  - countryCode: BE
+    amount: 127
+  - countryCode: BZ
+    amount: 62
+  - countryCode: BJ
+    amount: 62
+  - countryCode: BM
+    amount: 89
+  - countryCode: BT
+    amount: 62
+  - countryCode: BO
+    amount: 62
+  - countryCode: BQ
+    amount: 62
+  - countryCode: BA
+    amount: 62
+  - countryCode: BW
+    amount: 62
+  - countryCode: BV
+    amount: 127
+  - countryCode: BR
+    amount: 77
+  - countryCode: IO
+    amount: 62
+  - countryCode: BN
+    amount: 127
+  - countryCode: BG
+    amount: 62
+  - countryCode: BF
+    amount: 62
+  - countryCode: BI
+    amount: 62
+  - countryCode: KH
+    amount: 62
+  - countryCode: CM
+    amount: 62
+  - countryCode: CA
+    amount: 127
+  - countryCode: CV
+    amount: 62
+  - countryCode: KY
+    amount: 89
+  - countryCode: CF
+    amount: 62
+  - countryCode: TD
+    amount: 62
+  - countryCode: CL
+    amount: 62
+  - countryCode: CN
+    amount: 89
+  - countryCode: CX
+    amount: 62
+  - countryCode: CC
+    amount: 62
+  - countryCode: CO
+    amount: 62
+  - countryCode: KM
+    amount: 62
+  - countryCode: CG
+    amount: 62
+  - countryCode: CD
+    amount: 62
+  - countryCode: CK
+    amount: 127
+  - countryCode: CR
+    amount: 77
+  - countryCode: CI
+    amount: 62
+  - countryCode: HR
+    amount: 62
+  - countryCode: CW
+    amount: 89
+  - countryCode: CY
+    amount: 77
+  - countryCode: CZ
+    amount: 85
+  - countryCode: DK
+    amount: 127
+  - countryCode: DJ
+    amount: 62
+  - countryCode: DM
+    amount: 62
+  - countryCode: DO
+    amount: 62
+  - countryCode: EC
+    amount: 62
+  - countryCode: EG
+    amount: 62
+  - countryCode: SV
+    amount: 62
+  - countryCode: GQ
+    amount: 62
+  - countryCode: ER
+    amount: 62
+  - countryCode: EE
+    amount: 77
+  - countryCode: ET
+    amount: 62
+  - countryCode: FK
+    amount: 62
+  - countryCode: FO
+    amount: 127
+  - countryCode: FJ
+    amount: 127
+  - countryCode: FI
+    amount: 127
+  - countryCode: FR
+    amount: 127
+  - countryCode: GF
+    amount: 62
+  - countryCode: PF
+    amount: 127
+  - countryCode: TF
+    amount: 62
+  - countryCode: GA
+    amount: 62
+  - countryCode: GM
+    amount: 62
+  - countryCode: GE
+    amount: 62
+  - countryCode: DE
+    amount: 127
+  - countryCode: GH
+    amount: 62
+  - countryCode: GI
+    amount: 87
+  - countryCode: GR
+    amount: 77
+  - countryCode: GL
+    amount: 127
+  - countryCode: GD
+    amount: 77
+  - countryCode: GP
+    amount: 89
+  - countryCode: GU
+    amount: 127
+  - countryCode: GT
+    amount: 62
+  - countryCode: GG
+    amount: 87
+  - countryCode: GN
+    amount: 62
+  - countryCode: GW
+    amount: 62
+  - countryCode: GY
+    amount: 62
+  - countryCode: HT
+    amount: 62
+  - countryCode: HM
+    amount: 62
+  - countryCode: HN
+    amount: 62
+  - countryCode: HK
+    amount: 96
+  - countryCode: HU
+    amount: 85
+  - countryCode: IS
+    amount: 127
+  - countryCode: IN
+    amount: 3696
+  - countryCode: ID
+    amount: 62
+  - countryCode: IQ
+    amount: 62
+  - countryCode: IE
+    amount: 127
+  - countryCode: IM
+    amount: 87
+  - countryCode: IL
+    amount: 62
+  - countryCode: IT
+    amount: 127
+  - countryCode: JM
+    amount: 77
+  - countryCode: JP
+    amount: 14040
+  - countryCode: JE
+    amount: 87
+  - countryCode: JO
+    amount: 62
+  - countryCode: KZ
+    amount: 62
+  - countryCode: KE
+    amount: 62
+  - countryCode: KI
+    amount: 62
+  - countryCode: KR
+    amount: 89
+  - countryCode: KW
+    amount: 127
+  - countryCode: KG
+    amount: 62
+  - countryCode: LA
+    amount: 62
+  - countryCode: LV
+    amount: 77
+  - countryCode: LB
+    amount: 85
+  - countryCode: LS
+    amount: 62
+  - countryCode: LR
+    amount: 62
+  - countryCode: LY
+    amount: 89
+  - countryCode: LI
+    amount: 127
+  - countryCode: LT
+    amount: 77
+  - countryCode: LU
+    amount: 127
+  - countryCode: MO
+    amount: 96
+  - countryCode: MK
+    amount: 62
+  - countryCode: MG
+    amount: 62
+  - countryCode: MW
+    amount: 62
+  - countryCode: MY
+    amount: 69
+  - countryCode: MV
+    amount: 62
+  - countryCode: ML
+    amount: 62
+  - countryCode: MT
+    amount: 77
+  - countryCode: MH
+    amount: 62
+  - countryCode: MQ
+    amount: 89
+  - countryCode: MR
+    amount: 62
+  - countryCode: MU
+    amount: 62
+  - countryCode: YT
+    amount: 62
+  - countryCode: MX
+    amount: 62
+  - countryCode: FM
+    amount: 62
+  - countryCode: MD
+    amount: 62
+  - countryCode: MC
+    amount: 127
+  - countryCode: MN
+    amount: 62
+  - countryCode: ME
+    amount: 62
+  - countryCode: MS
+    amount: 62
+  - countryCode: MA
+    amount: 85
+  - countryCode: MZ
+    amount: 62
+  - countryCode: MM
+    amount: 62
+  - countryCode: NA
+    amount: 62
+  - countryCode: NR
+    amount: 62
+  - countryCode: NP
+    amount: 62
+  - countryCode: NL
+    amount: 127
+  - countryCode: NC
+    amount: 127
+  - countryCode: NZ
+    amount: 127
+  - countryCode: NI
+    amount: 62
+  - countryCode: NE
+    amount: 62
+  - countryCode: NG
+    amount: 62
+  - countryCode: NU
+    amount: 127
+  - countryCode: NF
+    amount: 127
+  - countryCode: MP
+    amount: 96
+  - countryCode: 'NO'
+    amount: 127
+  - countryCode: OM
+    amount: 127
+  - countryCode: PK
+    amount: 62
+  - countryCode: PW
+    amount: 62
+  - countryCode: PS
+    amount: 62
+  - countryCode: PA
+    amount: 77
+  - countryCode: PG
+    amount: 62
+  - countryCode: PY
+    amount: 62
+  - countryCode: PE
+    amount: 62
+  - countryCode: PH
+    amount: 69
+  - countryCode: PN
+    amount: 62
+  - countryCode: PL
+    amount: 85
+  - countryCode: PT
+    amount: 127
+  - countryCode: PR
+    amount: 89
+  - countryCode: QA
+    amount: 127
+  - countryCode: RE
+    amount: 62
+  - countryCode: RO
+    amount: 62
+  - countryCode: RU
+    amount: 62
+  - countryCode: RW
+    amount: 62
+  - countryCode: BL
+    amount: 62
+  - countryCode: KN
+    amount: 89
+  - countryCode: LC
+    amount: 89
+  - countryCode: MF
+    amount: 89
+  - countryCode: WS
+    amount: 62
+  - countryCode: SM
+    amount: 127
+  - countryCode: ST
+    amount: 62
+  - countryCode: SA
+    amount: 127
+  - countryCode: SN
+    amount: 62
+  - countryCode: RS
+    amount: 62
+  - countryCode: SC
+    amount: 62
+  - countryCode: SL
+    amount: 62
+  - countryCode: SG
+    amount: 136
+  - countryCode: SX
+    amount: 89
+  - countryCode: SK
+    amount: 77
+  - countryCode: SI
+    amount: 77
+  - countryCode: SB
+    amount: 62
+  - countryCode: SO
+    amount: 62
+  - countryCode: ZA
+    amount: 42
+  - countryCode: GS
+    amount: 127
+  - countryCode: SS
+    amount: 62
+  - countryCode: ES
+    amount: 127
+  - countryCode: LK
+    amount: 62
+  - countryCode: SH
+    amount: 62
+  - countryCode: PM
+    amount: 89
+  - countryCode: VC
+    amount: 77
+  - countryCode: SR
+    amount: 77
+  - countryCode: SJ
+    amount: 89
+  - countryCode: SZ
+    amount: 62
+  - countryCode: SE
+    amount: 127
+  - countryCode: CH
+    amount: 166
+  - countryCode: TW
+    amount: 96
+  - countryCode: TJ
+    amount: 62
+  - countryCode: TZ
+    amount: 62
+  - countryCode: TH
+    amount: 69
+  - countryCode: TL
+    amount: 62
+  - countryCode: TG
+    amount: 62
+  - countryCode: TK
+    amount: 62
+  - countryCode: TO
+    amount: 62
+  - countryCode: TT
+    amount: 89
+  - countryCode: TN
+    amount: 85
+  - countryCode: TR
+    amount: 77
+  - countryCode: TM
+    amount: 62
+  - countryCode: TC
+    amount: 89
+  - countryCode: TV
+    amount: 62
+  - countryCode: UG
+    amount: 62
+  - countryCode: UA
+    amount: 62
+  - countryCode: AE
+    amount: 127
+  - countryCode: GB
+    amount: 87
+  - countryCode: US
+    amount: 99
+  - countryCode: UY
+    amount: 77
+  - countryCode: UM
+    amount: 62
+  - countryCode: UZ
+    amount: 62
+  - countryCode: VU
+    amount: 62
+  - countryCode: VA
+    amount: 127
+  - countryCode: VE
+    amount: 77
+  - countryCode: VN
+    amount: 62
+  - countryCode: VG
+    amount: 62
+  - countryCode: VI
+    amount: 89
+  - countryCode: WF
+    amount: 127
+  - countryCode: EH
+    amount: 62
+  - countryCode: YE
+    amount: 62
+  - countryCode: ZM
+    amount: 62
+  - countryCode: ZW
+    amount: 62
+- examType: 'AZ-900'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+    amount: 55
+  - countryCode: AX
+    amount: 99
+  - countryCode: AL
+    amount: 55
+  - countryCode: DZ
+    amount: 55
+  - countryCode: AS
+    amount: 99
+  - countryCode: AD
+    amount: 99
+  - countryCode: AO
+    amount: 55
+  - countryCode: AI
+    amount: 55
+  - countryCode: AQ
+    amount: 55
+  - countryCode: AG
+    amount: 69
+  - countryCode: AR
+    amount: 55
+  - countryCode: AM
+    amount: 55
+  - countryCode: AW
+    amount: 69
+  - countryCode: AU
+    amount: 99
+  - countryCode: AT
+    amount: 99
+  - countryCode: AZ
+    amount: 55
+  - countryCode: BS
+    amount: 69
+  - countryCode: BH
+    amount: 99
+  - countryCode: BD
+    amount: 55
+  - countryCode: BB
+    amount: 69
+  - countryCode: BY
+    amount: 55
+  - countryCode: BE
+    amount: 99
+  - countryCode: BZ
+    amount: 55
+  - countryCode: BJ
+    amount: 55
+  - countryCode: BM
+    amount: 69
+  - countryCode: BT
+    amount: 55
+  - countryCode: BO
+    amount: 55
+  - countryCode: BQ
+    amount: 55
+  - countryCode: BA
+    amount: 55
+  - countryCode: BW
+    amount: 55
+  - countryCode: BV
+    amount: 99
+  - countryCode: BR
+    amount: 60
+  - countryCode: IO
+    amount: 55
+  - countryCode: BN
+    amount: 99
+  - countryCode: BG
+    amount: 55
+  - countryCode: BF
+    amount: 55
+  - countryCode: BI
+    amount: 55
+  - countryCode: KH
+    amount: 55
+  - countryCode: CM
+    amount: 55
+  - countryCode: CA
+    amount: 99
+  - countryCode: CV
+    amount: 55
+  - countryCode: KY
+    amount: 69
+  - countryCode: CF
+    amount: 55
+  - countryCode: TD
+    amount: 55
+  - countryCode: CL
+    amount: 55
+  - countryCode: CN
+    amount: 69
+  - countryCode: CX
+    amount: 55
+  - countryCode: CC
+    amount: 55
+  - countryCode: CO
+    amount: 55
+  - countryCode: KM
+    amount: 55
+  - countryCode: CG
+    amount: 55
+  - countryCode: CD
+    amount: 55
+  - countryCode: CK
+    amount: 99
+  - countryCode: CR
+    amount: 60
+  - countryCode: CI
+    amount: 55
+  - countryCode: HR
+    amount: 55
+  - countryCode: CW
+    amount: 69
+  - countryCode: CY
+    amount: 60
+  - countryCode: CZ
+    amount: 69
+  - countryCode: DK
+    amount: 99
+  - countryCode: DJ
+    amount: 55
+  - countryCode: DM
+    amount: 55
+  - countryCode: DO
+    amount: 55
+  - countryCode: EC
+    amount: 55
+  - countryCode: EG
+    amount: 55
+  - countryCode: SV
+    amount: 55
+  - countryCode: GQ
+    amount: 55
+  - countryCode: ER
+    amount: 55
+  - countryCode: EE
+    amount: 60
+  - countryCode: ET
+    amount: 55
+  - countryCode: FK
+    amount: 55
+  - countryCode: FO
+    amount: 99
+  - countryCode: FJ
+    amount: 99
+  - countryCode: FI
+    amount: 99
+  - countryCode: FR
+    amount: 99
+  - countryCode: GF
+    amount: 55
+  - countryCode: PF
+    amount: 99
+  - countryCode: TF
+    amount: 55
+  - countryCode: GA
+    amount: 55
+  - countryCode: GM
+    amount: 55
+  - countryCode: GE
+    amount: 55
+  - countryCode: DE
+    amount: 99
+  - countryCode: GH
+    amount: 55
+  - countryCode: GI
+    amount: 69
+  - countryCode: GR
+    amount: 60
+  - countryCode: GL
+    amount: 99
+  - countryCode: GD
+    amount: 60
+  - countryCode: GP
+    amount: 69
+  - countryCode: GU
+    amount: 99
+  - countryCode: GT
+    amount: 55
+  - countryCode: GG
+    amount: 69
+  - countryCode: GN
+    amount: 55
+  - countryCode: GW
+    amount: 55
+  - countryCode: GY
+    amount: 55
+  - countryCode: HT
+    amount: 55
+  - countryCode: HM
+    amount: 55
+  - countryCode: HN
+    amount: 55
+  - countryCode: HK
+    amount: 75
+  - countryCode: HU
+    amount: 69
+  - countryCode: IS
+    amount: 99
+  - countryCode: IN
+    amount: 3696
+  - countryCode: ID
+    amount: 55
+  - countryCode: IQ
+    amount: 55
+  - countryCode: IE
+    amount: 99
+  - countryCode: IM
+    amount: 69
+  - countryCode: IL
+    amount: 55
+  - countryCode: IT
+    amount: 99
+  - countryCode: JM
+    amount: 60
+  - countryCode: JP
+    amount: 12500
+  - countryCode: JE
+    amount: 69
+  - countryCode: JO
+    amount: 55
+  - countryCode: KZ
+    amount: 55
+  - countryCode: KE
+    amount: 55
+  - countryCode: KI
+    amount: 55
+  - countryCode: KR
+    amount: 69
+  - countryCode: KW
+    amount: 99
+  - countryCode: KG
+    amount: 55
+  - countryCode: LA
+    amount: 55
+  - countryCode: LV
+    amount: 60
+  - countryCode: LB
+    amount: 69
+  - countryCode: LS
+    amount: 55
+  - countryCode: LR
+    amount: 55
+  - countryCode: LY
+    amount: 69
+  - countryCode: LI
+    amount: 99
+  - countryCode: LT
+    amount: 60
+  - countryCode: LU
+    amount: 99
+  - countryCode: MO
+    amount: 75
+  - countryCode: MK
+    amount: 55
+  - countryCode: MG
+    amount: 55
+  - countryCode: MW
+    amount: 55
+  - countryCode: MY
+    amount: 55
+  - countryCode: MV
+    amount: 55
+  - countryCode: ML
+    amount: 55
+  - countryCode: MT
+    amount: 60
+  - countryCode: MH
+    amount: 55
+  - countryCode: MQ
+    amount: 69
+  - countryCode: MR
+    amount: 55
+  - countryCode: MU
+    amount: 55
+  - countryCode: YT
+    amount: 55
+  - countryCode: MX
+    amount: 55
+  - countryCode: FM
+    amount: 55
+  - countryCode: MD
+    amount: 55
+  - countryCode: MC
+    amount: 99
+  - countryCode: MN
+    amount: 55
+  - countryCode: ME
+    amount: 55
+  - countryCode: MS
+    amount: 55
+  - countryCode: MA
+    amount: 69
+  - countryCode: MZ
+    amount: 55
+  - countryCode: MM
+    amount: 55
+  - countryCode: NA
+    amount: 55
+  - countryCode: NR
+    amount: 55
+  - countryCode: NP
+    amount: 55
+  - countryCode: NL
+    amount: 99
+  - countryCode: NC
+    amount: 99
+  - countryCode: NZ
+    amount: 99
+  - countryCode: NI
+    amount: 55
+  - countryCode: NE
+    amount: 55
+  - countryCode: NG
+    amount: 55
+  - countryCode: NU
+    amount: 99
+  - countryCode: NF
+    amount: 99
+  - countryCode: MP
+    amount: 75
+  - countryCode: 'NO'
+    amount: 99
+  - countryCode: OM
+    amount: 99
+  - countryCode: PK
+    amount: 55
+  - countryCode: PW
+    amount: 55
+  - countryCode: PS
+    amount: 60
+  - countryCode: PA
+    amount: 55
+  - countryCode: PG
+    amount: 55
+  - countryCode: PY
+    amount: 55
+  - countryCode: PE
+    amount: 55
+  - countryCode: PH
+    amount: 55
+  - countryCode: PN
+    amount: 55
+  - countryCode: PL
+    amount: 69
+  - countryCode: PT
+    amount: 99
+  - countryCode: PR
+    amount: 69
+  - countryCode: QA
+    amount: 99
+  - countryCode: RE
+    amount: 55
+  - countryCode: RO
+    amount: 55
+  - countryCode: RU
+    amount: 55
+  - countryCode: RW
+    amount: 55
+  - countryCode: BL
+    amount: 55
+  - countryCode: KN
+    amount: 69
+  - countryCode: LC
+    amount: 69
+  - countryCode: MF
+    amount: 69
+  - countryCode: WS
+    amount: 55
+  - countryCode: SM
+    amount: 99
+  - countryCode: ST
+    amount: 55
+  - countryCode: SA
+    amount: 99
+  - countryCode: SN
+    amount: 55
+  - countryCode: RS
+    amount: 55
+  - countryCode: SC
+    amount: 55
+  - countryCode: SL
+    amount: 55
+  - countryCode: SG
+    amount: 106
+  - countryCode: SX
+    amount: 69
+  - countryCode: SK
+    amount: 60
+  - countryCode: SI
+    amount: 60
+  - countryCode: SB
+    amount: 55
+  - countryCode: SO
+    amount: 55
+  - countryCode: ZA
+    amount: 55
+  - countryCode: GS
+    amount: 99
+  - countryCode: SS
+    amount: 55
+  - countryCode: ES
+    amount: 99
+  - countryCode: LK
+    amount: 55
+  - countryCode: SH
+    amount: 55
+  - countryCode: PM
+    amount: 69
+  - countryCode: VC
+    amount: 60
+  - countryCode: SR
+    amount: 60
+  - countryCode: SJ
+    amount: 69
+  - countryCode: SZ
+    amount: 55
+  - countryCode: SE
+    amount: 99
+  - countryCode: CH
+    amount: 130
+  - countryCode: TW
+    amount: 75
+  - countryCode: TJ
+    amount: 55
+  - countryCode: TZ
+    amount: 55
+  - countryCode: TH
+    amount: 55
+  - countryCode: TL
+    amount: 55
+  - countryCode: TG
+    amount: 55
+  - countryCode: TK
+    amount: 55
+  - countryCode: TO
+    amount: 55
+  - countryCode: TT
+    amount: 69
+  - countryCode: TN
+    amount: 69
+  - countryCode: TR
+    amount: 60
+  - countryCode: TM
+    amount: 55
+  - countryCode: TC
+    amount: 69
+  - countryCode: TV
+    amount: 55
+  - countryCode: UG
+    amount: 55
+  - countryCode: UA
+    amount: 55
+  - countryCode: AE
+    amount: 99
+  - countryCode: GB
+    amount: 69
+  - countryCode: US
+    amount: 99
+  - countryCode: UY
+    amount: 60
+  - countryCode: UM
+    amount: 55
+  - countryCode: UZ
+    amount: 55
+  - countryCode: VU
+    amount: 55
+  - countryCode: VA
+    amount: 99
+  - countryCode: VE
+    amount: 60
+  - countryCode: VN
+    amount: 55
+  - countryCode: VG
+    amount: 55
+  - countryCode: VI
+    amount: 69
+  - countryCode: WF
+    amount: 99
+  - countryCode: EH
+    amount: 55
+  - countryCode: YE
+    amount: 55
+  - countryCode: ZM
+    amount: 55
+  - countryCode: ZW
+    amount: 55
+- examType: 'AZ-102'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'AZ-202'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'AZ-302'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'MS-202'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'MS-302'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'MS-900'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'MB-900'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'PL-900'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+- examType: 'MB-901'
+  price:
+    countryCode: US
+    amount: 99
+  availability:
+  - countryCode: AF
+  - countryCode: AX
+  - countryCode: AL
+  - countryCode: DZ
+  - countryCode: AS
+  - countryCode: AD
+  - countryCode: AO
+  - countryCode: AI
+  - countryCode: AQ
+  - countryCode: AG
+  - countryCode: AR
+  - countryCode: AM
+  - countryCode: AW
+  - countryCode: AU
+  - countryCode: AT
+  - countryCode: AZ
+  - countryCode: BS
+  - countryCode: BH
+  - countryCode: BD
+  - countryCode: BB
+  - countryCode: BY
+  - countryCode: BE
+  - countryCode: BZ
+  - countryCode: BJ
+  - countryCode: BM
+  - countryCode: BT
+  - countryCode: BO
+  - countryCode: BQ
+  - countryCode: BA
+  - countryCode: BW
+  - countryCode: BV
+  - countryCode: BR
+  - countryCode: IO
+  - countryCode: BN
+  - countryCode: BG
+  - countryCode: BF
+  - countryCode: BI
+  - countryCode: KH
+  - countryCode: CM
+  - countryCode: CA
+  - countryCode: CV
+  - countryCode: KY
+  - countryCode: CF
+  - countryCode: TD
+  - countryCode: CL
+  - countryCode: CN
+  - countryCode: CX
+  - countryCode: CC
+  - countryCode: CO
+  - countryCode: KM
+  - countryCode: CG
+  - countryCode: CD
+  - countryCode: CK
+  - countryCode: CR
+  - countryCode: CI
+  - countryCode: HR
+  - countryCode: CW
+  - countryCode: CY
+  - countryCode: CZ
+  - countryCode: DK
+  - countryCode: DJ
+  - countryCode: DM
+  - countryCode: DO
+  - countryCode: EC
+  - countryCode: EG
+  - countryCode: SV
+  - countryCode: GQ
+  - countryCode: ER
+  - countryCode: EE
+  - countryCode: ET
+  - countryCode: FK
+  - countryCode: FO
+  - countryCode: FJ
+  - countryCode: FI
+  - countryCode: FR
+  - countryCode: GF
+  - countryCode: PF
+  - countryCode: TF
+  - countryCode: GA
+  - countryCode: GM
+  - countryCode: GE
+  - countryCode: DE
+  - countryCode: GH
+  - countryCode: GI
+  - countryCode: GR
+  - countryCode: GL
+  - countryCode: GD
+  - countryCode: GP
+  - countryCode: GU
+  - countryCode: GT
+  - countryCode: GG
+  - countryCode: GN
+  - countryCode: GW
+  - countryCode: GY
+  - countryCode: HT
+  - countryCode: HM
+  - countryCode: HN
+  - countryCode: HK
+  - countryCode: HU
+  - countryCode: IS
+  - countryCode: IN
+  - countryCode: ID
+  - countryCode: IQ
+  - countryCode: IE
+  - countryCode: IM
+  - countryCode: IL
+  - countryCode: IT
+  - countryCode: JM
+  - countryCode: JP
+  - countryCode: JE
+  - countryCode: JO
+  - countryCode: KZ
+  - countryCode: KE
+  - countryCode: KI
+  - countryCode: KR
+  - countryCode: KW
+  - countryCode: KG
+  - countryCode: LA
+  - countryCode: LV
+  - countryCode: LB
+  - countryCode: LS
+  - countryCode: LR
+  - countryCode: LY
+  - countryCode: LI
+  - countryCode: LT
+  - countryCode: LU
+  - countryCode: MO
+  - countryCode: MK
+  - countryCode: MG
+  - countryCode: MW
+  - countryCode: MY
+  - countryCode: MV
+  - countryCode: ML
+  - countryCode: MT
+  - countryCode: MH
+  - countryCode: MQ
+  - countryCode: MR
+  - countryCode: MU
+  - countryCode: YT
+  - countryCode: MX
+  - countryCode: FM
+  - countryCode: MD
+  - countryCode: MC
+  - countryCode: MN
+  - countryCode: ME
+  - countryCode: MS
+  - countryCode: MA
+  - countryCode: MZ
+  - countryCode: MM
+  - countryCode: NA
+  - countryCode: NR
+  - countryCode: NP
+  - countryCode: NL
+  - countryCode: NC
+  - countryCode: NZ
+  - countryCode: NI
+  - countryCode: NE
+  - countryCode: NG
+  - countryCode: NU
+  - countryCode: NF
+  - countryCode: MP
+  - countryCode: 'NO'
+  - countryCode: OM
+  - countryCode: PK
+  - countryCode: PW
+  - countryCode: PS
+  - countryCode: PA
+  - countryCode: PG
+  - countryCode: PY
+  - countryCode: PE
+  - countryCode: PH
+  - countryCode: PN
+  - countryCode: PL
+  - countryCode: PT
+  - countryCode: PR
+  - countryCode: QA
+  - countryCode: RE
+  - countryCode: RO
+  - countryCode: RU
+  - countryCode: RW
+  - countryCode: BL
+  - countryCode: KN
+  - countryCode: LC
+  - countryCode: MF
+  - countryCode: WS
+  - countryCode: SM
+  - countryCode: ST
+  - countryCode: SA
+  - countryCode: SN
+  - countryCode: RS
+  - countryCode: SC
+  - countryCode: SL
+  - countryCode: SG
+  - countryCode: SX
+  - countryCode: SK
+  - countryCode: SI
+  - countryCode: SB
+  - countryCode: SO
+  - countryCode: ZA
+  - countryCode: GS
+  - countryCode: SS
+  - countryCode: ES
+  - countryCode: LK
+  - countryCode: SH
+  - countryCode: PM
+  - countryCode: VC
+  - countryCode: SR
+  - countryCode: SJ
+  - countryCode: SZ
+  - countryCode: SE
+  - countryCode: CH
+  - countryCode: TW
+  - countryCode: TJ
+  - countryCode: TZ
+  - countryCode: TH
+  - countryCode: TL
+  - countryCode: TG
+  - countryCode: TK
+  - countryCode: TO
+  - countryCode: TT
+  - countryCode: TN
+  - countryCode: TR
+  - countryCode: TM
+  - countryCode: TC
+  - countryCode: TV
+  - countryCode: UG
+  - countryCode: UA
+  - countryCode: AE
+  - countryCode: GB
+  - countryCode: US
+  - countryCode: UY
+  - countryCode: UM
+  - countryCode: UZ
+  - countryCode: VU
+  - countryCode: VA
+  - countryCode: VE
+  - countryCode: VN
+  - countryCode: VG
+  - countryCode: VI
+  - countryCode: WF
+  - countryCode: EH
+  - countryCode: YE
+  - countryCode: ZM
+  - countryCode: ZW
+countries:
+- countryCode: AF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AX
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AL
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: DZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AD
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: AO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AI
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AQ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AU
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AT
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: AZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BS
+  currencyCode: USD
+  currencySymbol: "$"
+  message: Not in the Bahamas?
+- countryCode: BH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BD
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BB
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BY
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BE
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: BZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BJ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BT
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BQ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BV
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: IO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BI
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CV
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KY
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TD
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CL
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CN
+  currencyCode: USD
+  currencySymbol: "$"
+  message: 不在中国 ？
+- countryCode: CX
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CD
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CI
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: HR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CY
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: CZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: DK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: DJ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: DM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: DO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: EC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: EG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SV
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GQ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: ER
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: EE
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: ET
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: FK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: FO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: FJ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: FI
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: FR
+  currencyCode: EUR
+  currencySymbol: "€"
+  message: Pas en France ?
+- countryCode: GF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GM
+  currencyCode: USD
+  currencySymbol: "$"
+  message: Not in The Gambia?
+- countryCode: GE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: DE
+  currencyCode: EUR
+  currencySymbol: "€"
+  message: Sie befinden sich nicht in Deutschland?
+- countryCode: GH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GI
+  currencyCode: GBP
+  currencySymbol: "£"
+- countryCode: GR
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: GL
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GD
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GP
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GU
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GT
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GG
+  currencyCode: GBP
+  currencySymbol: "£"
+- countryCode: GN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GY
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: HT
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: HM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: HN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: HK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: HU
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: IS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: IN
+  currencyCode: INR
+  currencySymbol: "₹"
+- countryCode: ID
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: IQ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: IE
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: IM
+  currencyCode: GBP
+  currencySymbol: "£"
+- countryCode: IL
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: IT
+  currencyCode: EUR
+  currencySymbol: "€"
+  message: Non sei in Italia?
+- countryCode: JM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: JP
+  currencyCode: JPY
+  currencySymbol: "¥"
+- countryCode: JE
+  currencyCode: GBP
+  currencySymbol: "£"
+- countryCode: JO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KI
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: LA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: LV
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: LB
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: LS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: LR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: LY
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: LI
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: LT
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: LU
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: MO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MY
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MV
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: ML
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MT
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: MH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MQ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MU
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: YT
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MX
+  currencyCode: USD
+  currencySymbol: "$"
+  message: "¿Fuera de México?"
+- countryCode: FM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MD
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MC
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: MN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: ME
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NP
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NL
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: NC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NI
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NU
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: NF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MP
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: 'NO'
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: OM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PY
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PL
+  currencyCode: USD
+  currencySymbol: "$"
+  message: Nie jestes obecnie w Polsce?
+- countryCode: PT
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: PR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: QA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: RE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: RO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: RU
+  currencyCode: USD
+  currencySymbol: "$"
+  message: Находитесь не в России?
+- countryCode: RW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: BL
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: LC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: MF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: WS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SM
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: ST
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: VC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: RS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SL
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SX
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SK
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: SI
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: SB
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: ZA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SS
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: KR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: ES
+  currencyCode: EUR
+  currencySymbol: "€"
+  message: "¿No se encuentra en España?"
+- countryCode: LK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: PM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: VC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SJ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: SE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: CH
+  currencyCode: CHF
+  currencySymbol: CHF
+  message: Pas en Suisse ? Sie befinden sich nicht in Schweiz?
+- countryCode: TW
+  currencyCode: USD
+  currencySymbol: "$"
+  message: 不在台灣嗎？
+- countryCode: TJ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TL
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TK
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TO
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TT
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TR
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TC
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TV
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: UG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: UA
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: AE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: GB
+  currencyCode: GBP
+  currencySymbol: "£"
+- countryCode: US
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: UY
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: UM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: UZ
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: VU
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: VA
+  currencyCode: EUR
+  currencySymbol: "€"
+- countryCode: VE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: VN
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: VG
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: VI
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: WF
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: EH
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: YE
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: ZM
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: ZW
+  currencyCode: USD
+  currencySymbol: "$"
+- countryCode: TF
+  currencyCode: USD
+  currencySymbol: "$"

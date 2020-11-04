@@ -1,0 +1,38 @@
+### YamlMime:RESTOperation
+uid: fully-qualified-iothubname.azure-devices.net.iothub.device.senddeviceevent
+name: Send Device Event
+service: IoT Hub
+groupName: Device
+apiVersion: 2018-06-30
+summary: "Send a device-to-cloud message.  \nSend a device-to-cloud message. See https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-messaging for more information."
+consumes: []
+produces:
+- application/json
+paths:
+- content: POST https://fully-qualified-iothubname.azure-devices.net/devices/{id}/messages/events?api-version=2018-06-30
+uriParameters:
+- name: id
+  in: path
+  isRequired: true
+  description: Device ID.
+  types:
+  - uid: string
+- name: api-version
+  in: query
+  isRequired: true
+  description: Version of the Api.
+  types:
+  - uid: string
+responses:
+- name: 204 No Content
+  description: No Content
+requestHeader:
+- name: iothub-app-XXX
+  in: header
+  description: Optional application property prefixed with 'iothub-app-' to be placed in 'applicationProperties' section of the message ('iothub-app-' prefix will be stripped).
+  types:
+  - uid: string
+definitions: []
+examples: []
+security: []
+errorCodes: []

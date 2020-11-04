@@ -1,0 +1,70 @@
+### YamlMime:Challenge
+howItWorks:
+- title: Compete
+  description: Benchmark your progress against friends and coworkers. It's always better when we learn together.
+- title: Learn
+  description: Increase your understanding with easy-to-read instruction and stay up on the bleeding-edge of technology.
+- title: Develop Skills
+  description: By the end of the challenge, you'll have marketable skills to better yourself and your career.
+collectionSoloFaqs:
+- title: How do I start?
+  body: |
+    To start this challenge, register by clicking the "Join the challenge" button above -- you'll be asked to login to your Microsoft Learn account and will be added to the competition and leaderboard. From there, you'll start competing by completing the designated challenge collection.
+    
+    If you don’t have a Microsoft Learn account, that is okay. You can create a free account by selecting “Create account” from the login screen when joining the challenge. 
+- title: How do I complete the challenge?
+  body: To complete this challenge, you'll need to finish the designated collection of content before the challenge end date.
+- title: How do I find all of my challenges?
+  body: You can see all the challenges you've previously participated in, or are currently participating in, on the [challenge page in your user profile](https://docs.microsoft.com/en-us/users/me/challenges).
+collectionTeamsFaqs:
+- title: How do I start?
+  body: |
+    To start this challenge, register by clicking the "Join the challenge" button above--from there you'll be assigned to a team and the competition will be on!
+    
+    Start competing and contributing to your team by completing the designated challenge collection.
+    
+    If you don’t a have a Microsoft Learn account, that is okay. You can create a free account by selecting “Create account” from the login screen when joining the challenge. 
+- title: How do I win?
+  body: |
+    To win this challenge your team needs to have the highest average completion status on the challenge collection across all team members by the time the challenge ends.
+    
+    If everyone on your team completes all of the designated challenge collection, you're on track for the top of the leaderboard! 
+- title: How is team score calculated? 
+  body: | 
+    Team score is calculated by averaging together each teammate's completion status of the designated challenge collection.
+    
+    If everyone on your team completes all of the designated learning content, you're on track for the top of the leaderboard! 
+- title: How do I find all of my challenges?
+  body: You can see all the challenges you've previously participated in, or are currently participating in, on the [challenge page in your user profile](https://docs.microsoft.com/en-us/users/me/challenges). 
+xpSoloFaqs:
+- title: How do I start?
+  body: |
+    To start this challenge, register by clicking the "Join the challenge" button above--you'll be added to the competition and leaderboard.
+    
+    From there, you'll start competing by completing Microsoft Learn modules and gaining experience points (XP).
+    
+    If you don’t have a Microsoft Learn account, that is okay. You can create a free account by selecting “Create account” from the login screen when joining the challenge.
+- title: How do I win?
+  body: |
+    To win this challenge, you need to have the highest XP gained within the time the challenge is open. 
+    
+    You can earn XP by completing Learn modules, completing Learning Paths, and unlocking achievements. 
+- title: How do I find all of my challenges?
+  body: You can see all the challenges you've previously participated in, or are currently participating in, on the [challenge page in your user profile](https://docs.microsoft.com/en-us/users/me/challenges).
+xpTeamsFaqs:
+- title: How do I start?
+  body: |
+    To start this challenge, register by clicking the "Join the challenge" button above--from there you'll be assigned to a team and the competition will be on! 
+    
+    Start competing and contributing to your team by completing Microsoft Learn modules and gaining experience points (XP). 
+    
+    If you don’t a have a Microsoft Learn account, that is okay. You can create a free account by selecting “Create account” from the login screen when joining the challenge. 
+- title: How do I win?
+  body: |
+    To win this challenge, your team needs to have the highest average XP gained at the end of the challenge.  
+    
+    You can earn XP and contribute to your team by completing Learn modules, completing Learning Paths, and unlocking achievements. 
+- title: How is team score calculated? 
+  body: Team score is calculated by averaging the total XP gained by each member of the roster. Highest team average at the end of the challenge duration wins!
+- title: How do I find all of my challenges?
+  body: You can see all the challenges you've previously participated in, or are currently participating in, on the [challenge page in your user profile](https://docs.microsoft.com/en-us/users/me/challenges).

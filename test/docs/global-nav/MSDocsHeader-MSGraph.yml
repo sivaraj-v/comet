@@ -1,0 +1,47 @@
+### YamlMime:ContentNav
+
+category:
+  href: /graph/
+  title: Microsoft Graph
+items:
+  - href: /graph/overview
+    title: Guides
+  - href: /graph/api/overview?view=graph-rest-1.0
+    title: API Reference
+  - title: Resources
+    items:
+      - href: https://developer.microsoft.com/graph/gallery
+        title: All Resources
+      - href: https://developer.microsoft.com/graph/blogs/
+        title: Blog
+      - href: https://developer.microsoft.com/graph/events
+        title: Events
+      - href: https://developer.microsoft.com/graph/gallery/?filterBy=Samples,SDKs
+        title: Samples & SDKs
+      - href: https://developer.microsoft.com/graph/gallery/?filterBy=Training
+        title: Training
+      - href: https://developer.microsoft.com/graph/gallery/?filterBy=Tools
+        title: Tools
+      - href: https://developer.microsoft.com/graph/gallery/?filterBy=Podcasts,Videos
+        title: Videos & Podcasts
+      - href: https://developer.microsoft.com/graph/support
+        title: Support
+      - href: https://go.microsoft.com/fwlink/?linkid=2083908
+        title: My Apps
+  - title: Developer Program
+    items:
+      - href: https://developer.microsoft.com/microsoft-365/dev-program
+        title: Join
+      - href: https://developer.microsoft.com/microsoft-365/profile
+        title: Dashboard
+      - href: /office/developer-program/microsoft-365-developer-program
+        title: Developer Program Docs
+      - href: /office/developer-program/microsoft-365-developer-program-faq
+        title: FAQ
+callToAction:
+  primary:
+    href: https://developer.microsoft.com/graph/graph-explorer
+    title: Graph Explorer
+  secondary:
+    href: https://developer.microsoft.com/graph/get-started
+    title: Getting started

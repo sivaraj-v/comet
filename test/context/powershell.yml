@@ -1,0 +1,7 @@
+### YamlMime:ContextObject
+uhfHeaderId: MSDocsHeader-Powershell
+searchScope:
+  - PowerShell
+  - .NET
+breadcrumb_path: ./powershell/breadcrumb.json
+toc_rel: ./powershell/toc.yml

@@ -1,0 +1,59 @@
+### YamlMime:Sample
+metadata:
+  ms.date: 02/11/2020
+authors:
+- id: wiazur
+  displayName: Azure
+- id: aahill
+  displayName: aahill
+- id: PatrickFarley
+  displayName: Patrick Farley
+- id: olduroja
+  displayName: olduroja
+- id: lazerwalker
+  displayName: Em
+- id: v-rajagt
+  displayName: v-rajagt
+- id: harishkrishnav
+  displayName: Harish Krishna
+- id: rlagh2
+  displayName: rlagh2
+- id: erhopf
+  displayName: erhopf
+- id: nschonni
+  displayName: Nick Schonning
+- id: xinyzhou
+  displayName: xinyzhou
+- id: gowthu2712
+  displayName: Gowtham Ganesan
+- id: gowtham2712
+  displayName: Gowtham Ganesan
+- id: yibosun
+  displayName: Yibo Sun
+- id: nitinme
+  displayName: Nitin Mehrotra
+- id: MikeDodaro
+  displayName: Mike Dodaro
+- id: diberry
+  displayName: Dina Berry
+- id: ronak25
+  displayName: Ronak
+- id: microsoftopensource
+  displayName: Microsoft Open Source
+- id: msftgits
+  displayName: Microsoft GitHub User
+codeUrl: https://github.com/Azure-Samples/cognitive-services-REST-api-samples/tree/master/
+content: "\r\n\r\n\r\n\r\nThis repo provides code samples for Azure Cognitive Services APIs. There are sections for Language, Search, and Vision, using various progamming languages. Note that these are just simple wrappers to the APIs. For SDKs and SDK samples there are separate repos (see below for references). \r\n\r\nCognitive Services introduction: https://azure.microsoft.com/en-us/services/cognitive-services/\r\n\r\nCognitive Services docs: https://docs.microsoft.com/en-us/azure/cognitive-services/\r\n\r\n## Getting Started\r\n\r\nThese REST samples require some steps:\r\n  1. Copy the sample into your favorite IDE or text editor.\r\n  1. Get a subscription key and endpoint from your API service (for example, Computer Vision or Bing Search, etc.) If you have not created the Azure service you need, go here to get a free (or paid) account: https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F\r\n  1. Add your key and endpoint to your environment variables with the naming as shown in the code sample.\r\n  1. Install libraries if needed (instructions on the ones needed are in the sample).\r\n  1. Compile and run the sample through your IDE or the command line.\r\n  1. (Optional) You may want to download the whole repo first: <br>\r\n      `git clone https://github.com/Azure-Samples/cognitive-services-REST-api-samples`\r\n\r\n## Resources\r\n\r\n- Cognitive Services REST APIs: https://westus.dev.cognitive.microsoft.com/docs/services/\r\n- Cognitive Services introduction: https://azure.microsoft.com/en-us/services/cognitive-services/\r\n- Documentation for Cognitive Services: https://docs.microsoft.com/en-us/azure/cognitive-services/\r\n- The Microsoft Azure portal: https://portal.azure.com/#home\r\n- Maven: https://mvnrepository.com/artifact/com.microsoft.azure.cognitiveservices\r\n\r\n## SDK Samples\r\n\r\n- Dotnet: https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples\r\n- Java: https://github.com/Azure-Samples/cognitive-services-java-sdk-samples\r\n- Node: https://github.com/Azure-Samples/cognitive-services-node-sdk-samples\r\n- Python: https://github.com/Azure-Samples/cognitive-services-python-sdk-samples\r\n\r\n### Service-specific SDK Samples\r\n\r\n- Speech: https://github.com/Azure-Samples/cognitive-services-speech-sdk\r\n- Personalizer: https://github.com/Azure-Samples/cognitive-services-personalizer-samples\r\n- Content Moderator: https://github.com/Azure-Samples/cognitive-services-content-moderator-samples\r\n"
+languages:
+- csharp
+- html
+- java
+- javascript
+- swift
+- python
+products:
+- azure
+title: Samples for REST APIs in Cognitive Services
+description: This repo provides code samples for cognitive services APIs.
+uid: Azure-Samples-cognitive-services-REST-api-samples-cognitive-services-REST-api-samples
+zipUrl: https://github.com/Azure-Samples/cognitive-services-REST-api-samples/releases/download/120227/Samples_for_REST_APIs_in_Cognitive_Services.zip

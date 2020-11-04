@@ -1,0 +1,32 @@
+### YamlMime:Tutorial
+title: Video Tutorial
+metadata:
+  title: Video Tutorial
+  description: In this quickstart, you'll see a video.
+  audience: Developer
+  level: Beginner
+items:
+- durationInMinutes: 1
+  title: Intro 🌊
+  content: |
+    This quickstart teaches you videos, memes, gif making, sub-tweeting, trolling, inside jokery, tom foolery.
+- title: Channel 9 Video
+  durationInMinutes: 2
+  content: |
+    The extension will ensure that Channel 9 URLs end with the following querystring: "?nocookie=true"
+
+    > [!video https://channel9.msdn.com/Blogs/BUILD-Conference-Highlights/Announcing-Microsoft-Build-2017/player]
+
+    ```md
+    > [!video https://channel9.msdn.com/Blogs/BUILD-Conference-Highlights/Announcing-Microsoft-Build-2017/player]
+    ```
+- title: YouTube Video
+  durationInMinutes: 3
+  content: |
+    The extension will ensure that YouTube URLs end come from the following domain: "youtube-nocookie.com"
+
+    > [!video https://www.youtube.com/embed/Ry8kY_QP4ys]
+
+    ```md
+    > [!video https://www.youtube.com/embed/Ry8kY_QP4ys]
+    ```

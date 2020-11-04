@@ -1,0 +1,1922 @@
+[
+  {
+    "url": "/test/learn/recommendations/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "What is Azure Application Insights?",
+    "recommendedUrl": "/azure/azure-monitor/app/app-insights-overview"
+  },
+  {
+    "url": "/test/learn/recommendations/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "Monitor apps - Azure App Service",
+    "recommendedUrl": "/azure/app-service/web-sites-monitor"
+  },
+  {
+    "url": "/test/learn/recommendations/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "Explore .NET trace logs in Azure Application Insights with ILogger",
+    "recommendedUrl": "/azure/azure-monitor/app/ilogger"
+  },
+  {
+    "url": "/test/learn/recommendations/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "Azure Monitor Documentation",
+    "recommendedUrl": "/azure/azure-monitor/"
+  },
+  {
+    "url": "/azure/active-directory/authentication/howto-password-ban-bad-on-premises-deploy",
+    "recommendedTitle": "Dynamically banned passwords - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/authentication/concept-password-ban-bad"
+  },
+  {
+    "url": "/azure/active-directory/authentication/howto-password-ban-bad-on-premises-deploy",
+    "recommendedTitle": "Self-service password reset deep dive - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/authentication/concept-sspr-howitworks"
+  },
+  {
+    "url": "/azure/active-directory/authentication/howto-password-ban-bad-on-premises-deploy",
+    "recommendedTitle": "Self-service password reset deployment plan - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/authentication/howto-sspr-deployment"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/best-practices",
+    "recommendedTitle": "What is Conditional Access in Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/overview"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/best-practices",
+    "recommendedTitle": "Plan Conditional Access policies in Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/conditional-access/plan-conditional-access"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/best-practices",
+    "recommendedTitle": "",
+    "recommendedUrl": "/active-directory/conditional-access/concept-conditional-access-policy-common"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/best-practices",
+    "recommendedTitle": "What are conditions in Azure Active Directory Conditional Access?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/conditions"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/conditions",
+    "recommendedTitle": "What is Conditional Access in Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/overview"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/conditions",
+    "recommendedTitle": "Plan Conditional Access policies in Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/conditional-access/plan-conditional-access"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/conditions",
+    "recommendedTitle": "Best practices for Conditional Access in Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/conditional-access/best-practices"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/conditions",
+    "recommendedTitle": "Azure Active Directory Conditional Access settings reference",
+    "recommendedUrl": "/azure/active-directory/conditional-access/technical-reference"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/location-condition",
+    "recommendedTitle": "Azure Active Directory Conditional Access settings reference",
+    "recommendedUrl": "/azure/active-directory/conditional-access/technical-reference"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/location-condition",
+    "recommendedTitle": "What is Conditional Access in Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/overview"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/location-condition",
+    "recommendedTitle": "Best practices for Conditional Access in Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/conditional-access/best-practices"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/location-condition",
+    "recommendedTitle": "What are conditions in Azure Active Directory Conditional Access?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/conditions"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/technical-reference",
+    "recommendedTitle": "What is Conditional Access in Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/overview"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/technical-reference",
+    "recommendedTitle": "Best practices for Conditional Access in Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/conditional-access/best-practices"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/technical-reference",
+    "recommendedTitle": "What are conditions in Azure Active Directory Conditional Access?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/conditions"
+  },
+  {
+    "url": "/azure/active-directory/conditional-access/technical-reference",
+    "recommendedTitle": "Plan and execute an Azure Multi-Factor Authentication deployment - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/authentication/howto-mfa-getstarted"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-authentication-libraries",
+    "recommendedTitle": "Microsoft identity platform authentication libraries",
+    "recommendedUrl": "/azure/active-directory/develop/reference-v2-libraries"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-authentication-libraries",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/msal-overview"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-authentication-libraries",
+    "recommendedTitle": "Code samples for Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/develop/sample-v2-code"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-authentication-libraries",
+    "recommendedTitle": "Authentication in Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/develop/authentication-scenarios"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-configurable-token-lifetimes",
+    "recommendedTitle": "Microsoft identity platform access tokens reference",
+    "recommendedUrl": "/azure/active-directory/develop/access-tokens"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-configurable-token-lifetimes",
+    "recommendedTitle": "Microsoft identity platform ID token reference",
+    "recommendedUrl": "/azure/active-directory/develop/id-tokens"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-configurable-token-lifetimes",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-configurable-token-lifetimes",
+    "recommendedTitle": "Learn how to provide optional claims to your Azure AD application",
+    "recommendedUrl": "/azure/active-directory/develop/active-directory-optional-claims"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-graph-api",
+    "recommendedTitle": "",
+    "recommendedUrl": "/use-the-api"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-graph-api",
+    "recommendedTitle": "",
+    "recommendedUrl": "/quick-start"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-graph-api",
+    "recommendedTitle": "",
+    "recommendedUrl": "/graph-explorer"
+  },
+  {
+    "url": "/azure/active-directory/develop/active-directory-graph-api",
+    "recommendedTitle": "",
+    "recommendedUrl": "/graph/"
+  },
+  {
+    "url": "/azure/active-directory/develop/reference-app-manifest",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/reference-app-manifest"
+  },
+  {
+    "url": "/azure/active-directory/develop/reference-app-manifest",
+    "recommendedTitle": "",
+    "recommendedUrl": "/previous-versions/azure/ad/graph/api/entity-and-complex-type-reference"
+  },
+  {
+    "url": "/azure/active-directory/develop/reference-app-manifest",
+    "recommendedTitle": "",
+    "recommendedUrl": "ous-versions/azure/ad/graph/api/entity-and-complex-type-reference"
+  },
+  {
+    "url": "/azure/active-directory/develop/reference-app-manifest",
+    "recommendedTitle": "",
+    "recommendedUrl": "shell/module/azuread/"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v1-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/sample-v1-code"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v1-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/sample-v2-code"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v1-code",
+    "recommendedTitle": "Microsoft identity platform authentication libraries",
+    "recommendedUrl": "/azure/active-directory/develop/reference-v2-libraries"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v1-code",
+    "recommendedTitle": "Authentication in Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/develop/authentication-scenarios"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v2-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/sample-v2-code"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v2-code",
+    "recommendedTitle": "Microsoft identity platform authentication libraries",
+    "recommendedUrl": "/azure/active-directory/develop/reference-v2-libraries"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v2-code",
+    "recommendedTitle": "Authentication in Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/develop/authentication-scenarios"
+  },
+  {
+    "url": "/azure/active-directory/develop/sample-v2-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/authentication-flows-app-scenarios"
+  },
+  {
+    "url": "/azure/active-directory/develop/single-sign-on-saml-protocol",
+    "recommendedTitle": "Single sign-on to applications - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/manage-apps/what-is-single-sign-on"
+  },
+  {
+    "url": "/azure/active-directory/develop/single-sign-on-saml-protocol",
+    "recommendedTitle": "Single sign-on - non-gallery applications - Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/manage-apps/configure-single-sign-on-non-gallery-applications"
+  },
+  {
+    "url": "/azure/active-directory/develop/single-sign-on-saml-protocol",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/single-sign-out-saml-protocol"
+  },
+  {
+    "url": "/azure/active-directory/develop/single-sign-on-saml-protocol",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/active-directory-saml-protocol-reference"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-oauth2-client-creds-grant-flow",
+    "recommendedTitle": "Use Microsoft identity platform to access secure resources without user interaction",
+    "recommendedUrl": "/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-oauth2-client-creds-grant-flow",
+    "recommendedTitle": "Authentication in Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/develop/authentication-scenarios"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-oauth2-client-creds-grant-flow",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/v2-app-types"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-oauth2-client-creds-grant-flow",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/active-directory-v2-protocols"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-oauth-code",
+    "recommendedTitle": "Microsoft identity platform and OAuth Authorization Code Flow",
+    "recommendedUrl": "/azure/active-directory/develop/v2-oauth2-auth-code-flow"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-oauth-code",
+    "recommendedTitle": "Authentication in Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/develop/authentication-scenarios"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-oauth-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/v2-app-types"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-oauth-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/active-directory-v2-protocols"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-openid-connect-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/v2-protocols-oidc"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-openid-connect-code",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/active-directory/develop/active-directory-v2-protocols"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-openid-connect-code",
+    "recommendedTitle": "Authentication in Microsoft identity platform",
+    "recommendedUrl": "/azure/active-directory/develop/authentication-scenarios"
+  },
+  {
+    "url": "/azure/active-directory/develop/v1-protocols-openid-connect-code",
+    "recommendedTitle": "Microsoft identity platform access tokens reference",
+    "recommendedUrl": "/azure/active-directory/develop/access-tokens"
+  },
+  {
+    "url": "/azure/active-directory/devices/enterprise-state-roaming-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/active-directory/devices/enterprise-state-roaming-enable"
+  },
+  {
+    "url": "/azure/active-directory/devices/enterprise-state-roaming-overview",
+    "recommendedTitle": "What is device identity in Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/devices/overview"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-control",
+    "recommendedTitle": "How to plan hybrid Azure Active Directory join implementation in Azure Active Directory (Azure AD)",
+    "recommendedUrl": "/azure/active-directory/devices/hybrid-azuread-join-plan"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-control",
+    "recommendedTitle": "Configure hybrid Azure Active Directory join for managed domains",
+    "recommendedUrl": "/azure/active-directory/devices/hybrid-azuread-join-managed-domains"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-control",
+    "recommendedTitle": "Configure hybrid Azure Active Directory join for federated domains",
+    "recommendedUrl": "/azure/active-directory/devices/hybrid-azuread-join-federated-domains"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-control",
+    "recommendedTitle": "Configure hybrid Azure Active Directory joined devices manually",
+    "recommendedUrl": "/azure/active-directory/devices/hybrid-azuread-join-manual"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-plan",
+    "recommendedTitle": "What is a hybrid Azure AD joined device?",
+    "recommendedUrl": "/azure/active-directory/devices/concept-azure-ad-join-hybrid"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-plan",
+    "recommendedTitle": "Controlled validation of hybrid Azure AD join - Azure AD",
+    "recommendedUrl": "/azure/active-directory/devices/hybrid-azuread-join-control"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-plan",
+    "recommendedTitle": "Troubleshooting hybrid Azure Active Directory joined devices - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current"
+  },
+  {
+    "url": "/azure/active-directory/devices/hybrid-azuread-join-plan",
+    "recommendedTitle": "Configure hybrid Azure Active Directory joined devices manually",
+    "recommendedUrl": "/azure/active-directory/devices/hybrid-azuread-join-manual"
+  },
+  {
+    "url": "/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current",
+    "recommendedTitle": "What is device identity in Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/devices/overview"
+  },
+  {
+    "url": "/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current",
+    "recommendedTitle": "What is an Azure AD joined device?",
+    "recommendedUrl": "/azure/active-directory/devices/concept-azure-ad-join"
+  },
+  {
+    "url": "/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current",
+    "recommendedTitle": "What is a hybrid Azure AD joined device?",
+    "recommendedUrl": "/azure/active-directory/devices/concept-azure-ad-join-hybrid"
+  },
+  {
+    "url": "/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current",
+    "recommendedTitle": "How to plan hybrid Azure Active Directory join implementation in Azure Active Directory (Azure AD)",
+    "recommendedUrl": "/azure/active-directory/devices/hybrid-azuread-join-plan"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-custom",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-custom",
+    "recommendedTitle": "Azure AD Connect: Prerequisites and hardware",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-custom",
+    "recommendedTitle": "Azure AD Connect sync: Understand and customize synchronization",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sync-whatis"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-custom",
+    "recommendedTitle": "What is Azure AD Connect and Connect Health.",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-azure-ad-connect"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites",
+    "recommendedTitle": "Azure AD Connect sync: Understand and customize synchronization",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sync-whatis"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites",
+    "recommendedTitle": "What is Azure AD Connect and Connect Health.",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-azure-ad-connect"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization",
+    "recommendedTitle": "Azure AD Connect: Pass-through Authentication",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-pta"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization",
+    "recommendedTitle": "Azure AD Connect: Prerequisites and hardware",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-pta",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-pta",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-pta",
+    "recommendedTitle": "Azure AD Connect: Prerequisites and hardware",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-pta",
+    "recommendedTitle": "What is Azure AD Connect and Connect Health.",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-azure-ad-connect"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso",
+    "recommendedTitle": "Azure AD Connect: Seamless Single Sign-On - quick start",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sso-quick-start"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso",
+    "recommendedTitle": "Azure AD Connect: Pass-through Authentication",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-pta"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso-quick-start",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso-quick-start",
+    "recommendedTitle": "Azure AD Connect: Seamless Single Sign-On",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sso"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso-quick-start",
+    "recommendedTitle": "What is Azure AD Connect and Connect Health.",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-azure-ad-connect"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sso-quick-start",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sync-feature-scheduler",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sync-feature-scheduler",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sync-feature-scheduler",
+    "recommendedTitle": "Azure AD Connect: Prerequisites and hardware",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-sync-feature-scheduler",
+    "recommendedTitle": "Azure AD Connect sync: Understand and customize synchronization",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sync-whatis"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-syncservice-duplicate-attribute-resiliency",
+    "recommendedTitle": "Azure AD Connect: Prerequisites and hardware",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-syncservice-duplicate-attribute-resiliency",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-syncservice-duplicate-attribute-resiliency",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/how-to-connect-syncservice-duplicate-attribute-resiliency",
+    "recommendedTitle": "Azure AD Connect sync: Understand and customize synchronization",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sync-whatis"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/plan-connect-topologies",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/plan-connect-topologies",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/plan-connect-topologies",
+    "recommendedTitle": "Azure AD Connect: Prerequisites and hardware",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/plan-connect-topologies",
+    "recommendedTitle": "Azure AD Connect sync: Understand and customize synchronization",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sync-whatis"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/whatis-azure-ad-connect",
+    "recommendedTitle": "What is hybrid identity with Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/hybrid/whatis-hybrid-identity"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/whatis-azure-ad-connect",
+    "recommendedTitle": "Azure AD Connect: Custom installation",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-custom"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/whatis-azure-ad-connect",
+    "recommendedTitle": "Azure AD Connect: Prerequisites and hardware",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-install-prerequisites"
+  },
+  {
+    "url": "/azure/active-directory/hybrid/whatis-azure-ad-connect",
+    "recommendedTitle": "Azure AD Connect sync: Understand and customize synchronization",
+    "recommendedUrl": "/azure/active-directory/hybrid/how-to-connect-sync-whatis"
+  },
+  {
+    "url": "/azure/active-directory/identity-protection/overview",
+    "recommendedTitle": "What is Conditional Access in Azure Active Directory?",
+    "recommendedUrl": "/azure/active-directory/conditional-access/overview"
+  },
+  {
+    "url": "/azure/active-directory/identity-protection/overview",
+    "recommendedTitle": "Plan and execute an Azure Multi-Factor Authentication deployment - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/authentication/howto-mfa-getstarted"
+  },
+  {
+    "url": "/azure/active-directory/identity-protection/overview",
+    "recommendedTitle": "Azure Multi-Factor Authentication - How it works - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/authentication/concept-mfa-howitworks"
+  },
+  {
+    "url": "/azure/active-directory/identity-protection/overview",
+    "recommendedTitle": "Best practices for Conditional Access in Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/conditional-access/best-practices"
+  },
+  {
+    "url": "/azure/app-service/app-service-authentication-how-to",
+    "recommendedTitle": "Authentication and authorization - Azure App Service",
+    "recommendedUrl": "/azure/app-service/overview-authentication-authorization"
+  },
+  {
+    "url": "/azure/app-service/app-service-authentication-how-to",
+    "recommendedTitle": "Authenticate and authorize users end-to-end - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-tutorial-auth-aad"
+  },
+  {
+    "url": "/azure/app-service/app-service-authentication-how-to",
+    "recommendedTitle": "Configure Azure Active Directory authentication - Azure App Service",
+    "recommendedUrl": "/azure/app-service/configure-authentication-provider-aad"
+  },
+  {
+    "url": "/azure/app-service/app-service-authentication-how-to",
+    "recommendedTitle": "Microsoft identity platform (v2.0) overview - Azure",
+    "recommendedUrl": "/azure/active-directory/develop/v2-overview"
+  },
+  {
+    "url": "/azure/app-service/app-service-plan-manage",
+    "recommendedTitle": "App Service plan overview - Azure",
+    "recommendedUrl": "/azure/app-service/overview-hosting-plans"
+  },
+  {
+    "url": "/azure/app-service/app-service-plan-manage",
+    "recommendedTitle": "Scale up features and capacities - Azure App Service",
+    "recommendedUrl": "/azure/app-service/web-sites-scale"
+  },
+  {
+    "url": "/azure/app-service/app-service-plan-manage",
+    "recommendedTitle": "App Service overview - Azure",
+    "recommendedUrl": "/azure/app-service/overview"
+  },
+  {
+    "url": "/azure/app-service/app-service-plan-manage",
+    "recommendedTitle": "Introduction to App Service Environments - Azure",
+    "recommendedUrl": "/azure/app-service/environment/intro"
+  },
+  {
+    "url": "/azure/app-service/configure-common",
+    "recommendedTitle": "Create C# ASP.NET Core web app - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-dotnet"
+  },
+  {
+    "url": "/azure/app-service/configure-common",
+    "recommendedTitle": "Introduction to App Service on Linux - Azure",
+    "recommendedUrl": "/azure/app-service/containers/app-service-linux-intro"
+  },
+  {
+    "url": "/azure/app-service/configure-common",
+    "recommendedTitle": "Azure App Service Documentation - Tutorials API Reference",
+    "recommendedUrl": "/azure/app-service/"
+  },
+  {
+    "url": "/azure/app-service/configure-common",
+    "recommendedTitle": "Create Node.js web app - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-nodejs"
+  },
+  {
+    "url": "/azure/app-service/deploy-continuous-deployment",
+    "recommendedTitle": "Create C# ASP.NET Core web app - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-dotnet"
+  },
+  {
+    "url": "/azure/app-service/deploy-continuous-deployment",
+    "recommendedTitle": "Create Node.js web app - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-nodejs"
+  },
+  {
+    "url": "/azure/app-service/deploy-continuous-deployment",
+    "recommendedTitle": "Introduction to App Service on Linux - Azure",
+    "recommendedUrl": "/azure/app-service/containers/app-service-linux-intro"
+  },
+  {
+    "url": "/azure/app-service/deploy-continuous-deployment",
+    "recommendedTitle": "Azure App Service Documentation - Tutorials API Reference",
+    "recommendedUrl": "/azure/app-service/"
+  },
+  {
+    "url": "/azure/app-service/deploy-ftp",
+    "recommendedTitle": "Create C# ASP.NET Core web app - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-dotnet"
+  },
+  {
+    "url": "/azure/app-service/deploy-ftp",
+    "recommendedTitle": "Azure App Service Documentation - Tutorials API Reference",
+    "recommendedUrl": "/azure/app-service/"
+  },
+  {
+    "url": "/azure/app-service/deploy-ftp",
+    "recommendedTitle": "Create Node.js web app - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-nodejs"
+  },
+  {
+    "url": "/azure/app-service/deploy-ftp",
+    "recommendedTitle": "Introduction to App Service on Linux - Azure",
+    "recommendedUrl": "/azure/app-service/containers/app-service-linux-intro"
+  },
+  {
+    "url": "/azure/app-service/deploy-staging-slots",
+    "recommendedTitle": "App Service overview - Azure",
+    "recommendedUrl": "/azure/app-service/overview"
+  },
+  {
+    "url": "/azure/app-service/deploy-staging-slots",
+    "recommendedTitle": "Azure App Service Documentation - Tutorials API Reference",
+    "recommendedUrl": "/azure/app-service/"
+  },
+  {
+    "url": "/azure/app-service/deploy-staging-slots",
+    "recommendedTitle": "Create C# ASP.NET Core web app - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-dotnet"
+  },
+  {
+    "url": "/azure/app-service/deploy-staging-slots",
+    "recommendedTitle": "Introduction to App Service on Linux - Azure",
+    "recommendedUrl": "/azure/app-service/containers/app-service-linux-intro"
+  },
+  {
+    "url": "/azure/app-service/overview-hosting-plans",
+    "recommendedTitle": "App Service overview - Azure",
+    "recommendedUrl": "/azure/app-service/overview"
+  },
+  {
+    "url": "/azure/app-service/overview-hosting-plans",
+    "recommendedTitle": "Manage App Service plan - Azure",
+    "recommendedUrl": "/azure/app-service/app-service-plan-manage"
+  },
+  {
+    "url": "/azure/app-service/overview-hosting-plans",
+    "recommendedTitle": "Azure App Service Documentation - Tutorials API Reference",
+    "recommendedUrl": "/azure/app-service/"
+  },
+  {
+    "url": "/azure/app-service/overview-hosting-plans",
+    "recommendedTitle": "Introduction to App Service on Linux - Azure",
+    "recommendedUrl": "/azure/app-service/containers/app-service-linux-intro"
+  },
+  {
+    "url": "/azure/app-service/overview-inbound-outbound-ips",
+    "recommendedTitle": "Restrict access - Azure App Service",
+    "recommendedUrl": "/azure/app-service/app-service-ip-restrictions"
+  },
+  {
+    "url": "/azure/app-service/overview-inbound-outbound-ips",
+    "recommendedTitle": "Networking considerations with App Service Environment - Azure",
+    "recommendedUrl": "/azure/app-service/environment/network-info"
+  },
+  {
+    "url": "/azure/app-service/overview-inbound-outbound-ips",
+    "recommendedTitle": "Introduction to App Service Environments - Azure",
+    "recommendedUrl": "/azure/app-service/environment/intro"
+  },
+  {
+    "url": "/azure/app-service/overview-inbound-outbound-ips",
+    "recommendedTitle": "Integrate app with Azure Virtual Network - Azure App Service",
+    "recommendedUrl": "/azure/app-service/web-sites-integrate-with-vnet"
+  },
+  {
+    "url": "/azure/app-service/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "What is Azure Application Insights?",
+    "recommendedUrl": "/azure/azure-monitor/app/app-insights-overview"
+  },
+  {
+    "url": "/azure/app-service/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "Monitor apps - Azure App Service",
+    "recommendedUrl": "/azure/app-service/web-sites-monitor"
+  },
+  {
+    "url": "/azure/app-service/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "Explore .NET trace logs in Azure Application Insights with ILogger",
+    "recommendedUrl": "/azure/azure-monitor/app/ilogger"
+  },
+  {
+    "url": "/azure/app-service/troubleshoot-diagnostic-logs",
+    "recommendedTitle": "Azure Monitor Documentation",
+    "recommendedUrl": "/azure/azure-monitor/"
+  },
+  {
+    "url": "/azure/app-service/webjobs-create",
+    "recommendedTitle": "Develop and deploy WebJobs using Visual Studio - Azure",
+    "recommendedUrl": "/azure/app-service/webjobs-dotnet-deploy-vs"
+  },
+  {
+    "url": "/azure/app-service/webjobs-create",
+    "recommendedTitle": "Get started with the WebJobs SDK - Azure",
+    "recommendedUrl": "/azure/app-service/webjobs-sdk-get-started"
+  },
+  {
+    "url": "/azure/app-service/webjobs-create",
+    "recommendedTitle": "How to use the WebJobs SDK - Azure",
+    "recommendedUrl": "/azure/app-service/webjobs-sdk-how-to"
+  },
+  {
+    "url": "/azure/app-service/webjobs-create",
+    "recommendedTitle": "Timer trigger for Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-bindings-timer"
+  },
+  {
+    "url": "/azure/app-service/webjobs-dotnet-deploy-vs",
+    "recommendedTitle": "Run Background tasks with WebJobs - Azure App Service",
+    "recommendedUrl": "/azure/app-service/webjobs-create"
+  },
+  {
+    "url": "/azure/app-service/webjobs-dotnet-deploy-vs",
+    "recommendedTitle": "Get started with the WebJobs SDK - Azure",
+    "recommendedUrl": "/azure/app-service/webjobs-sdk-get-started"
+  },
+  {
+    "url": "/azure/app-service/webjobs-dotnet-deploy-vs",
+    "recommendedTitle": "How to use the WebJobs SDK - Azure",
+    "recommendedUrl": "/azure/app-service/webjobs-sdk-how-to"
+  },
+  {
+    "url": "/azure/app-service/webjobs-dotnet-deploy-vs",
+    "recommendedTitle": "Timer trigger for Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-bindings-timer"
+  },
+  {
+    "url": "/azure/app-service/webjobs-sdk-get-started",
+    "recommendedTitle": "Run Background tasks with WebJobs - Azure App Service",
+    "recommendedUrl": "/azure/app-service/webjobs-create"
+  },
+  {
+    "url": "/azure/app-service/webjobs-sdk-get-started",
+    "recommendedTitle": "Develop and deploy WebJobs using Visual Studio - Azure",
+    "recommendedUrl": "/azure/app-service/webjobs-dotnet-deploy-vs"
+  },
+  {
+    "url": "/azure/app-service/webjobs-sdk-get-started",
+    "recommendedTitle": "How to use the WebJobs SDK - Azure",
+    "recommendedUrl": "/azure/app-service/webjobs-sdk-how-to"
+  },
+  {
+    "url": "/azure/app-service/webjobs-sdk-get-started",
+    "recommendedTitle": "Timer trigger for Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-bindings-timer"
+  },
+  {
+    "url": "/azure/azure-functions/functions-develop-vs",
+    "recommendedTitle": "Create your first function in Azure using Visual Studio",
+    "recommendedUrl": "/azure/azure-functions/functions-create-your-first-function-visual-studio"
+  },
+  {
+    "url": "/azure/azure-functions/functions-develop-vs",
+    "recommendedTitle": "Azure Functions C# developer reference",
+    "recommendedUrl": "/azure/azure-functions/functions-dotnet-class-library"
+  },
+  {
+    "url": "/azure/azure-functions/functions-develop-vs",
+    "recommendedTitle": "Triggers and bindings in Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-triggers-bindings"
+  },
+  {
+    "url": "/azure/azure-functions/functions-develop-vs",
+    "recommendedTitle": "Work with Azure Functions Core Tools",
+    "recommendedUrl": "/azure/azure-functions/functions-run-local"
+  },
+  {
+    "url": "/azure/azure-functions/functions-host-json",
+    "recommendedTitle": "Work with Azure Functions Core Tools",
+    "recommendedUrl": "/azure/azure-functions/functions-run-local"
+  },
+  {
+    "url": "/azure/azure-functions/functions-host-json",
+    "recommendedTitle": "Guidance for developing Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-reference"
+  },
+  {
+    "url": "/azure/azure-functions/functions-host-json",
+    "recommendedTitle": "Triggers and bindings in Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-triggers-bindings"
+  },
+  {
+    "url": "/azure/azure-functions/functions-host-json",
+    "recommendedTitle": "Azure Functions C# developer reference",
+    "recommendedUrl": "/azure/azure-functions/functions-dotnet-class-library"
+  },
+  {
+    "url": "/azure/azure-functions/functions-monitoring",
+    "recommendedTitle": "Work with Azure Functions Core Tools",
+    "recommendedUrl": "/azure/azure-functions/functions-run-local"
+  },
+  {
+    "url": "/azure/azure-functions/functions-monitoring",
+    "recommendedTitle": "Guidance for developing Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-reference"
+  },
+  {
+    "url": "/azure/azure-functions/functions-monitoring",
+    "recommendedTitle": "Develop Azure Functions using Visual Studio",
+    "recommendedUrl": "/azure/azure-functions/functions-develop-vs"
+  },
+  {
+    "url": "/azure/azure-functions/functions-monitoring",
+    "recommendedTitle": "Triggers and bindings in Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-triggers-bindings"
+  },
+  {
+    "url": "/azure/azure-functions/functions-run-local",
+    "recommendedTitle": "Guidance for developing Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-reference"
+  },
+  {
+    "url": "/azure/azure-functions/functions-run-local",
+    "recommendedTitle": "Triggers and bindings in Azure Functions",
+    "recommendedUrl": "/azure/azure-functions/functions-triggers-bindings"
+  },
+  {
+    "url": "/azure/azure-functions/functions-run-local",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-functions/functions-create-first-azure-function-azure-cli"
+  },
+  {
+    "url": "/azure/azure-functions/functions-run-local",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-functions/functions-deployment-technologies"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-portal",
+    "recommendedTitle": "Get started with log queries in Azure Monitor",
+    "recommendedUrl": "/azure/azure-monitor/log-query/get-started-queries"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-portal",
+    "recommendedTitle": "Overview of log queries in Azure Monitor",
+    "recommendedUrl": "/azure/azure-monitor/log-query/log-query-overview"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-portal",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-monitor/log-query/examples"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-portal",
+    "recommendedTitle": "Azure Monitor log queries",
+    "recommendedUrl": "/azure/azure-monitor/log-query/query-language"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-queries",
+    "recommendedTitle": "Get started with Azure Monitor Log Analytics",
+    "recommendedUrl": "/azure/azure-monitor/log-query/get-started-portal"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-queries",
+    "recommendedTitle": "Get started with log queries in Azure Monitor",
+    "recommendedUrl": "/azure/azure-monitor/log-query/get-started-queries"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-queries",
+    "recommendedTitle": "Overview of log queries in Azure Monitor",
+    "recommendedUrl": "/azure/azure-monitor/log-query/log-query-overview"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/get-started-queries",
+    "recommendedTitle": "Azure Monitor log queries",
+    "recommendedUrl": "/azure/azure-monitor/log-query/query-language"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/log-query-overview",
+    "recommendedTitle": "Get started with log queries in Azure Monitor",
+    "recommendedUrl": "/azure/azure-monitor/log-query/get-started-queries"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/log-query-overview",
+    "recommendedTitle": "Get started with Azure Monitor Log Analytics",
+    "recommendedUrl": "/azure/azure-monitor/log-query/get-started-portal"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/log-query-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-monitor/log-query/examples"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/log-query-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-monitor/log-query/query-language"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/query-language",
+    "recommendedTitle": "Overview - Azure Data Explorer",
+    "recommendedUrl": "/azure/kusto/query/"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/query-language",
+    "recommendedTitle": "Get started with log queries in Azure Monitor",
+    "recommendedUrl": "/azure/azure-monitor/log-query/get-started-queries"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/query-language",
+    "recommendedTitle": "Get started with Azure Monitor Log Analytics",
+    "recommendedUrl": "/azure/azure-monitor/log-query/get-started-portal"
+  },
+  {
+    "url": "/azure/azure-monitor/log-query/query-language",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-monitor/log-query/examples"
+  },
+  {
+    "url": "/azure/azure-monitor/overview",
+    "recommendedTitle": "Azure Monitor Documentation",
+    "recommendedUrl": "/azure/azure-monitor/"
+  },
+  {
+    "url": "/azure/azure-monitor/overview",
+    "recommendedTitle": "What is Azure Application Insights?",
+    "recommendedUrl": "/azure/azure-monitor/app/app-insights-overview"
+  },
+  {
+    "url": "/azure/azure-monitor/overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-monitor/insights/insights-overview"
+  },
+  {
+    "url": "/azure/azure-monitor/overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-monitor/platform/data-platform"
+  },
+  {
+    "url": "/azure/bastion/bastion-create-host-portal",
+    "recommendedTitle": "Azure Bastion",
+    "recommendedUrl": "/azure/bastion/bastion-overview"
+  },
+  {
+    "url": "/azure/bastion/bastion-create-host-portal",
+    "recommendedTitle": "Connect to a Windows VM using Azure Bastion",
+    "recommendedUrl": "/azure/bastion/bastion-connect-vm-rdp"
+  },
+  {
+    "url": "/azure/bastion/bastion-create-host-portal",
+    "recommendedTitle": "Azure Bastion FAQ",
+    "recommendedUrl": "/azure/bastion/bastion-faq"
+  },
+  {
+    "url": "/azure/bastion/bastion-create-host-portal",
+    "recommendedTitle": "Working with VMs and NSGs in Azure Bastion",
+    "recommendedUrl": "/azure/bastion/bastion-nsg"
+  },
+  {
+    "url": "/azure/billing/billing-add-change-azure-subscription-administrator",
+    "recommendedTitle": "What is role-based access control (RBAC) for Azure resources?",
+    "recommendedUrl": "/azure/role-based-access-control/overview"
+  },
+  {
+    "url": "/azure/billing/billing-add-change-azure-subscription-administrator",
+    "recommendedTitle": "Classic subscription administrator roles Azure RBAC roles and Azure AD administrator roles",
+    "recommendedUrl": "/azure/role-based-access-control/rbac-and-directory-admin-roles"
+  },
+  {
+    "url": "/azure/billing/billing-add-change-azure-subscription-administrator",
+    "recommendedTitle": "Add an existing Azure subscription to your tenant - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory"
+  },
+  {
+    "url": "/azure/billing/billing-add-change-azure-subscription-administrator",
+    "recommendedTitle": "Administrator role descriptions and permissions - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/users-groups-roles/directory-assign-admin-roles"
+  },
+  {
+    "url": "/azure/billing/billing-download-azure-invoice-daily-usage-date",
+    "recommendedTitle": "Understand your Azure bill",
+    "recommendedUrl": "/azure/billing/billing-understand-your-bill"
+  },
+  {
+    "url": "/azure/billing/billing-download-azure-invoice-daily-usage-date",
+    "recommendedTitle": "Prevent unexpected costs manage billing in Azure",
+    "recommendedUrl": "/azure/billing/billing-getting-started"
+  },
+  {
+    "url": "/azure/billing/billing-download-azure-invoice-daily-usage-date",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/billing/billing-understand-your-usage"
+  },
+  {
+    "url": "/azure/billing/billing-download-azure-invoice-daily-usage-date",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/billing/billing-mca-understand-your-invoice"
+  },
+  {
+    "url": "/azure/billing/billing-getting-started",
+    "recommendedTitle": "Understand your Azure bill",
+    "recommendedUrl": "/azure/billing/billing-understand-your-bill"
+  },
+  {
+    "url": "/azure/billing/billing-getting-started",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/billing/billing-spending-limit"
+  },
+  {
+    "url": "/azure/billing/billing-getting-started",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/cost-management/quick-acm-cost-analysis"
+  },
+  {
+    "url": "/azure/billing/billing-getting-started",
+    "recommendedTitle": "Change your credit card for Azure",
+    "recommendedUrl": "/azure/billing/billing-how-to-change-credit-card"
+  },
+  {
+    "url": "/azure/billing/billing-how-to-cancel-azure-subscription",
+    "recommendedTitle": "Transfer Azure subscription ownership to another account",
+    "recommendedUrl": "/azure/billing/billing-subscription-transfer"
+  },
+  {
+    "url": "/azure/billing/billing-how-to-cancel-azure-subscription",
+    "recommendedTitle": "Prevent unexpected costs manage billing in Azure",
+    "recommendedUrl": "/azure/billing/billing-getting-started"
+  },
+  {
+    "url": "/azure/billing/billing-how-to-cancel-azure-subscription",
+    "recommendedTitle": "Change your credit card for Azure",
+    "recommendedUrl": "/azure/billing/billing-how-to-change-credit-card"
+  },
+  {
+    "url": "/azure/billing/billing-how-to-cancel-azure-subscription",
+    "recommendedTitle": "Reactivate disabled Azure subscription",
+    "recommendedUrl": "/azure/billing/billing-subscription-become-disable"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-become-disable",
+    "recommendedTitle": "Prevent unexpected costs manage billing in Azure",
+    "recommendedUrl": "/azure/billing/billing-getting-started"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-become-disable",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/billing/billing-upgrade-azure-subscription"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-become-disable",
+    "recommendedTitle": "Change your credit card for Azure",
+    "recommendedUrl": "/azure/billing/billing-how-to-change-credit-card"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-become-disable",
+    "recommendedTitle": "Upgrade your free Azure subscription to Pay-As-You-Go",
+    "recommendedUrl": "/azure/billing/billing-upgrade-azure-subscription"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-transfer",
+    "recommendedTitle": "Add an existing Azure subscription to your tenant - Azure Active Directory",
+    "recommendedUrl": "/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-transfer",
+    "recommendedTitle": "Add or change Azure subscription administrators",
+    "recommendedUrl": "/azure/billing/billing-add-change-azure-subscription-administrator"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-transfer",
+    "recommendedTitle": "Move Azure resources to new subscription or resource group",
+    "recommendedUrl": "/azure/azure-resource-manager/resource-group-move-resources"
+  },
+  {
+    "url": "/azure/billing/billing-subscription-transfer",
+    "recommendedTitle": "Prevent unexpected costs manage billing in Azure",
+    "recommendedUrl": "/azure/billing/billing-getting-started"
+  },
+  {
+    "url": "/azure/billing/billing-understand-your-bill",
+    "recommendedTitle": "Prevent unexpected costs manage billing in Azure",
+    "recommendedUrl": "/azure/billing/billing-getting-started"
+  },
+  {
+    "url": "/azure/billing/billing-understand-your-bill",
+    "recommendedTitle": "Download Azure billing invoice and daily usage data",
+    "recommendedUrl": "/azure/billing/billing-download-azure-invoice-daily-usage-date"
+  },
+  {
+    "url": "/azure/billing/billing-understand-your-bill",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/billing/billing-understand-your-invoice"
+  },
+  {
+    "url": "/azure/billing/billing-understand-your-bill",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/billing/billing-understand-your-usage"
+  },
+  {
+    "url": "/azure/expressroute/expressroute-howto-circuit-portal-resource-manager",
+    "recommendedTitle": "Link a virtual network to a circuit - ExpressRoute: Azure portal",
+    "recommendedUrl": "/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager"
+  },
+  {
+    "url": "/azure/expressroute/expressroute-howto-circuit-portal-resource-manager",
+    "recommendedTitle": "Configure peering for a circuit - ExpressRoute: Azure",
+    "recommendedUrl": "/azure/expressroute/expressroute-howto-routing-portal-resource-manager"
+  },
+  {
+    "url": "/azure/expressroute/expressroute-howto-circuit-portal-resource-manager",
+    "recommendedTitle": "Azure ExpressRoute circuits and peering",
+    "recommendedUrl": "/azure/expressroute/expressroute-circuit-peerings"
+  },
+  {
+    "url": "/azure/expressroute/expressroute-howto-circuit-portal-resource-manager",
+    "recommendedTitle": "ExpressRoute connectivity models: Azure",
+    "recommendedUrl": "/azure/expressroute/expressroute-connectivity-models"
+  },
+  {
+    "url": "/azure/guides/developer/azure-developer-guide",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/app-service/app-service-web-get-started-dotnet"
+  },
+  {
+    "url": "/azure/guides/developer/azure-developer-guide",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/virtual-machines/virtual-machines-linux-quick-create-portal"
+  },
+  {
+    "url": "/azure/guides/developer/azure-developer-guide",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/azure-functions/functions-create-first-function-vs-code"
+  },
+  {
+    "url": "/azure/guides/developer/azure-developer-guide",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/service-fabric/service-fabric-create-your-first-application-in-visual-studio"
+  },
+  {
+    "url": "/azure/load-balancer/load-balancer-outbound-connections",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/load-balancer/load-balancer-outbound-connections"
+  },
+  {
+    "url": "/azure/load-balancer/load-balancer-standard-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/load-balancer/load-balancer-standard-overview"
+  },
+  {
+    "url": "/azure/load-balancer/load-balancer-standard-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/load-balancer/load-balancer-standard-availability-zones"
+  },
+  {
+    "url": "/azure/storage/common/storage-account-overview",
+    "recommendedTitle": "Create a storage account - Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-quickstart-create-account"
+  },
+  {
+    "url": "/azure/storage/common/storage-account-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/storage/common/storage-redundancy"
+  },
+  {
+    "url": "/azure/storage/common/storage-account-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/storage/common/storage-security-guide"
+  },
+  {
+    "url": "/azure/storage/common/storage-account-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/storage/common/storage-auth"
+  },
+  {
+    "url": "/azure/storage/common/storage-configure-connection-string",
+    "recommendedTitle": "Authorizing access to Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-auth"
+  },
+  {
+    "url": "/azure/storage/common/storage-configure-connection-string",
+    "recommendedTitle": "Authorize access to Azure blobs and queues using Azure Active Directory",
+    "recommendedUrl": "/azure/storage/common/storage-auth-aad"
+  },
+  {
+    "url": "/azure/storage/common/storage-configure-connection-string",
+    "recommendedTitle": "Using shared access signatures (SAS) in Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-dotnet-shared-access-signature-part-1"
+  },
+  {
+    "url": "/azure/storage/common/storage-configure-connection-string",
+    "recommendedTitle": "Authorization for the Azure Storage Services",
+    "recommendedUrl": "/rest/api/storageservices/authorization-for-the-azure-storage-services"
+  },
+  {
+    "url": "/azure/storage/common/storage-decide-blobs-files-disks",
+    "recommendedTitle": "Introduction to Azure Storage - Cloud storage on Azure",
+    "recommendedUrl": "/azure/storage/common/storage-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-decide-blobs-files-disks",
+    "recommendedTitle": "Introduction to Blob storage - Object storage in Azure",
+    "recommendedUrl": "/azure/storage/blobs/storage-blobs-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-decide-blobs-files-disks",
+    "recommendedTitle": "Introduction to Azure Files",
+    "recommendedUrl": "/azure/storage/files/storage-files-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-decide-blobs-files-disks",
+    "recommendedTitle": "Quickstart: Use .NET to create a blob in object storage - Azure Storage",
+    "recommendedUrl": "/azure/storage/blobs/storage-quickstart-blobs-dotnet"
+  },
+  {
+    "url": "/azure/storage/common/storage-dotnet-shared-access-signature-part-1",
+    "recommendedTitle": "Authorizing access to Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-auth"
+  },
+  {
+    "url": "/azure/storage/common/storage-dotnet-shared-access-signature-part-1",
+    "recommendedTitle": "Authorize access to Azure blobs and queues using Azure Active Directory",
+    "recommendedUrl": "/azure/storage/common/storage-auth-aad"
+  },
+  {
+    "url": "/azure/storage/common/storage-dotnet-shared-access-signature-part-1",
+    "recommendedTitle": "Create a storage account - Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-quickstart-create-account"
+  },
+  {
+    "url": "/azure/storage/common/storage-dotnet-shared-access-signature-part-1",
+    "recommendedTitle": "Copy or move data to Azure Storage by using AzCopy v10",
+    "recommendedUrl": "/azure/storage/common/storage-use-azcopy-v10"
+  },
+  {
+    "url": "/azure/storage/common/storage-network-security",
+    "recommendedTitle": "Azure storage account overview",
+    "recommendedUrl": "/azure/storage/common/storage-account-overview"
+  },
+  {
+    "url": "/azure/storage/common/storage-network-security",
+    "recommendedTitle": "Azure Virtual Network",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-overview"
+  },
+  {
+    "url": "/azure/storage/common/storage-network-security",
+    "recommendedTitle": "Connect virtual networks with virtual network peering - tutorial - Azure portal",
+    "recommendedUrl": "/azure/virtual-network/tutorial-connect-virtual-networks-portal"
+  },
+  {
+    "url": "/azure/storage/common/storage-network-security",
+    "recommendedTitle": "How to create an Azure file share",
+    "recommendedUrl": "/azure/storage/files/storage-how-to-create-file-share"
+  },
+  {
+    "url": "/azure/storage/common/storage-network-security",
+    "recommendedTitle": "Azure Virtual Network peering",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-peering-overview"
+  },
+  {
+    "url": "/azure/storage/common/storage-quickstart-create-account",
+    "recommendedTitle": "Azure storage account overview",
+    "recommendedUrl": "/azure/storage/common/storage-account-overview"
+  },
+  {
+    "url": "/azure/storage/common/storage-quickstart-create-account",
+    "recommendedTitle": "Authorize access to Azure blobs and queues using Azure Active Directory",
+    "recommendedUrl": "/azure/storage/common/storage-auth-aad"
+  },
+  {
+    "url": "/azure/storage/common/storage-quickstart-create-account",
+    "recommendedTitle": "Introduction to Azure Storage - Cloud storage on Azure",
+    "recommendedUrl": "/azure/storage/common/storage-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-quickstart-create-account",
+    "recommendedTitle": "Introduction to Blob storage - Object storage in Azure",
+    "recommendedUrl": "/azure/storage/blobs/storage-blobs-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy",
+    "recommendedTitle": "Azure storage account overview",
+    "recommendedUrl": "/azure/storage/common/storage-account-overview"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy",
+    "recommendedTitle": "Build highly available Azure Storage applications on zone-redundant storage (ZRS)",
+    "recommendedUrl": "/azure/storage/common/storage-redundancy-zrs"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy",
+    "recommendedTitle": "Geo-redundant storage (GRS) for cross-regional durability in Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-redundancy-grs"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy",
+    "recommendedTitle": "Locally-redundant storage (LRS) for low-cost redundancy in Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-redundancy-lrs"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy-grs",
+    "recommendedTitle": "Data redundancy in Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-redundancy"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy-grs",
+    "recommendedTitle": "Build highly available Azure Storage applications on zone-redundant storage (ZRS)",
+    "recommendedUrl": "/azure/storage/common/storage-redundancy-zrs"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy-grs",
+    "recommendedTitle": "Locally-redundant storage (LRS) for low-cost redundancy in Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-redundancy-lrs"
+  },
+  {
+    "url": "/azure/storage/common/storage-redundancy-grs",
+    "recommendedTitle": "Introduction to Azure Storage - Cloud storage on Azure",
+    "recommendedUrl": "/azure/storage/common/storage-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-scalability-targets",
+    "recommendedTitle": "Introduction to Azure Storage - Cloud storage on Azure",
+    "recommendedUrl": "/azure/storage/common/storage-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-scalability-targets",
+    "recommendedTitle": "Azure storage account overview",
+    "recommendedUrl": "/azure/storage/common/storage-account-overview"
+  },
+  {
+    "url": "/azure/storage/common/storage-scalability-targets",
+    "recommendedTitle": "Create a storage account - Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-quickstart-create-account"
+  },
+  {
+    "url": "/azure/storage/common/storage-scalability-targets",
+    "recommendedTitle": "Introduction to Blob storage - Object storage in Azure",
+    "recommendedUrl": "/azure/storage/blobs/storage-blobs-introduction"
+  },
+  {
+    "url": "/azure/storage/common/storage-security-guide",
+    "recommendedTitle": "Authorizing access to Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-auth"
+  },
+  {
+    "url": "/azure/storage/common/storage-security-guide",
+    "recommendedTitle": "Authorize access to Azure blobs and queues using Azure Active Directory",
+    "recommendedUrl": "/azure/storage/common/storage-auth-aad"
+  },
+  {
+    "url": "/azure/storage/common/storage-security-guide",
+    "recommendedTitle": "Create a storage account - Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-quickstart-create-account"
+  },
+  {
+    "url": "/azure/storage/common/storage-security-guide",
+    "recommendedTitle": "Using shared access signatures (SAS) in Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-dotnet-shared-access-signature-part-1"
+  },
+  {
+    "url": "/azure/storage/common/storage-service-encryption",
+    "recommendedTitle": "Azure Storage security guide",
+    "recommendedUrl": "/azure/storage/common/storage-security-guide"
+  },
+  {
+    "url": "/azure/storage/common/storage-service-encryption",
+    "recommendedTitle": "Authorizing access to Azure Storage",
+    "recommendedUrl": "/azure/storage/common/storage-auth"
+  },
+  {
+    "url": "/azure/storage/common/storage-service-encryption",
+    "recommendedTitle": "Authorize access to Azure blobs and queues using Azure Active Directory",
+    "recommendedUrl": "/azure/storage/common/storage-auth-aad"
+  },
+  {
+    "url": "/azure/storage/common/storage-service-encryption",
+    "recommendedTitle": "Azure storage account overview",
+    "recommendedUrl": "/azure/storage/common/storage-account-overview"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-faq",
+    "recommendedTitle": "Planning for an Azure Files deployment",
+    "recommendedUrl": "/azure/storage/files/storage-files-planning"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-faq",
+    "recommendedTitle": "Planning for an Azure File Sync deployment",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-planning"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-faq",
+    "recommendedTitle": "How to create an Azure file share",
+    "recommendedUrl": "/azure/storage/files/storage-how-to-create-file-share"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-faq",
+    "recommendedTitle": "Use an Azure file share with Windows",
+    "recommendedUrl": "/azure/storage/files/storage-how-to-use-files-windows"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-planning",
+    "recommendedTitle": "Planning for an Azure File Sync deployment",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-planning"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-planning",
+    "recommendedTitle": "Azure Quickstart - Create and use an Azure Files share on Windows VMs",
+    "recommendedUrl": "/azure/storage/files/storage-files-quick-create-use-windows"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-planning",
+    "recommendedTitle": "Deploy Azure File Sync",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-deployment-guide"
+  },
+  {
+    "url": "/azure/storage/files/storage-files-planning",
+    "recommendedTitle": "How to create an Azure file share",
+    "recommendedUrl": "/azure/storage/files/storage-how-to-create-file-share"
+  },
+  {
+    "url": "/azure/storage/files/storage-how-to-create-file-share",
+    "recommendedTitle": "Use an Azure file share with Windows",
+    "recommendedUrl": "/azure/storage/files/storage-how-to-use-files-windows"
+  },
+  {
+    "url": "/azure/storage/files/storage-how-to-create-file-share",
+    "recommendedTitle": "Frequently asked questions (FAQ) for Azure Files",
+    "recommendedUrl": "/azure/storage/files/storage-files-faq"
+  },
+  {
+    "url": "/azure/storage/files/storage-how-to-create-file-share",
+    "recommendedTitle": "Planning for an Azure Files deployment",
+    "recommendedUrl": "/azure/storage/files/storage-files-planning"
+  },
+  {
+    "url": "/azure/storage/files/storage-how-to-use-files-windows",
+    "recommendedTitle": "Planning for an Azure File Sync deployment",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-planning"
+  },
+  {
+    "url": "/azure/storage/files/storage-how-to-use-files-windows",
+    "recommendedTitle": "Troubleshoot Azure Files problems in Windows",
+    "recommendedUrl": "/azure/storage/files/storage-troubleshoot-windows-file-connection-problems"
+  },
+  {
+    "url": "/azure/storage/files/storage-how-to-use-files-windows",
+    "recommendedTitle": "Enable Azure Active Directory authentication over SMB for Azure Files (preview) - Azure Storage",
+    "recommendedUrl": "/azure/storage/files/storage-files-active-directory-enable"
+  },
+  {
+    "url": "/azure/storage/files/storage-how-to-use-files-windows",
+    "recommendedTitle": "Planning for an Azure Files deployment",
+    "recommendedUrl": "/azure/storage/files/storage-files-planning"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-deployment-guide",
+    "recommendedTitle": "Planning for an Azure File Sync deployment",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-planning"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-deployment-guide",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-server-registration"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-deployment-guide",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-server-endpoint"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-deployment-guide",
+    "recommendedTitle": "How to create an Azure file share",
+    "recommendedUrl": "/azure/storage/files/storage-how-to-create-file-share"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-planning",
+    "recommendedTitle": "Use an Azure file share with Windows",
+    "recommendedUrl": "/azure/storage/files/storage-how-to-use-files-windows"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-planning",
+    "recommendedTitle": "Frequently asked questions (FAQ) for Azure Files",
+    "recommendedUrl": "/azure/storage/files/storage-files-faq"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-planning",
+    "recommendedTitle": "Deploy Azure File Sync",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-deployment-guide"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-planning",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/storage/files/storage-sync-files-server-registration"
+  },
+  {
+    "url": "/azure/storage/files/storage-sync-files-planning",
+    "recommendedTitle": "Planning for an Azure Files deployment",
+    "recommendedUrl": "/azure/storage/files/storage-files-planning"
+  },
+  {
+    "url": "/azure/virtual-machines/linux/ssh-from-windows",
+    "recommendedTitle": "Create and use an SSH key pair for Linux VMs in Azure",
+    "recommendedUrl": "/azure/virtual-machines/linux/mac-create-ssh-keys"
+  },
+  {
+    "url": "/azure/virtual-machines/linux/ssh-from-windows",
+    "recommendedTitle": "Detailed steps - SSH key pair for Azure Linux VMs",
+    "recommendedUrl": "/azure/virtual-machines/linux/create-ssh-keys-detailed"
+  },
+  {
+    "url": "/azure/virtual-machines/linux/ssh-from-windows",
+    "recommendedTitle": "Troubleshoot SSH connection issues to an Azure VM",
+    "recommendedUrl": "/azure/virtual-machines/troubleshooting/troubleshoot-ssh-connection"
+  },
+  {
+    "url": "/azure/virtual-machines/linux/ssh-from-windows",
+    "recommendedTitle": "Quickstart - Create a Linux VM with the Azure CLI",
+    "recommendedUrl": "/azure/virtual-machines/linux/quick-create-cli"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/capture-image-resource",
+    "recommendedTitle": "Prepare a Windows VHD to upload to Azure",
+    "recommendedUrl": "/azure/virtual-machines/windows/prepare-for-upload-vhd-image"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/capture-image-resource",
+    "recommendedTitle": "Create a managed Azure VM from a generalized on-premises VHD",
+    "recommendedUrl": "/azure/virtual-machines/windows/upload-generalized-managed"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/capture-image-resource",
+    "recommendedTitle": "Create a Windows VM from a specialized VHD in the Azure portal",
+    "recommendedUrl": "/azure/virtual-machines/windows/create-vm-specialized-portal"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/capture-image-resource",
+    "recommendedTitle": "Create VM from a managed image in Azure",
+    "recommendedUrl": "/azure/virtual-machines/windows/create-vm-generalized-managed"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/connect-logon",
+    "recommendedTitle": "Detailed remote desktop troubleshooting in Azure",
+    "recommendedUrl": "/azure/virtual-machines/troubleshooting/detailed-troubleshoot-rdp"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/connect-logon",
+    "recommendedTitle": "Cannot connect with RDP to a Windows VM in Azure",
+    "recommendedUrl": "/azure/virtual-machines/troubleshooting/troubleshoot-rdp-connection"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/connect-logon",
+    "recommendedTitle": "Cannot connect to Azure VMs because the RDP port is not enabled in NSG",
+    "recommendedUrl": "/azure/virtual-machines/troubleshooting/troubleshoot-rdp-nsg-problem"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/connect-logon",
+    "recommendedTitle": "Quickstart - Create a Windows VM in the Azure portal",
+    "recommendedUrl": "/azure/virtual-machines/windows/quick-create-portal"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/connect-logon",
+    "recommendedTitle": "Open ports to a VM using the Azure portal",
+    "recommendedUrl": "/azure/virtual-machines/windows/nsg-quickstart-portal"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/disks-types",
+    "recommendedTitle": "Windows VM sizes in Azure",
+    "recommendedUrl": "/azure/virtual-machines/windows/sizes"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/disks-types",
+    "recommendedTitle": "Azure Windows VM sizes - Compute optimized",
+    "recommendedUrl": "/azure/virtual-machines/windows/sizes-compute"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/disks-types",
+    "recommendedTitle": "Azure Disk Storage managed disk overview for Windows VMs",
+    "recommendedUrl": "/azure/virtual-machines/windows/managed-disks-overview"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/manage-availability",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/virtual-machines/windows/availability"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/manage-availability",
+    "recommendedTitle": "Tutorial - High availability for Windows VMs in Azure",
+    "recommendedUrl": "/azure/virtual-machines/windows/tutorial-availability-sets"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/manage-availability",
+    "recommendedTitle": "Azure virtual machine scale sets overview",
+    "recommendedUrl": "/azure/virtual-machine-scale-sets/overview"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/manage-availability",
+    "recommendedTitle": "What are Azure Availability Zones?",
+    "recommendedUrl": "/azure/availability-zones/az-overview"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/nsg-quickstart-portal",
+    "recommendedTitle": "Cannot connect to Azure VMs because the RDP port is not enabled in NSG",
+    "recommendedUrl": "/azure/virtual-machines/troubleshooting/troubleshoot-rdp-nsg-problem"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/nsg-quickstart-portal",
+    "recommendedTitle": "Cannot connect with RDP to a Windows VM in Azure",
+    "recommendedUrl": "/azure/virtual-machines/troubleshooting/troubleshoot-rdp-connection"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/nsg-quickstart-portal",
+    "recommendedTitle": "Connect to your Microsoft Azure-based virtual machine",
+    "recommendedUrl": "/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-connect-vm"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/nsg-quickstart-portal",
+    "recommendedTitle": "How to reset network interface for Azure Windows VM",
+    "recommendedUrl": "/azure/virtual-machines/troubleshooting/reset-network-interface"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/snapshot-copy-managed-disk",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/backup/backup-azure-vms-introduction"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/snapshot-copy-managed-disk",
+    "recommendedTitle": "Azure PowerShell Script Sample - Create a VM from a snapshot",
+    "recommendedUrl": "/azure/virtual-machines/scripts/virtual-machines-windows-powershell-sample-create-vm-from-snapshot"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/snapshot-copy-managed-disk",
+    "recommendedTitle": "Prepare a Windows VHD to upload to Azure",
+    "recommendedUrl": "/azure/virtual-machines/windows/prepare-for-upload-vhd-image"
+  },
+  {
+    "url": "/azure/virtual-machines/windows/snapshot-copy-managed-disk",
+    "recommendedTitle": "Create a Windows VM from a specialized VHD in the Azure portal",
+    "recommendedUrl": "/azure/virtual-machines/windows/create-vm-specialized-portal"
+  },
+  {
+    "url": "/azure/virtual-network/ddos-protection-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/virtual-network/ddos-protection-overview"
+  },
+  {
+    "url": "/azure/virtual-network/ddos-protection-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/virtual-network/manage-ddos-protection"
+  },
+  {
+    "url": "/azure/virtual-network/ddos-protection-overview",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/security/fundamentals/ddos-best-practices"
+  },
+  {
+    "url": "/azure/virtual-network/ddos-protection-overview",
+    "recommendedTitle": "Tutorial: Deploy and configure Azure Firewall using the Azure portal",
+    "recommendedUrl": "/azure/firewall/tutorial-firewall-deploy-portal"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-ip-addresses-overview-arm",
+    "recommendedTitle": "Azure virtual network traffic routing",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-udr-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-ip-addresses-overview-arm",
+    "recommendedTitle": "Azure Virtual Network peering",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-peering-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-ip-addresses-overview-arm",
+    "recommendedTitle": "Azure Virtual Network FAQ",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-faq"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-ip-addresses-overview-arm",
+    "recommendedTitle": "Azure Virtual Network",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-public-ip-address",
+    "recommendedTitle": "IP address types in Azure",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-ip-addresses-overview-arm"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-public-ip-address",
+    "recommendedTitle": "Azure virtual network traffic routing",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-udr-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-public-ip-address",
+    "recommendedTitle": "Azure Virtual Network peering",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-peering-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-public-ip-address",
+    "recommendedTitle": "Create change or delete an Azure network interface",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-network-interface"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-networks-faq",
+    "recommendedTitle": "",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-networks-faq",
+    "recommendedTitle": "IP address types in Azure",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-ip-addresses-overview-arm"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-networks-faq",
+    "recommendedTitle": "Azure Virtual Network",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-vnet-plan-design-arm",
+    "recommendedTitle": "Azure virtual network traffic routing",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-udr-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-vnet-plan-design-arm",
+    "recommendedTitle": "Azure Virtual Network peering",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-peering-overview"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-vnet-plan-design-arm",
+    "recommendedTitle": "IP address types in Azure",
+    "recommendedUrl": "/azure/virtual-network/virtual-network-ip-addresses-overview-arm"
+  },
+  {
+    "url": "/azure/virtual-network/virtual-network-vnet-plan-design-arm",
+    "recommendedTitle": "Azure Virtual Network",
+    "recommendedUrl": "/azure/virtual-network/virtual-networks-overview"
+  },
+  {
+    "url": "/azure/vpn-gateway/point-to-site-vpn-client-configuration-azure-cert",
+    "recommendedTitle": "Connect a computer to an Azure virtual network using Point-to-Site and native Azure certificate authentication: Azure Portal",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal"
+  },
+  {
+    "url": "/azure/vpn-gateway/point-to-site-vpn-client-configuration-azure-cert",
+    "recommendedTitle": "About Azure Point-to-Site VPN connections",
+    "recommendedUrl": "/azure/vpn-gateway/point-to-site-about"
+  },
+  {
+    "url": "/azure/vpn-gateway/point-to-site-vpn-client-configuration-azure-cert",
+    "recommendedTitle": "Azure VPN Gateway FAQ",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-vpn-faq"
+  },
+  {
+    "url": "/azure/vpn-gateway/point-to-site-vpn-client-configuration-azure-cert",
+    "recommendedTitle": "Generate and export certificates for Point-to-Site: PowerShell: Azure",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-certificates-point-to-site"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-certificates-point-to-site",
+    "recommendedTitle": "Connect a computer to an Azure virtual network using Point-to-Site and native Azure certificate authentication: Azure Portal",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-certificates-point-to-site",
+    "recommendedTitle": "About Azure Point-to-Site VPN connections",
+    "recommendedUrl": "/azure/vpn-gateway/point-to-site-about"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-certificates-point-to-site",
+    "recommendedTitle": "Azure VPN Gateway",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-about-vpngateways"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-certificates-point-to-site",
+    "recommendedTitle": "Azure VPN Gateway FAQ",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-vpn-faq"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal",
+    "recommendedTitle": "Generate and export certificates for Point-to-Site: PowerShell: Azure",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-certificates-point-to-site"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal",
+    "recommendedTitle": "Create and install P2S VPN client configuration files for Azure certificate authentication: Azure",
+    "recommendedUrl": "/azure/vpn-gateway/point-to-site-vpn-client-configuration-azure-cert"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal",
+    "recommendedTitle": "About Azure Point-to-Site VPN connections",
+    "recommendedUrl": "/azure/vpn-gateway/point-to-site-about"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal",
+    "recommendedTitle": "VPN gateway settings for cross-premises Azure connections",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal",
+    "recommendedTitle": "About VPN devices for cross-premises Azure connections",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-about-vpn-devices"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal",
+    "recommendedTitle": "VPN gateway settings for cross-premises Azure connections",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal",
+    "recommendedTitle": "Connect Azure VPN gateways to multiple on-premises policy-based VPN devices: Azure Resource Manager: PowerShell",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal",
+    "recommendedTitle": "Add multiple VPN gateway Site-to-Site connections to a VNet: Azure Portal: Resource Manager| Microsoft Docs",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-howto-multi-site-to-site-resource-manager-portal"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal",
+    "recommendedTitle": "Azure VPN Gateway",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-about-vpngateways"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal",
+    "recommendedTitle": "Connect your on-premises network to an Azure virtual network: Site-to-Site VPN: Portal",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal",
+    "recommendedTitle": "Azure VPN Gateway FAQ",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-vpn-faq"
+  },
+  {
+    "url": "/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal",
+    "recommendedTitle": "Azure VPN Gateway",
+    "recommendedUrl": "/azure/vpn-gateway/vpn-gateway-about-vpngateways"
+  }
+]

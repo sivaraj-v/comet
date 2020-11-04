@@ -1,0 +1,30 @@
+### YamlMime:ZonePivotGroups
+metadata:
+  foo: bar
+  baz: 0
+  beep: true
+groups:
+- id: platform
+  title: Platform
+  prompt: Hello Choose your platform
+  pivots:
+    - id: android
+      title: Hello Android
+    - id: ios
+      title: Hello iOS
+    - id: linux
+      title: Hello Linux
+    - id: macos
+      title: Hello Mac
+    - id: windows
+      title: Hello Windows
+- id: azure-interface
+  title: Shell
+  prompt: Hello Choose your shell
+  pivots:
+  - id: bash
+    title: Hello Bash
+  - id: powershell
+    title: Hello PowerShell
+  - id: portal
+    title: Hello Azure Portal

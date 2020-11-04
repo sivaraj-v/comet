@@ -1,0 +1,109 @@
+### YamlMime:ContentNav
+
+category:
+  href: https://docs.microsoft.com/power-bi/
+  title: Power BI
+items:
+  - title: Get started
+    items:
+      - href: https://docs.microsoft.com/power-bi/fundamentals/
+        title: Power BI get started documentation
+      - href: https://docs.microsoft.com/power-bi/fundamentals/power-bi-overview
+        title: What is Power BI?
+      - href: https://docs.microsoft.com/power-bi/fundamentals/desktop-getting-started
+        title: Get started with Power BI Desktop
+      - href: https://docs.microsoft.com/power-bi/fundamentals/desktop-latest-update
+        title: What's new in Power BI Desktop?
+      - href: https://docs.microsoft.com/power-bi/fundamentals/service-self-service-signup-for-power-bi
+        title: Individual sign-up
+  - title: Work with data
+    items:
+      - href: https://docs.microsoft.com/power-bi/connect-data/
+        title: Connect to data documentation
+      - href: https://docs.microsoft.com/power-bi/transform-model/
+        title: Transform, shape, and model data documentation
+      - href: https://docs.microsoft.com/power-bi/connect-data/refresh-data
+        title: Data refresh
+      - href: https://docs.microsoft.com/power-bi/connect-data/service-gateway-onprem
+        title: On-premises gateways
+      - href: https://docs.microsoft.com/power-bi/transform-model/desktop-quickstart-learn-dax-basics
+        title: DAX basics
+      - href: https://docs.microsoft.com/power-bi/transform-model/desktop-create-and-manage-relationships
+        title: Create and manage relationships
+      - href: https://docs.microsoft.com/power-bi/transform-model/desktop-tutorial-create-measures
+        title: Create measures
+  - title: Create & share
+    items:
+      - href: https://docs.microsoft.com/power-bi/create-reports/
+        title: Create reports and dashboards documentation
+      - href: https://docs.microsoft.com/power-bi/collaborate-share/
+        title: Collaborate, share, and integrate across products documentation
+      - href: https://docs.microsoft.com/power-bi/create-reports/sample-datasets
+        title: Get Power BI samples
+      - href: https://docs.microsoft.com/power-bi/create-reports/desktop-report-themes
+        title: Use report themes
+      - href: https://docs.microsoft.com/power-bi/create-reports/desktop-conditional-table-formatting
+        title: Add conditional table formatting
+      - href: https://docs.microsoft.com/power-bi/collaborate-share/service-how-to-collaborate-distribute-dashboards-reports
+        title: Ways to share your work
+      - href: https://docs.microsoft.com/power-bi/collaborate-share/service-new-workspaces
+        title: Organize work in the new workspaces
+      - href: https://docs.microsoft.com/power-bi/collaborate-share/service-publish-to-web
+        title: Publish to web
+  - title: Admin & enterprise
+    items:
+      - href: https://docs.microsoft.com/power-bi/admin/
+        title: Admin and enterprise documentation
+      - href: https://docs.microsoft.com/power-bi/service-admin-purchasing-power-bi-pro
+        title: Purchase Power BI Pro licenses
+      - href: https://docs.microsoft.com/power-bi/admin/service-premium-what-is
+        title: What is Power BI Premium?
+      - href: https://docs.microsoft.com/power-bi/admin/service-admin-rls
+        title: Row-level security (RLS)
+      - href: https://docs.microsoft.com/power-bi/admin/service-admin-portal
+        title: The admin portal
+      - href: https://docs.microsoft.com/power-bi/admin/service-admin-licensing-organization
+        title: Licensing the Power BI service
+  - title: Developer
+    items:
+      - href: https://docs.microsoft.com/power-bi/developer/
+        title: Power BI developer documentation
+      - href: https://docs.microsoft.com/power-bi/developer/embedded/
+        title: Embedded analytics documentation
+      - href: https://docs.microsoft.com/power-bi/developer/visuals/
+        title: Visuals documentation
+      - href: https://docs.microsoft.com/power-bi/developer/automation/
+        title: Automation documentation
+  - title: Resources
+    items:
+      - title: Products
+        items:
+          - href: https://docs.microsoft.com/power-bi/fundamentals/desktop-get-the-desktop
+            title: Power BI Desktop
+          - href: https://docs.microsoft.com/power-bi/report-server/
+            title: Power BI Report Server
+          - href: https://docs.microsoft.com/power-bi/paginated-reports/report-builder-power-bi
+            title: Power BI Report Builder
+      - title: Microsoft Learn
+        items:
+          - href: https://docs.microsoft.com/learn/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link
+            title: Learn Power BI
+          - href: https://docs.microsoft.com/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm
+            title: Become a Power BI data analyst
+      - href: https://powerbi.microsoft.com/support/
+        title: Support
+      - href: http://community.powerbi.com/
+        title: Community
+      - href: https://ideas.powerbi.com/forums/265200-power-bi
+        title: Give Feedback
+      - href: https://docs.microsoft.com/power-platform-release-plan/2020wave1/business-intelligence/
+        title: Release plan
+      - href: https://powerbi.microsoft.com/blog/
+        title: Team blog
+callToAction:
+  primary:
+    href: https://app.powerbi.com/?noSignUpCheck=1
+    title: Open Power BI
+  secondary:
+    href: https://powerbi.microsoft.com/pricing/
+    title: Buy now

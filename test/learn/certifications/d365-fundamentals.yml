@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: 'Prove that you understand Microsoft Dynamics 365; artificial intelligence (AI); mixed reality (MR); the Power Platform; cloud concepts; cloud security; Dynamics 365 security; Common Data Service; Dynamics 365 reporting; Dynamics 365 integrations; and cloud deployment.'
+uid: certification.d365-fundamentals-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Prove that you understand Microsoft Dynamics 365; artificial intelligence (AI); mixed reality (MR); the Power Platform; cloud concepts; cloud security; Dynamics 365 security; Common Data Service; Dynamics 365 reporting; Dynamics 365 integrations; and cloud deployment.
+subTitle: 'Prove that you understand Microsoft Dynamics 365; artificial intelligence (AI); mixed reality (MR); the Power Platform; cloud concepts; cloud security; Dynamics 365 security; Common Data Service; Dynamics 365 reporting; Dynamics 365 integrations; and cloud deployment.'
+levels:
+- beginner
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Identify Microsoft platform components for Dynamics 365
+- Understand AI and mixed reality for Dynamics 365
+- Understand customer engagement apps
+- Understand Dynamics 365 Finance and Operations apps
+roles:
+- functional-consultant
+type: fundamentals
+products:
+- dynamics
+courses:
+- uid: course.mb-901t00-test
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
+exams:
+- uid: exam.mb-901-test
+resources:
+- title: Certification learning path
+  description: 'Discover training resources to become a Microsoft Certified: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

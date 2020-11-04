@@ -1,0 +1,10 @@
+### YamlMime:ContentNav
+
+category:
+  href: /lifecycle
+  title: Lifecycle
+items:
+  - title: Product Search
+    href: /lifecycle/products
+  - title: Product Export
+    href: /lifecycle/products/export

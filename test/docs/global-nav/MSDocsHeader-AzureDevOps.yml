@@ -1,0 +1,81 @@
+### YamlMime:ContentNav
+
+category:
+  href: /azure/devops
+  title: Azure DevOps
+items:
+  - title: Services
+    items:
+      - title: Azure Boards
+        href: /azure/devops/boards/
+      - title: Azure Repos
+        href: /azure/devops/repos/
+      - title: Azure Pipelines
+        href: /azure/devops/pipelines
+      - title: Azure Test plans
+        href: /azure/devops/test/
+      - title: Azure Artifacts
+        href: /azure/devops/artifacts/
+      - title: Azure DevOps Server
+        href: /azure/devops/server/server/
+      - title: All services
+        href: /azure/devops/  
+  - title: Build and Deploy Apps
+    items:
+      - title: .NET Core 
+        href: /azure/devops/pipelines/ecosystems/dotnet-core
+      - title: JavaScript and Node.js
+        href: /azure/devops/pipelines/ecosystems/javascript
+      - title: Azure Web Apps
+        href: /azure/devops/pipelines/targets/webapp
+      - title: Kubernetes
+        href: /azure/devops/pipelines/ecosystems/kubernetes/deploy
+      - title: Python
+        href: /azure/devops/pipelines/ecosystems/python        
+      - title: Azure SQL Database
+        href: /azure/devops/pipelines/targets/azure-sqldb       
+      - title: All app types
+        href: /azure/devops/#build-and-deploy-your-apps               
+  - title: Get Started
+    items:
+      - title: Get started with Azure DevOps
+        href: /azure/devops/get-started/
+      - title: Web portal navigation 
+        href: /azure/devops/project/navigation/
+      - title: Dashboards, charts, reports, & widgets
+        href: /azure/devops/report/dashboards/overview
+      - title: Create a wiki for your project
+        href: /azure/devops/project/wiki/wiki-create-repo
+      - title: Azure Boards & GitHub
+        href: /azure/devops/boards/github/connect-to-github
+      - title: Azure Pipelines & GitHub
+        href: /azure/devops//pipelines/create-first-pipeline       
+  - title: Tools and settings
+    items:
+      - title: Configure and customize 
+        href: /azure/devops/organizations/
+      - title: Security, access, and billing
+        href: /azure/devops/organizations/security/about-security-identity
+      - title: Marketplace and extensibility
+        href: /azure/devops/marketplace/overview                
+  - title: Resources
+    items:
+      - href: /azure/devops/release-notes
+        title: Release Notes  
+      - href: https://azure.microsoft.com/pricing/details/devops/azure-devops-services/
+        title: Pricing        
+      - href: https://blogs.msdn.microsoft.com/devops/
+        title: Blog      
+      - href: https://azure.microsoft.com/case-studies/?term=devops
+        title: Case Studies          
+      - href: /azure/devops/learn
+        title: Resource Center    
+      - href: https://azure.microsoft.com/support/devops/
+        title: Support
+callToAction:
+  primary:
+    href: https://go.microsoft.com/fwlink/?LinkId=2014676&githubsi=true&clcid=0x409&WebUserId=3BDE6FBA852669671E3561AF84FA68A9
+    title: Open Azure DevOps
+  secondary:
+      href: https://azure.microsoft.com/pricing/details/devops/azure-devops-services/ 
+      title: Free Account

@@ -1,0 +1,18 @@
+### YamlMime:ContentNav
+
+category:
+  href: /biztalk
+  title: BizTalk
+items: 
+  - href: /biztalk/core/getting-started-with-biztalk-server
+    title: Getting Started
+  - href: /biztalk/technical-guides/
+    title: Technical Guides
+  - href: /biztalk/adapters-and-accelerators/adapters-and-accelerators-in-biztalk-server
+    title: Adapters & Accelerators
+  - title: Resources
+    items:
+      - href: https://social.msdn.microsoft.com/forums/biztalk/home?category=biztalkserver
+        title: MSDN forums
+      - href: https://stackoverflow.com/questions/tagged/biztalk
+        title: BizTalk on Stack Overflow

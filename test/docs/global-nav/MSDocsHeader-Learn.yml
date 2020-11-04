@@ -1,0 +1,67 @@
+### YamlMime:ContentNav
+
+category:
+  href: /learn/
+  title: Learn
+items:
+  - title: Products
+    id: products
+    items:
+      - href: /learn/azure/
+        title: Azure
+      - href: /learn/dynamics365/
+        title: Dynamics 365
+      - href: /learn/m365/
+        title: Microsoft 365
+      - href: /learn/dotnet/
+        title: .NET
+      - href: /learn/powerplatform/
+        title: Power Platform
+      - href: /learn/teams/
+        title: Teams
+      - href: /learn/browse/
+        title: Browse all paths
+  - title: Roles
+    id: roles
+    items:
+      - href: /learn/roles/administrator
+        title: Administrator
+      - href: /learn/roles/ai-engineer
+        title: AI Engineer
+      - href: /learn/roles/app-maker
+        title: App Maker
+      - href: /learn/roles/business-user
+        title: Business User
+      - href: /learn/roles/data-analyst
+        title: Data Analyst
+      - href: /learn/roles/data-engineer
+        title: Data Engineer
+      - href: /learn/roles/data-scientist
+        title: Data Scientist
+      - href: /learn/roles/developer
+        title: Developer
+      - href: /learn/roles/devops-engineer
+        title: DevOps Engineer
+      - href: /learn/roles/functional-consultant
+        title: Functional Consultant
+      - href: /learn/roles/security-engineer
+        title: Security Engineer
+      - href: /learn/roles/solutions-architect
+        title: Solutions Architect
+      - href: /learn/roles/student
+        title: Student
+  - href: /learn/tv/
+    title: Learn TV
+    id: learn-tv
+  - title: Certifications
+    id: certifications
+    items:
+      - href: /learn/certifications/
+        title: Overview
+      - href: /learn/certifications/browse/
+        title: Browse Certifications
+      - href: /learn/certifications/courses/browse/
+        title: Browse Courses
+  - href: /learn/support/
+    title: FAQ & Help
+    id: faq-help

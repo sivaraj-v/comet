@@ -1,0 +1,71 @@
+### YamlMime:TopicLanding
+metadata:
+  isGsi: true
+title: Interested in a career in tech?
+summary: Master new concepts at your speed and on your schedule.  Start here to develop practical skills through fun, interactive modules and paths.  Plus, educators can get access to Microsfot classroom materials and curriculum.
+hero:
+  superTitle: Welcome to Microsoft Learn
+  summary: Master core concepts at your speed and on your schedule.  Whether you've got 15 minutes or an hour, you can develop practical skills through interactive modules and paths.
+  link:
+    url: ../browse/?roles=student
+    text: Browse all paths for students
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/hero-student.svg?branch=master
+featuredSection: # optional with max items 3
+- title: Collections
+  subTitle: Learn with university courses
+  summary: Explore courses from universities like Berkeley, Carnegie Mellon, and Oxford to prepare for a career in cloud.
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/university-courses.svg?branch=master
+  link:
+    url: ../universities/browse
+    text: Browse University collections
+- title: Programs
+  subTitle: Become a Microsoft Learn Student Ambassador
+  summary: We're looking for on-campus leaders with a passion for making a difference and sharing tech with their peers.
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/student-ambassador.svg?branch=master
+  link:
+    url: ../programs/browse/
+    text: Browse program details
+- title: Programs
+  subTitle: Are you an educator?
+  summary: Teach your students technical skills with curriculum and education materials provided by Microsoft.
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/educator.svg?branch=master
+  link:
+    url: ../social-good/browse/
+    text: Explore details
+curatedSection: # optional with max items 6
+- title: Learn tech skills through social good
+  items:
+  - learn.create-azure-account
+  - learn.principles-cloud-computing
+  - learn.explore-azure-infrastructure
+  - learn.intro-to-compute
+  - learn.tour-azure-portal-features
+  - learn.intro-to-data-in-azure
+- title: Learn social skills through tech good
+  items:
+  - learn.create-azure-account
+  - learn.principles-cloud-computing
+  - learn.explore-azure-infrastructure
+  - learn.intro-to-compute
+  - learn.tour-azure-portal-features
+  - learn.intro-to-data-in-azure
+- title: Learn good skills through social tech
+  items:
+  - learn.create-azure-account
+  - learn.principles-cloud-computing
+  - learn.explore-azure-infrastructure
+  - learn.intro-to-compute
+  - learn.tour-azure-portal-features
+  - learn.intro-to-data-in-azure
+trendingSection:
+  title: Popular learning paths and modules for students
+  filters: # 1 or more metadata values corresponding to the taxonomies on learn (product, role, level, type)
+    products:
+      - vs-code
+      - dotnet
+      - azure
+    roles:
+      - student
+    types:
+      - module
+  linkText: See what others are learning

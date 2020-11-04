@@ -1,0 +1,181 @@
+### YamlMime:Directory
+title: Technical documentation
+supertitle: Welcome to Microsoft Documentation
+summary: Search for in-depth articles on Microsoft developer tools and technologies.
+searchPlaceholder: Search documentation
+listings:
+  supertitle: Index
+  title: Product Directory
+  description: Explore our guides and articles by product.
+  links:
+    - url: /dotnet/
+      text: .NET
+    - url: /adaptive-cards/
+      text: Adaptive Cards
+    - url: /aspnet/core/
+      text: ASP.NET
+    - url: /azure/
+      text: Azure
+    - url: /azure/architecture/
+      text: Azure Architecture Center
+    - url: /bot-framework/
+      text: Azure Bot Service
+    - url: /azure/devops/
+      text: Azure DevOps
+    - url: /azure/developer/github/github-actions
+      text: Azure GitHub Actions
+    - url: /azure/iot-fundamentals/
+      text: Azure IoT Central
+    - url: /azure-sphere/
+      text: Azure Sphere
+    - url: /bingmaps/
+      text: Bing Maps
+    - url: /biztalk/
+      text: Biztalk Server
+    - url: /cpp/
+      text: C++
+    - url: /dotnet/csharp/
+      text: C#
+    - url: /azure/cloud-adoption-framework/
+      text: Cloud Adoption Framework for Azure
+    - url: /cognitive-toolkit/
+      text: Cognitive Toolkit (CNTK)
+    - url: /common-data-service/
+      text: Common Data Service
+    - url: /cortana/skills/
+      text: Cortana Skills
+    - url: /partner-center/dashboard/
+      text: Dashboard Services
+    - url: /dynamics365/
+      text: Dynamics 365
+    - url: /enterprise-mobility-security/
+      text: Enterprise Mobility + Security
+    - url: /ef/
+      text: Entity Framework
+    - url: /exchange/
+      text: Exchange
+    - url: /dotnet/fsharp/
+      text: F#
+    - url: /gaming/
+      text: Gaming
+    - url: /HealthBot/
+      text: HealthBot
+    - url: /iis/
+      text: Internet Information Services
+    - url: /microsoft-365
+      text: Microsoft 365
+    - url: /microsoft-365-business/
+      text: Microsoft 365 Business
+    - url: /microsoft-365-enterprise/
+      text: Microsoft 365 Enterprise
+    - url: /advertising/
+      text: Microsoft Advertising
+    - url: /microsoft-edge/
+      text: Microsoft Edge
+    - url: /education/
+      text: Microsoft Education
+    - url: /configmgr/
+      text: Microsoft Endpoint Configuration Manager
+    - url: /mem/
+      text: Microsoft Endpoint Manager
+    - url: /fasttrack/
+      text: Microsoft FastTrack
+    - url: /forms-pro/
+      text: Microsoft Forms Pro
+    - url: /graph/overview
+      text: Microsoft Graph
+    - url: /powershell/high-performance-computing/
+      text: Microsoft HPC Pack 2016
+    - url: /office365/kaizala/
+      text: Microsoft Kaizala
+    - url: /mem/intune/
+      text: Microsoft Intune
+    - url: /lifecycle/
+      text: Microsoft Lifecycle Policy
+    - url: /machine-learning-server/
+      text: Microsoft Machine Learning Server
+    - url: /microsoft-365/managed-desktop/
+      text: Microsoft Managed Desktop
+    - url: /quantum/
+      text: Microsoft Quantum Development
+    - url: /microsoftsearch/
+      text: Microsoft Search
+    - url: /security/
+      text: Microsoft Security
+    - url: /security-updates/
+      text: Microsoft Security Response Center
+    - url: /stream/
+      text: Microsoft Stream
+    - url: /surface/
+      text: Microsoft Surface
+    - url: /microsoftteams/
+      text: Microsoft Teams
+    - url: /workplace-analytics/
+      text: Microsoft Workplace Analytics and MyAnalytics
+    - url: /windows/mixed-reality/
+      text: Mixed Reality and HoloLens
+    - url: /dotnet/machine-learning/
+      text: ML.NET
+    - url: /nuget/
+      text: NuGet
+    - url: /office/
+      text: Office
+    - url: /office365/
+      text: Office 365
+    - url: /onedrive/
+      text: OneDrive
+    - url: /openspecs/
+      text: Open Specifications
+    - url: /playready/
+      text: PlayReady
+    - url: /powerapps/
+      text: Power Apps
+    - url: /power-automate/
+      text: Power Automate
+    - url: /power-bi/
+      text: Power BI
+    - url: /power-platform/
+      text: Power Platform
+    - url: /power-query/
+      text: Power Query
+    - url: /powershell/
+      text: PowerShell
+    - url: /power-virtual-agents/
+      text: Power Virtual Agents
+    - url: /project/
+      text: Project
+    - url: /sharepoint/
+      text: SharePoint
+    - url: /skypeforbusiness/
+      text: Skype for Business
+    - url: /sql/
+      text: SQL Server
+    - url: /system-center/
+      text: System Center
+    - url: /virtualization/
+      text: Virtualization
+    - url: /dotnet/visual-basic/
+      text: Visual Basic
+    - url: /visualstudio/products/
+      text: Visual Studio
+    - url: /appcenter/
+      text: Visual Studio App Center
+    - url: /visualstudio/
+      text: Visual Studio IDE
+    - url: /windows/
+      text: Windows
+    - url: /xamarin/
+      text: Xamarin
+    - url: /yammer/
+      text: Yammer
+resources:
+  title: Recommended Resources
+  links:
+  - title: Microsoft End User Support
+    url: https://support.microsoft.com/
+    imageUrl: /en-us/media/home-and-directory/end-user-support-icon.svg?branch=master
+    summary: Get end user support for Office, Windows, Surface, and more. Visit our Microsoft support site for assistance.
+  - title: Microsoft End User Community
+    url: https://answers.microsoft.com/
+    imageUrl: /en-us/media/home-and-directory/end-user-community-icon.svg?branch=master
+    summary: End user Questions, issues, discussions, and knowledge sharing. Visit our Microsoft answers community to begin.

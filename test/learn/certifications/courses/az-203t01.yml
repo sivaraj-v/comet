@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Develop Azure Infrastructure as a Service compute solutions
+metadata:
+  title: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
+  description: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
+uid: course.az-203t01-test
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203-test
+summary: |-
+  In this course students will gain the knowledge and skills needed to implement Azure IaaS services and features in their development solutions. The course covers provisioning virtual machines, using Batch Service to deploy/maintain resources, and how to create containerized solutions by using Azure Kubernetes Service.
+
+  #### Audience profile
+  - Students in this course are interested in Azure development or in passing the Microsoft Azure Developer Associate certification exam.
+prerequisitesSection: |-
+  - Students should have 1-2 years experience as a developer. This course assumes students know how to code and have a fundamental knowledge of Azure.
+  - It is recommended that students have some experience with PowerShell or Azure CLI, working in the Azure portal, and with at least one Azure-supported programming language. Most of the examples in this course are presented in C# .NET.
+outlineSection: |-
+  ### Module  1&#58; Implement solutions that use virtual machines
+  Students will learn how to properly plan for VM deployment. It covers VM creation by using the Azure Portal, PowerShell, and through code. It also covers creating and using Azure Resource Manager (ARM) templates for repeatable deployments and how to use Azure Disk Encryption to secure information on the VM.
+  #### Lessons
+  - Provision VMs
+  - Create ARM templates
+  - Configure Azure Disk Encryption for VMs
+
+  After completing this module, students will be able to&#58;
+  - Learn how to create and deploy virtual machines by using the Azure Portal, PowerShell, and through code.
+  - Learn how to create and deploy ARM by using the Azure Portal and Visual Studio.
+  - Understand the different encryption options and learn how to encrypt existing and new deployments.
+
+
+  ### Module  2&#58; Implement batch jobs by using Azure Batch Services
+  Azure Batch creates and manages a pool of compute nodes (virtual machines), installs the applications you want to run, and schedules jobs to run on the nodes.
+  #### Lessons
+  - Azure Batch overview
+  - Run a batch job by using the Azure CLI and Azure Portal
+  - Run batch jobs by using code
+  - Manage batch jobs by using the Batch Service API
+
+  After completing this module, students will be able to&#58;
+  - Understand how the Azure Batch service works
+  - Learn how to create and run batch jobs by using the Azure CLI
+  - Learn how to create and run batch jobs by using code
+  - Learn how to use the Azure Batch Service API to manage jobs
+
+
+  ### Module  3&#58; Create containerized solutions
+  You can build and run modern, portable, microservices-based applications that benefit from Kubernetes orchestrating and managing the availability of those application components. Kubernetes supports both stateless and stateful applications as teams progress through the adoption of microservices-based applications.
+  #### Lessons
+  - Create an Azure Managed Kubernetes Service (AKS) cluster
+  - Create container images for solutions
+  - Publish an image to the Azure Container Registry
+  - Run containers by using Azure Container Instance or AKS
+
+  After completing this module, students will be able to&#58;
+  - Learn core concepts for AKS
+  - Learn how to deploy AKS clusters
+  - Publish an image to the Azure Container Registry
+  - Learn about Azure Container Instances and how to deploy to them

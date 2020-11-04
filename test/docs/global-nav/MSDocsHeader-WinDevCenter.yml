@@ -1,0 +1,40 @@
+### YamlMime:ContentNav
+
+category:
+  href: /windows/apps
+  title: Windows Developer
+items:
+  - title: Explore
+    items:
+      - href: https://developer.microsoft.com/windows/get-started-windows-10
+        title: Get started developing for Windows
+      - href: https://developer.microsoft.com/windows/windows-10-for-developers
+        title: What’s new for Windows 10
+      - href: https://developer.microsoft.com/windows/enterprise
+        title: Build for enterprise
+      - href: /windows/apps/accessibility
+        title: Develop for accessibility
+  - title: Platforms
+    items:
+      - href: /windows/apps/desktop/
+        title: Windows PCs
+      - href: https://developer.microsoft.com/windows/iot
+        title: Windows IoT
+      - href: https://developer.microsoft.com/mixed-reality
+        title: Mixed Reality
+      - href: https://developer.microsoft.com/games
+        title: Games
+      - href: https://developer.microsoft.com/web
+        title: Web
+      - href: /windows/uwp/
+        title: UWP
+  - href: https://developer.microsoft.com/windows/downloads
+    title: Downloads
+  - href: https://developer.microsoft.com/windows/samples
+    title: Samples
+  - href: https://developer.microsoft.com/windows/support
+    title: Support
+callToAction:
+  primary:
+    href: https://partner.microsoft.com/dashboard
+    title: Dashboard

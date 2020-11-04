@@ -1,0 +1,82 @@
+### YamlMime:Examination
+title: Microsoft Power Platform + Dynamics 365 Core
+metadata:
+  title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+uid: exam.mb-200-test
+displayName: MB-200
+summary: |-
+  Candidates for this exam are functional consultants who have access to the features and functionality of the enterprise licensed product. As a functional consultant, the candidate is aware of bundled versions of features but does not primarily work with these bundled products.
+  <br/>
+
+  Candidates are primarily responsible for configuring the system to meet client needs, performing design tasks related to implementing new features and functionality, and implementing and testing system changes.
+
+  Candidates plan the functional design for solutions, implement an application lifecycle management (ALM) process, migrate data and objects from legacy and external systems, integrate Power Platform with other systems, and manage the Power Platform environment.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: perform discovery, planning, and analysis; manage user experience design; manage entities and data; implement security; implement integration; and perform solutions deployment and testing.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Perform discovery, planning, and analysis (5-10%)
+- Manage user experience design (20-25%)
+- Manage entities and data (15-20%)
+- Implement security (5-10%)
+- Implement integration (15-20%)
+- Perform solutions deployment and testing (25-30%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-210-test
+- uid: exam.mb-220-test
+- uid: exam.mb-230-test
+- uid: exam.mb-240-test
+courses:
+- uid: course.mb-200t00-test
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-sales-test
+- related:
+    uid: certification.d365-functional-consultant-customer-service-test
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

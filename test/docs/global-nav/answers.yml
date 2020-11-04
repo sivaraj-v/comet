@@ -1,0 +1,28 @@
+### YamlMime:ContentNav
+
+category:
+  href: /answers/products/
+  title: Q&A
+items:
+  - href: /answers/index.html
+    id: questions
+    title: Questions
+  - href: /answers/topics.html
+    id: tags
+    title: Tags
+  - href: /answers/users/index.html
+    id: users
+    title: Users
+  - href: /answers/content/idea/list.html
+    id: feedback
+    title: Feedback
+  - href: https://aka.ms/msftqahelp
+    id: faq-help
+    title: FAQ & Help
+callToAction:
+  primary:
+    title: Ask a question
+    href: /answers/questions/ask.html
+  secondary:
+    title: Site feedback 
+    href: /answers/content/idea/post.html

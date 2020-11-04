@@ -1,0 +1,41 @@
+[
+    {
+        "toc_title": "PowerShell API Browser",
+        "href": "/devsandbox/apiBrowser/index",
+        "level": 1,
+        "children": [
+            {
+                "href": "/devsandbox/apiBrowser/dotnet",
+                "homepage": "/devsandbox/apiBrowser/index",
+                "toc_title": "PowerShell .NET",
+                "level": 2
+            },
+            {
+                "href": "/devsandbox/apiBrowser/powershell",
+                "homepage": "/devsandbox/apiBrowser/index",
+                "toc_title": "PowerShell PowerShell",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "href": "/devsandbox/",
+        "homepage": "/devsandbox/index",
+        "toc_title": "PowerShell Dev Sandbox",
+        "level": 1,
+        "children": [
+            {
+                "href": "/devsandbox/hubpages/",
+                "homepage": "/devsandbox/hubpages/index",
+                "toc_title": "PowerShell Hub Pages",
+                "level": 2
+            },
+            {
+                "href": "/devsandbox/landingpages/",
+                "homepage": "/devsandbox/landingpages/index",
+                "toc_title": "PowerShell Landing Pages",
+                "level": 2
+            }
+        ]
+    }
+]

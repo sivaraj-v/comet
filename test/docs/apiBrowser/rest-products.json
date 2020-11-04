@@ -1,0 +1,689 @@
+[
+    {
+        "name": "Azure",
+        "scope": "Azure",
+        "services": [
+            {
+                "name": "Advisor",
+                "url": "https://docs.microsoft.com/en-us/rest/api/advisor/",
+                "description": "Azure Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments. For a more detailed overview, see the Azure Advisor product page."
+            },
+            {
+                "name": "AKS",
+                "url": "https://docs.microsoft.com/en-us/rest/api/aks/",
+                "description": "AKS manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise. It also eliminates the burden of ongoing operations and maintenance by provisioning, upgrading, and scaling resources on demand, without taking your applications offline."
+            },
+            {
+                "name": "Analysis Services",
+                "url": "https://docs.microsoft.com/en-us/rest/api/analysisservices/",
+                "description": "Built on the proven analytics engine in Microsoft SQL Server Analysis Services, Azure Analysis Services provides enterprise-grade data modeling in the cloud."
+            },
+            {
+                "name": "Anomaly Detector",
+                "url": "https://docs.microsoft.com/en-us/rest/api/anomalydetector/",
+                "description": "Cognitive Services - Anomaly Detector API helps you easily embed anomaly detection capabilities into your apps so your users can quickly identify problems to minimize loss and customer impact. For a more detailed overview, see the Cognitive Services - Anomaly Detector API product page."
+            },
+            {
+                "name": "API Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/apimanagement/",
+                "description": "Azure API Management provides a REST API for performing operations on selected entities, such as users, groups, products, and subscriptions. This reference provides a guide for working with the API Management REST API, as well as specific reference information for each available operation, grouped by entity."
+            },
+            {
+                "name": "App Service",
+                "url": "https://docs.microsoft.com/en-us/rest/api/appservice/",
+                "description": "Azure App Service lets you run web apps, mobile app back ends, and API apps in Azure. For a more detailed overview,\nsee the Azure App Service product page."
+            },
+            {
+                "name": "Application Gateway",
+                "url": "https://docs.microsoft.com/en-us/rest/api/application-gateway/",
+                "description": "Application Gateway is a Network Service which provides HTTP Load balancing as a Service to Azure customers. This is a fully managed service implemented as dedicated Hosted Service in a subscription owned by Gateway Manager but deployed in customer vnet. In addition to basic HTTP Load balancing, it provides other Layer 7 features like Cookie based client affinity and SSL offload, URL routing and multi-site hosting."
+            },
+            {
+                "name": "Application Insights",
+                "url": "https://docs.microsoft.com/en-us/rest/api/application-insights/",
+                "description": "REST API functions available for Azure Application Insights."
+            },
+            {
+                "name": "Authorization",
+                "url": "https://docs.microsoft.com/en-us/rest/api/authorization/",
+                "description": "You use role-based access control to manage the actions users in your organization can take on resources. This set of operations enables you to define roles, assign roles to users or groups, and get information about permissions."
+            },
+            {
+                "name": "Automation",
+                "url": "https://docs.microsoft.com/en-us/rest/api/automation/",
+                "description": "The Azure Automation service provides a highly reliable and scalable workflow execution engine to automate frequently repeated management tasks. The processes are automated through runbooks, which are Windows PowerShell Workflows run in the Azure Automation execution engine. You can use this API to create, update, read, and delete automation resources, including runbooks and runbook jobs. In addition you can manage assets such as variables, schedules, Windows PowerShell modules, credentials, and certificates."
+            },
+            {
+                "name": "Azure NetApp Files",
+                "url": "https://docs.microsoft.com/en-us/rest/api/netapp/",
+                "description": "The Azure NetApp Files service is an enterprise-class, high-performant, metered file storage service. It offers the following resources: NetApp accounts, capacity pools, volumes, mount targets, and snapshots. For more information about these resources, see Understand the storage hierarchy of Azure NetApp Files."
+            },
+            {
+                "name": "Azure Resource Graph",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure-resourcegraph/",
+                "description": "Azure Resource Graph enables you to get full visibility into your environments by providing high performance and powerful querying capability across all your resources."
+            },
+            {
+                "name": "Azure Stack Admin",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure-stack/",
+                "description": "Azure Stack Admin APIs provide REST API interfaces for each Resource Provider that ships with Azure Stack inbox, for performing operations on selected entities, such as Scale Unit Nodes, Alerts, Updates, Backup, Marketplace, Subscriptions, Offers, and much more. This reference provides a guide for working with the Azure Stack Admin REST API, as well as specific reference information for each available operation, grouped by resource provider."
+            },
+            {
+                "name": "Batch AI",
+                "url": "https://docs.microsoft.com/en-us/rest/api/batchai/",
+                "description": "Batch AI is a managed service that enables data scientists and AI researchers to train AI and other machine learning models on clusters of Azure virtual machines, including VMs with GPU support."
+            },
+            {
+                "name": "Batch Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/batchmanagement/",
+                "description": "Azure Batch enables you to run large-scale parallel and high-performance computing (HPC) applications efficiently in the cloud. It's a platform service that schedules compute-intensive work to run on a managed collection of virtual machines, and can automatically scale compute resources to meet the needs of your jobs."
+            },
+            {
+                "name": "Batch Service",
+                "url": "https://docs.microsoft.com/en-us/rest/api/batchservice/",
+                "description": "The REST APIs for the Azure Batch service offer developers a means to schedule large-scale parallel and HPC applications in the cloud."
+            },
+            {
+                "name": "Billing",
+                "url": "https://docs.microsoft.com/en-us/rest/api/billing/",
+                "description": "Azure Billing API (preview) provides programmatic access to your Azure billing information and invoices."
+            },
+            {
+                "name": "Blockchain",
+                "url": "https://docs.microsoft.com/en-us/rest/api/blockchain/",
+                "description": "Azure Blockchain Service is a fully managed ledger service that enables you to operate blockchain networks at scale in Azure.  By providing unified control for both infrastructure management as well as blockchain network governance, Azure Blockchain Service provides:"
+            },
+            {
+                "name": "Blueprints",
+                "url": "https://docs.microsoft.com/en-us/rest/api/blueprints/",
+                "description": "Azure Blueprints enables the creation of an Azure native package of artifacts (resource groups,\npolicies, role assignments, Resource Manager templates and more) that can be dynamically deployed to\nsubscriptions to create consistent, repeatable environments."
+            },
+            {
+                "name": "CDN",
+                "url": "https://docs.microsoft.com/en-us/rest/api/cdn/",
+                "description": "The Azure Content Delivery Network (CDN) caches static web content at strategically placed locations to provide maximum throughput for delivering content to users. The CDN offers developers a global solution for delivering high-bandwidth content by caching the content at physical nodes across the world."
+            },
+            {
+                "name": "Cognitive Services",
+                "url": "https://docs.microsoft.com/en-us/rest/api/cognitiveservices/",
+                "description": "Azure Cognitive Services enables natural and contextual interaction with tools that augment the users' experiences using the power of machine-based intelligence. The operations in the Azure Cognitive Services REST API provide operations for managing your Cognitive Services accounts."
+            },
+            {
+                "name": "Compute",
+                "url": "https://docs.microsoft.com/en-us/rest/api/compute/",
+                "description": "The Azure Compute APIs give you programmatic access to virtual machines and their supporting resources. For a more detailed overview, see the Virtual Machines product page."
+            },
+            {
+                "name": "Consumption",
+                "url": "https://docs.microsoft.com/en-us/rest/api/consumption/",
+                "description": "The Azure Consumption APIs give you programmatic access to cost and usage data for your Azure resources. These APIs currently only support Enterprise Enrollments and Web Direct  Subscriptions (with a few exceptions). The APIs are continually updated to support other types of Azure subscriptions."
+            },
+            {
+                "name": "Container Instances",
+                "url": "https://docs.microsoft.com/en-us/rest/api/container-instances/",
+                "description": "Azure Container Instances offers the fastest and simplest way to run a container in Azure, without having to provision any virtual machines and without having to adopt a higher-level service. For more information, see the Azure Container Instances overview."
+            },
+            {
+                "name": "Container Registry",
+                "url": "https://docs.microsoft.com/en-us/rest/api/containerregistry/",
+                "description": "Azure Container Registry is a managed Docker registry service for storing and managing your private Docker container images. Push Docker container images to a private registry as part of your development workflows. Pull images from a registry to your container deployments with orchestration tools or other Azure services."
+            },
+            {
+                "name": "Container Service",
+                "url": "https://docs.microsoft.com/en-us/rest/api/container-service/",
+                "description": "Azure Container Service (ACS) allows you to quickly deploy a production ready Kubernetes, DC/OS, or Docker Swarm cluster."
+            },
+            {
+                "name": "Cosmos DB",
+                "url": "https://docs.microsoft.com/en-us/rest/api/cosmos-db/",
+                "description": "Azure Cosmos DB is a globally distributed multi-model database that supports the document, graph, and key-value data models. The content in this section is for creating, querying, and managing document resources using the SQL API via REST."
+            },
+            {
+                "name": "Cosmos DB Resource Provider",
+                "url": "https://docs.microsoft.com/en-us/rest/api/cosmos-db-resource-provider/",
+                "description": "Azure Cosmos DB is a globally distributed database service designed to enable you to elastically and independently scale throughput and storage across any number of geographical regions with a comprehensive SLA. The Resource Provider REST API enables you to manage your SQL API account and keys programmatically. Do you want to manage your SQL API database, collection, and documents via REST? If so, see REST API Reference."
+            },
+            {
+                "name": "Cost Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/cost-management/",
+                "description": "The Azure Cost Management APIs provide the ability to explore cost and usage data via multidimensional analysis, where creating customized filters and expressions allow you to answer consumption-related questions for your Azure resources. These APIs are currently available for Azure Enterprise customers."
+            },
+            {
+                "name": "Data Box Edge/Data Box Gateway",
+                "url": "https://docs.microsoft.com/en-us/rest/api/databoxedgegateway/",
+                "description": "Azure Data Box Edge and Azure Data Box Gateway are on-premises storage solutions that allow you to send the data over the network to Azure.\nData Box Gateway is a virtual device based on a virtual machine provisioned in your virtualized environment or hypervisor.\nData Box Edge uses a physical device supplied by Microsoft to accelerate the secure data transfer.\nData Box Edge has all the capabilities of Data Box Gateway and is additionally equipped with AI-enabled edge computing capabilities that help analyze, process, or filter data as it moves to Azure."
+            },
+            {
+                "name": "Data Catalog",
+                "url": "https://docs.microsoft.com/en-us/rest/api/datacatalog/",
+                "description": "The Data Catalog REST API is a REST-based API that provides programmatic access to Data Catalog resources to register, annotate and search data assets programmatically. Azure Data Catalog is a cloud-based service that you can use to register and discover enterprise data assets. The service gives you capabilities that enable any user, from analysts to data scientists to developers, to register, discover, understand, and consume data assets."
+            },
+            {
+                "name": "Data Factory",
+                "url": "https://docs.microsoft.com/en-us/rest/api/datafactory/",
+                "description": "Azure Data Factory is a cloud-based data integration service that orchestrates and automates the movement and transformation of data. You can create data integration solutions using the Data Factory service that can ingest data from various data stores, transform/process the data, and publish the result data to the data stores."
+            },
+            {
+                "name": "Data Lake Analytics",
+                "url": "https://docs.microsoft.com/en-us/rest/api/datalakeanalytics/",
+                "description": "Use the Azure Data Lake Analytics REST APIs to create and manage Data Lake Analytics resources through Azure Resource Manager. All task operations conform to the HTTP/1.1 protocol specification and most operations return an x-ms-request-id header that can be used to obtain information about the request. You must make sure that requests made to these resources are secure, using https. For more information on making secure requests, see Acquire an access token."
+            },
+            {
+                "name": "Data Lake Storage Gen1",
+                "url": "https://docs.microsoft.com/en-us/rest/api/datalakestore/",
+                "description": "Use the Azure Data Lake Store REST APIs to create and manage Data Lake Store resources through Azure Resource Manager. All task operations conform to the HTTP/1.1 protocol specification and most operations return an x-ms-request-id header that can be used to obtain information about the request. You must make sure that requests made to these resources are secure, using https. For more information on making secure requests, see Authenticating Azure Resource Manager requests."
+            },
+            {
+                "name": "Data Migration",
+                "url": "https://docs.microsoft.com/en-us/rest/api/datamigration/",
+                "description": "Azure Database Migration Service is a fully managed service designed to enable seamless migrations from multiple database sources to Azure Data platforms with minimal downtime (online migrations). For a more detailed overview, see the Azure Database Migration Service product page."
+            },
+            {
+                "name": "Databricks",
+                "url": "https://docs.microsoft.com/en-us/rest/api/databricks/",
+                "description": "Azure Databricks is an interactive workspace that integrates effortlessly with a wide variety of data stores and services."
+            },
+            {
+                "name": "Deployment Manager",
+                "url": "https://docs.microsoft.com/en-us/rest/api/deploymentmanager/",
+                "description": "Deployment Manager enables you to use safe deployment practices when deploying your service across many regions."
+            },
+            {
+                "name": "Dev Test Labs",
+                "url": "https://docs.microsoft.com/en-us/rest/api/dtl/",
+                "description": "Azure DevTest Labs is a service that helps developers and testers quickly create environments in Azure while minimizing waste and controlling cost. You can test the latest version of your application by quickly provisioning Windows and Linux environments using reusable templates and artifacts. Easily integrate your deployment pipeline with DevTest Labs to provision on-demand environments. Scale up your load testing by provisioning multiple test agents, and create pre-provisioned environments for training and demos."
+            },
+            {
+                "name": "DNS",
+                "url": "https://docs.microsoft.com/en-us/rest/api/dns/",
+                "description": "The Microsoft Azure DNS Resource Provider REST API allows you to create and modify DNS zones and records hosted within Azure. Zones and records are managed as Azure Resources, see Using resource groups to manage your Azure resources for more details on resources groups and Azure resources."
+            },
+            {
+                "name": "Event Grid",
+                "url": "https://docs.microsoft.com/en-us/rest/api/eventgrid/",
+                "description": "Azure Event Grid enables you to easily build applications with event-based architectures. You can publish topics to Event Grid, and subscribe to topics through Event Grid. When subscribing, you provide an endpoint to respond to the event."
+            },
+            {
+                "name": "Event Hubs",
+                "url": "https://docs.microsoft.com/en-us/rest/api/eventhub/",
+                "description": "Azure Event Hubs is a highly scalable data ingress service that ingests millions of events per second so that you can process and analyze the massive amounts of data produced by your connected devices and applications. Once data is collected into an Event Hub, it can be transformed and stored using any real-time analytics provider or batching/storage adapters."
+            },
+            {
+                "name": "ExpressRoute",
+                "url": "https://docs.microsoft.com/en-us/rest/api/expressroute/",
+                "description": "Azure ExpressRoute lets you create private connections between Azure datacenters and infrastructure on your premises or in a colocation environment. For a more detailed overview see the Azure ExpressRoute product page."
+            },
+            {
+                "name": "Firewall",
+                "url": "https://docs.microsoft.com/en-us/rest/api/firewall/",
+                "description": "Azure Firewall is a managed cloud-based network security service that protects your Azure Virtual Network resources. It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability. Customers can centrally create, enforce, and log application and network connectivity policies across subscriptions and virtual networks. Azure Firewall provides a static public IP address for your virtual network resources allowing outside firewalls to identify traffic originating from your virtual network.  The service is fully integrated with Azure Monitor for logging and analytics. For a more detailed overview see the Azure AzureFirewall product page."
+            },
+            {
+                "name": "Front Door Service",
+                "url": "https://docs.microsoft.com/en-us/rest/api/frontdoor/",
+                "description": "Azure Front Door Service enables you to define, manage, and monitor the global routing for your web traffic by optimizing for best performance and instant global failover for high availability. With Front Door, you can transform your global (multi-region) consumer and enterprise applications into robust, high-performance personalized modern applications, APIs, and content that reach a global audience with Azure."
+            },
+            {
+                "name": "Guest Configuration",
+                "url": "https://docs.microsoft.com/en-us/rest/api/guestconfiguration/",
+                "description": "Guest Configuration definitions in Azure Policy allow you to validate settings inside virtual\nmachines. This includes the configuration of the Operating System, applications, or even\nenvironmental data. You can use this API to create or update Guest Configuration, and get\ninformation about the compliance details of a virtual machine including which specific settings are\nnot compliant with the assigned configuration."
+            },
+            {
+                "name": "HDInsight",
+                "url": "https://docs.microsoft.com/en-us/rest/api/hdinsight/",
+                "description": "Use these APIs to create and manage HDInsight resources through Azure Resource Manager. All task operations conform to the HTTP/1.1 protocol specification and each operation returns an x-ms-request-id header that can be used to obtain information about the request. Ensure that requests made to these resources are secure. For more information, see Authenticating Azure Resource Manager requests."
+            },
+            {
+                "name": "HDInsight Spark",
+                "url": "https://docs.microsoft.com/en-us/rest/api/hdinsightspark/",
+                "description": "Use these APIs to submit remote job to HDInsight Spark clusters. All task operations conform to the HTTP/1.1 protocol. Make sure you are authenticating with the Spark cluster management endpoint using HTTP basic authentication with your Spark administrator credentials."
+            },
+            {
+                "name": "Intune",
+                "url": "https://docs.microsoft.com/en-us/rest/api/intune/",
+                "description": "Azure Intune provides mobile device management, mobile application management, and PC management capabilities from the cloud. The Azure Intune REST API provides the following REST operations groups."
+            },
+            {
+                "name": "IoT Hub",
+                "url": "https://docs.microsoft.com/en-us/rest/api/iothub/",
+                "description": "The REST APIs for IoT Hub offer programmatic access to the device, messaging, and job services, as well as the resource provder, in IoT Hub. You can access messaging services from within an IoT service running in Azure, or directly over the Internet from any application that can send an HTTPS request and receive an HTTPS response."
+            },
+            {
+                "name": "IoT Hub Device Provisioning Service",
+                "url": "https://docs.microsoft.com/en-us/rest/api/iot-dps/",
+                "description": "The IoT Hub Device Provisioning Service is a helper service for IoT Hub that enables automatic device provisioning to a specified IoT hub without requiring human intervention. You can use the Device Provisioning Service to provision millions of devices in a secure and scalable manner. For more information about the Device Provisioning Service, see Provisioning IoT devices in Azure."
+            },
+            {
+                "name": "Key Vault",
+                "url": "https://docs.microsoft.com/en-us/rest/api/keyvault/",
+                "description": "Managing your Key Vault and the contents of your Key Vault can be accomplished through a REST interface. Below are lists of some of the common tasks for managing both."
+            },
+            {
+                "name": "Lab Services",
+                "url": "https://docs.microsoft.com/en-us/rest/api/labservices/",
+                "description": "Azure Lab Services enables you to easily set up and provide on-demand access to preconfigured virtual machines for your workloads: teaching a class, training professionals, or running hackathons or hands-on labs, and more. Simply input what you need in a lab and let the service automatically roll it out to your audience. Your users go to a single place to access all the VMs they are given across labs, and connect from there to learn, explore, and innovate."
+            },
+            {
+                "name": "Load balancer",
+                "url": "https://docs.microsoft.com/en-us/rest/api/load-balancer/",
+                "description": "Load balancer allows fine-grained configuration of how incoming traffic is distributed across VM instances hosted in Microsoft Azure. A load balancer has two main parts: a frontend and a backend configuration. The frontend configuration describes the exposed IP address of the load balancer. The frontend IP address of a load balancer can be a public or private IP address. The backend configuration of a load balancer describes how the traffic is distributed across VM instances and how health of a particular VM instance is determined.  For a more detailed overview see the Azure Load Balancer product page."
+            },
+            {
+                "name": "Log Analytics",
+                "url": "https://docs.microsoft.com/en-us/rest/api/loganalytics/",
+                "description": "Log Analytics is a service that helps you collect and analyze data generated by resources in your cloud and on-premises environments."
+            },
+            {
+                "name": "Logic Apps",
+                "url": "https://docs.microsoft.com/en-us/rest/api/logic/",
+                "description": "Azure Logic Apps helps you simplify and implement scalable integrations and workflows in the cloud.\nYou can model and automate your process visually as a series of steps known as a workflow in the Logic App Designer.\nThere are also many connectors\nthat you can add to your logic app so you can quickly integrate across services\nand protocols across the cloud and on-premises. A logic app begins with a trigger,\nlike 'When an account is added to Dynamics CRM', and after firing,\ncan begin many combinations actions, conversions, and condition logic."
+            },
+            {
+                "name": "Machine Learning",
+                "url": "https://docs.microsoft.com/en-us/rest/api/machinelearning/",
+                "description": "The following Azure Machine Learning Studio REST APIs enable you to create and manage:"
+            },
+            {
+                "name": "Maps",
+                "url": "https://docs.microsoft.com/en-us/rest/api/maps/",
+                "description": "Azure Maps (AzMaps) is a portfolio of geospatial services. The current geospatial services include Maps, Search, Routing,\nTraffic, and Time Zones. These services allow a developer to use familiar tools to integrate location information into\ntheir Azure solutions. Azure Maps provides both web and mobile developers powerful geospatial capabilities supported by\nfresh mapping data."
+            },
+            {
+                "name": "Maps Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/maps-management/",
+                "description": "Azure Maps (AzMaps) is a portfolio of geospatial services that include service APIs for Maps, Search, Routing, Traffic and Time Zones. The portfolio of Azure Maps services allows you to use familiar developer tools to quickly develop and scale solutions that integrate location information into your Azure solutions. Azure Maps provides developers from all industries powerful geospatial capabilities packed with fresh mapping data imperative to providing geographic context to web and mobile applications."
+            },
+            {
+                "name": "MariaDB",
+                "url": "https://docs.microsoft.com/en-us/rest/api/mariadb/",
+                "description": "The Azure Database for MariaDB REST API is available for you to create, delete, manage, and list servers, databases, logs, firewall rules, and operations."
+            },
+            {
+                "name": "Media Services",
+                "url": "https://docs.microsoft.com/en-us/rest/api/media/",
+                "description": "Azure Media Services currently supports 2 REST APIs:"
+            },
+            {
+                "name": "Migrate",
+                "url": "https://docs.microsoft.com/en-us/rest/api/migrate/",
+                "description": "The Azure Migrate service assesses on-premises workloads for migration to Azure. The service assesses the migration suitability of on-premises machines, performance-based sizing, and provides cost estimations for running your on-premises machines in Azure. To learn more about Azure Migrate, see the Azure Migrate documentation."
+            },
+            {
+                "name": "Mixed Reality",
+                "url": "https://docs.microsoft.com/en-us/rest/api/mixedreality/",
+                "description": "Microsoft provides a series of Azure services to empower Mixed Reality devices and applications. Currently such services are provided:"
+            },
+            {
+                "name": "Monitor",
+                "url": "https://docs.microsoft.com/en-us/rest/api/monitor/",
+                "description": "Use the Azure Monitor REST API to get insights into your Azure resources using the following groups of operations."
+            },
+            {
+                "name": "MySQL",
+                "url": "https://docs.microsoft.com/en-us/rest/api/mysql/",
+                "description": "The Azure Database for MySQL REST API is available for you to create, delete, manage, and list servers, databases, logs, firewall rules, and operations."
+            },
+            {
+                "name": "Network Gateway",
+                "url": "https://docs.microsoft.com/en-us/rest/api/network-gateway/",
+                "description": "Network Gateway is a type of virtual network gateway that sends encrypted traffic across a public connection. For a more detailed overview, see the Azure VPN Gateway product page."
+            },
+            {
+                "name": "Network Watcher",
+                "url": "https://docs.microsoft.com/en-us/rest/api/network-watcher/",
+                "description": "Network Watcher is the resource that exposes networking diagnostic APIs in Azure. Before any calls can be made into the APIs below, you must create a Network Watcher resource. Network Watcher is a regional resource. You must create one Network Watcher resource per subscription per region. The simplest way to create a Network Watcher is from within the portal, but you can also manually create and manage your Network Watcher resources using the REST API below."
+            },
+            {
+                "name": "Networking Operations",
+                "url": "https://docs.microsoft.com/en-us/rest/api/operation/",
+                "description": "Operations call result is a representation of available Network cloud operations list."
+            },
+            {
+                "name": "Notification Hubs",
+                "url": "https://docs.microsoft.com/en-us/rest/api/notificationhubs/",
+                "description": "Azure Notification Hubs provide an easy-to-use and scaled-out push engine that allows you to send notifications to any platform (iOS, Android, Windows, Kindle, Baidu, etc.) from any backend (cloud or on-premises). For more information about the service, see Azure Notification Hubs conceptual documentation"
+            },
+            {
+                "name": "Policy Insights",
+                "url": "https://docs.microsoft.com/en-us/rest/api/policy-insights/",
+                "description": "Policy Insights REST API surfaces operations related to Azure Policy results. These operations include querying policy evaluation events and compliance states and managing policy remediations."
+            },
+            {
+                "name": "PostgreSQL",
+                "url": "https://docs.microsoft.com/en-us/rest/api/postgresql/",
+                "description": "The Azure Database for PostgreSQL REST API is available for you to create, delete, manage, and list servers, databases, logs, firewall rules, and operations."
+            },
+            {
+                "name": "Power BI Embedded",
+                "url": "https://docs.microsoft.com/en-us/rest/api/power-bi-embedded/",
+                "description": "This API provides a RESTful set of web services that enables you to create, retrieve, update, and delete Power BI dedicated capacities."
+            },
+            {
+                "name": "Power BI Workspace Collections",
+                "url": "https://docs.microsoft.com/en-us/rest/api/power-bi-workspace-collections/",
+                "description": "The Azure Power BI Workspace Collections REST API provides the following operation groups you can use to programmatically develop applications that integrate Power BI Reports into your applications."
+            },
+            {
+                "name": "Recovery Services",
+                "url": "https://docs.microsoft.com/en-us/rest/api/recoveryservices/",
+                "description": "A Recovery Services vault is an Azure entity that stores, manages, and orchestrates data and information for the Azure Backup service, and the Azure Site Recovery service. These services contribute to your business continuity and disaster recovery (BCDR) strategy. Backup backs up data to Azure from on-premises and Azure VMs. Site Recovery replicates, fails over, and fails back workloads running on on-premises machines and Azure VMs."
+            },
+            {
+                "name": "Recovery Services - Backup",
+                "url": "https://docs.microsoft.com/en-us/rest/api/backup/",
+                "description": "Azure Backup contributes to your business continuity and disaster recovery (BCDR) strategy by backing up data to the Azure clouds. Use Backup to back up data on virtual machines running on-premises, and on Azure VMs."
+            },
+            {
+                "name": "Recovery Services - Site Recovery",
+                "url": "https://docs.microsoft.com/en-us/rest/api/site-recovery/",
+                "description": "Azure Site Recovery contributes to your business continuity and disaster recovery (BCDR) strategy by keeping apps and workloads available during outages. Site Recovery replicates on-premises and Azure workloads to a secondary location. When an outage occurs, you fail over to the secondary location. You recover apps to the primary site when it’s up and running again."
+            },
+            {
+                "name": "Redis Cache",
+                "url": "https://docs.microsoft.com/en-us/rest/api/redis/",
+                "description": "Azure Redis Cache is based on the popular open-source Redis cache. It gives you access to a secure, dedicated Redis cache, managed by Microsoft and accessible from any application within Azure. For a more detailed overview, see the Azure Redis Cache product page."
+            },
+            {
+                "name": "Relay",
+                "url": "https://docs.microsoft.com/en-us/rest/api/relay/",
+                "description": "Azure Relay provides cloud-enabled communication with enterprise messaging and relayed communication that helps you connect on-premises solutions with the cloud."
+            },
+            {
+                "name": "Reserved VM Instances",
+                "url": "https://docs.microsoft.com/en-us/rest/api/reserved-vm-instances/",
+                "description": "The Reserved VM Instances API gives you access to reservation operations."
+            },
+            {
+                "name": "Resource Health",
+                "url": "https://docs.microsoft.com/en-us/rest/api/resourcehealth/",
+                "description": "Resource health helps you diagnose and get support when an Azure issue impacts your resources. It informs you about the current and past health of your resources and helps you mitigate issues."
+            },
+            {
+                "name": "Resource Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/resources/",
+                "description": "Azure Resource Manager enables you to deploy and manage the infrastructure for your Azure solutions. You organize related resources in resource groups, and deploy your resources with JSON templates. For an introduction to deploying and managing resources with Resource Manager, see Azure Resource Manager overview."
+            },
+            {
+                "name": "Scheduler",
+                "url": "https://docs.microsoft.com/en-us/rest/api/scheduler/",
+                "description": "REST APIs for the Azure Scheduler Service. These APIs allow you to create, manage, and aggregate scheduled jobs."
+            },
+            {
+                "name": "Search Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/searchmanagement/",
+                "description": "Azure Search provides a REST API used with Azure Resource Manager to provision and administer a search service in your Azure subscription. To manage your search service programmatically, specify the Resource Manager endpoint https://management.azure.com with a search management operation:"
+            },
+            {
+                "name": "Search Service",
+                "url": "https://docs.microsoft.com/en-us/rest/api/searchservice/",
+                "description": "Azure Search is a fully managed cloud search service that provides a rich search experience to custom applications. One way to add search capability is through a REST API, with operations that create and manage indexes, load data, implement search features, execute queries, and handle results."
+            },
+            {
+                "name": "Security Center",
+                "url": "https://docs.microsoft.com/en-us/rest/api/securitycenter/",
+                "description": "Azure Security Center provides unified security management and advanced threat protection across hybrid cloud workloads. With Security Center, you can apply security policies across your workloads, limit your exposure to threats, and detect and respond to attacks."
+            },
+            {
+                "name": "Serial Console",
+                "url": "https://docs.microsoft.com/en-us/rest/api/serialconsole/",
+                "description": "The Azure Serial Console REST API is available for you to use with the Azure Serial Console Resource Provider to enable, disable, and get the disabled status of Serial Console for a subscription."
+            },
+            {
+                "name": "Service Bus",
+                "url": "https://docs.microsoft.com/en-us/rest/api/servicebus/",
+                "description": "Azure Service Bus provides cloud-enabled communication with enterprise messaging and relayed communication that helps you connect on-premises solutions with the cloud."
+            },
+            {
+                "name": "Service Fabric",
+                "url": "https://docs.microsoft.com/en-us/rest/api/servicefabric/",
+                "description": "Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices."
+            },
+            {
+                "name": "Service Map",
+                "url": "https://docs.microsoft.com/en-us/rest/api/servicemap/",
+                "description": "Service Map automatically discovers application components on Windows and Linux systems and maps the communication between services. It allows you to view your servers as you think of them – as interconnected systems that deliver critical services.  Service Map shows connections between servers, processes, and ports across any TCP-connected architecture with no configuration required other than installation of an agent."
+            },
+            {
+                "name": "SignalR Service",
+                "url": "https://docs.microsoft.com/en-us/rest/api/signalr/",
+                "description": "Azure SignalR Service is a fully-managed service that allows developers to focus on building real-time web experiences without worrying about capacity provisioning, reliable connections, scaling, encryption or authentication. For a more detailed overview, see the Azure SignalR product page."
+            },
+            {
+                "name": "SQL Database",
+                "url": "https://docs.microsoft.com/en-us/rest/api/sql/",
+                "description": "The Azure SQL Database REST API includes operations for managing Azure SQL Database resources."
+            },
+            {
+                "name": "SQL VM",
+                "url": "https://docs.microsoft.com/en-us/rest/api/sqlvm/",
+                "description": "The Azure SQL Virtual Machine REST API includes operations for managing Azure SQL Virtual Machine resources."
+            },
+            {
+                "name": "Storage Import-Export",
+                "url": "https://docs.microsoft.com/en-us/rest/api/storageimportexport/",
+                "description": "This API helps you manage import/export jobs to transfer data to or from Blob storage."
+            },
+            {
+                "name": "Storage Resource Provider",
+                "url": "https://docs.microsoft.com/en-us/rest/api/storagerp/",
+                "description": "The Storage Resource Provider (SRP) enables you to manage your storage account and keys programmatically."
+            },
+            {
+                "name": "Storage Services",
+                "url": "https://docs.microsoft.com/en-us/rest/api/storageservices/",
+                "description": "The REST APIs for the Microsoft Azure storage services offer programmatic access to the Blob, Queue, Table, and File services in Azure or in the development environment via the storage emulator."
+            },
+            {
+                "name": "StorSimple",
+                "url": "https://docs.microsoft.com/en-us/rest/api/storsimple/",
+                "description": "Microsoft Azure StorSimple is an integrated storage solution that manages storage tasks between on-premises devices and Microsoft Azure cloud storage. It uses the proprietary StorSimple 8000 series device, integrates with cloud services, and provides a set of management tools for a seamless view of all enterprise storage, including cloud storage. For a more detailed overview, see StorSimple 8000 series: a hybrid cloud storage solution."
+            },
+            {
+                "name": "Stream Analytics",
+                "url": "https://docs.microsoft.com/en-us/rest/api/streamanalytics/",
+                "description": "Use the operations described in this REST API to manage Azure Stream Analytics resources through Azure Resource Manager. All task operations in this REST API conform to the HTTP/1.1 protocol specification, and each operation returns an x-ms-request-id header that can be used to obtain information about the request. You must make sure that requests made to these resources are secure. For more information, see Authenticating Azure Resource Manager requests."
+            },
+            {
+                "name": "Time Series Insights",
+                "url": "https://docs.microsoft.com/en-us/rest/api/time-series-insights/",
+                "description": "Azure Time Series Insights is a fully managed analytics, storage, and visualization service that makes it simple to explore and analyze billions of IoT events simultaneously.  It gives you a global view of your data, letting you quickly validate your IoT solution and avoid costly downtime to mission-critical devices by helping you discover hidden trends, spot anomalies, and conduct root-cause analyses in near real-time."
+            },
+            {
+                "name": "Time Series Insights Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/time-series-insights-management/",
+                "description": "Time Series Insights provides a REST API used with Azure Resource Manager to provision and administer a Time Series Insights environment in your Azure subscription. To manage your Time Series Insights environment programmatically, specify the ARM endpoint https://management.azure.com with an environment management operation:"
+            },
+            {
+                "name": "Traffic Manager",
+                "url": "https://docs.microsoft.com/en-us/rest/api/trafficmanager/",
+                "description": "Microsoft Azure Traffic Manager allows you to control the distribution of user traffic for service endpoints in different datacenters. Service endpoints supported by Traffic Manager include Azure VMs, Web Apps, and cloud services. You can also use Traffic Manager with external, non-Azure endpoints."
+            },
+            {
+                "name": "Virtual Networks",
+                "url": "https://docs.microsoft.com/en-us/rest/api/virtual-network/",
+                "description": "An Azure virtual network (VNet) is a representation of your own network in the cloud. It is a logical isolation of the Azure cloud dedicated to your subscription. You can fully control the IP address blocks, DNS settings, security policies, and route tables within this network. For a more detailed overview, see the Azure Virtual Network product page."
+            },
+            {
+                "name": "Virtual WAN",
+                "url": "https://docs.microsoft.com/en-us/rest/api/virtualwan/",
+                "description": "Azure Virtual WAN is a networking service that provides optimized and automated branch-to-branch connectivity through Azure. Virtual WAN lets you connect and configure branch devices to communicate with Azure. For a more detailed overview, see the Azure Virtual WAN product page."
+            },
+            {
+                "name": "Visual Studio",
+                "url": "https://docs.microsoft.com/en-us/rest/api/visualstudio/",
+                "description": "The Visual Studio operations enable you to programmatically work with Visual Studio Team Services accounts and projects."
+            }
+        ]
+    },
+    {
+        "name": "Azure DevOps",
+        "scope": "Azure DevOps",
+        "services": [
+            {
+                "name": "Accounts",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/account/",
+                "description": "Each person using Azure DevOps Services has access to one or more accounts."
+            },
+            {
+                "name": "Build",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/build/",
+                "description": ""
+            },
+            {
+                "name": "Cloud Load Test",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/clt/",
+                "description": "This API provides a test infrastructure in the cloud to execute web load tests at a high scale and reliability without requiring any upfront setup, configuration or provisioning tax."
+            },
+            {
+                "name": "Core",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/core/",
+                "description": "An Azure DevOps Services organization has one or more team projects. Each team project has one or more teams that contribute to that project."
+            },
+            {
+                "name": "Dashboard",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/dashboard/",
+                "description": "Each team in Azure DevOps Services can have one or more dashboards. Each dashboard contains a set of widgets."
+            },
+            {
+                "name": "Git",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/git/",
+                "description": "Use these APIs to work with Git repositories in Azure DevOps Services.\nRepositories contain objects representing core Git concepts:"
+            },
+            {
+                "name": "Graph",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/graph/",
+                "description": "The Azure DevOps Services Graph API allows you to manage users, groups, and group memberships."
+            },
+            {
+                "name": "Member Entitlement Management",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/memberentitlementmanagement/",
+                "description": "Use these APIs to manage members in Azure DevOps Services. A member is a user or a group added to an account."
+            },
+            {
+                "name": "Notification",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/notification/",
+                "description": "Notifications help teams stay informed about activity in their Azure DevOps projects. With notifications, users and teams are notified when changes occur to work items, code reviews, pull requests, source control files, and builds. For example, you can get notified whenever a bug that you opened is resolved or a work item is assigned to you. The primary delivery channel for notifications today is email. Learn more about notifications."
+            },
+            {
+                "name": "Policy",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/policy/",
+                "description": "If you haven’t already, look at the information on getting started with these APIs and our documentation on branch policies. Use these APIs to define policies for your projects.\nConfigurationsassociate a type, such as \"Required reviewers\", with specific settings, such as  \"For pull requests with files named *.dll targeting the master branch in the Fabrikam Git repository, add the Source-Controlled Binaries Team as a required reviewer\"."
+            },
+            {
+                "name": "Profile",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/profile/",
+                "description": "Each person using Azure DevOps Services has a profile."
+            },
+            {
+                "name": "Release",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/release/",
+                "description": "Using on-premises: An earlier, and slightly different, version of this Release Management API is available in Team Foundation Server 2015 Update 2. To use, you must specify an API version of 2.2-preview.1."
+            },
+            {
+                "name": "Search",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/search/",
+                "description": "The Search APIs enable you to search Code or Work Items across all the projects, teams and repositories to which you have access. Look up the documentation to learn more about Search and its capabilities. Use the APIs to further extend or supplement these capabilities as required."
+            },
+            {
+                "name": "Security",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/security/",
+                "description": "Data stored in security namespaces are used to determine whether an user has permissions to perform a specific action on a specific resource."
+            },
+            {
+                "name": "Service Hooks",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/hooks/",
+                "description": "The service hook publishers define a set of events. You create subscriptions based on an event and select the\nservice hook consumer and action to take in response to that event from the publisher."
+            },
+            {
+                "name": "Symbol",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/symbol/",
+                "description": "Use these APIs to work with a Team Foundation managed Symbol Service."
+            },
+            {
+                "name": "Test",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/test/",
+                "description": "A test case describes the steps to take when you run a test.\nTest suites are groups of test cases, and a test plan is the collection of test suites that need to be run for a particular iteration or release.\nTest points are the pairings of test cases with test configurations that need to be run for the test plan.\nA test run consists of a set of test points. The results are the outcome of running the tests in the test run."
+            },
+            {
+                "name": "Tfvc",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/tfvc/",
+                "description": "Items are files and folders in version control.\nChangesets and shelvesets represent changes to a set of items.\nFolders can be branched and items can be labelled."
+            },
+            {
+                "name": "Token Admin",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/tokenadmin/",
+                "description": "The VSTS Token Administration API allows organization administrators to retrieve and revoke the OAuth authorizations, including personal access tokens (PATs) and self-describing session tokens, of users in their organizations."
+            },
+            {
+                "name": "Work",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/work/",
+                "description": "Team projects have one or more teams that contribute to that project. This API enables editing of team settings (not project or process settings)."
+            },
+            {
+                "name": "Work Item Tracking",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure/devops/wit/",
+                "description": "Get, create, and update bugs, tasks, and other work items for your team.\nQueries allow you to use the full power of the work item query language to search for and filter work items.\nYou can use the work item query language to get to each work item that satisfies the query.\nWork items retain a full history, and you can get each full revision of the work item, or just the updates that were made in each revision. Work items can also be tagged."
+            }
+        ]
+    },
+    {
+        "name": "Dynamics 365 Online Management",
+        "scope": "Dynamics 365 Online Management",
+        "services": [
+            {
+                "name": "Online Management API Reference",
+                "url": "https://docs.microsoft.com/en-us/rest/api/admin.services.crm.dynamics.com/",
+                "description": "Online Management API lets you manage online instances of Customer Engagement in your Office 365 tenants. For detailed overview, see Online Management API for Customer Engagement."
+            }
+        ]
+    },
+    {
+        "name": "Kaizala",
+        "scope": "Kaizala",
+        "services": [
+            {
+                "name": "Kaizala",
+                "url": "https://docs.microsoft.com/en-us/rest/kaizala/",
+                "description": "Kaizala enables 3rd party developers to integrate Kaizala into their business processes by providing the ability to perform a curated set of actions in Kaizala using REST based API calls. The scope of the API is for external systems to call the end-point and perform actions on-demand. That is, this will be a PULL model – where individual endpoints need to be called to perform specific actions using Kaizala APIs. The PUSH model where Kaizala platform can trigger actions can be configured using webhooks."
+            }
+        ]
+    },
+    {
+        "name": "Azure Blockchain Workbench",
+        "scope": "Azure Blockchain Workbench",
+        "services": [
+            {
+                "name": "Azure Blockchain Workbench",
+                "url": "https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/",
+                "description": "Azure Blockchain Workbench helps organizations build rich, integrated multi-party blockchain applications quickly and easily. Azure Blockchain Workbench REST API provides developers and information workers a way to integrate to blockchain applications. For example, a developer can use the REST API to enable IoT devices to send data to a blockchain application. Or, an information worker can use the REST API and Power BI to create visualization of blockchain data."
+            }
+        ]
+    },
+    {
+        "name": "Operations Manager",
+        "scope": "Operations Manager",
+        "services": [
+            {
+                "name": "Operations Manager",
+                "url": "https://docs.microsoft.com/en-us/rest/api/operationsmanager/",
+                "description": "System Center Operations Manager provides flexible and cost-effective infrastructure monitoring that helps ensure predictable performance and availability of critical applications and infrastructure services.  Operations Manager offers comprehensive monitoring for your datacenter by checking the health, performance, and availability for all monitored objects in your environment, and identify problems for rapid resolution.  For a more detailed overview, see the System Center Operations Manager product page."
+            }
+        ]
+    },
+    {
+        "name": "Playfab",
+        "scope": "Playfab",
+        "services": []
+    },
+    {
+        "name": "Power BI",
+        "scope": "Power BI",
+        "services": [
+            {
+                "name": "Power BI REST APIs",
+                "url": "https://docs.microsoft.com/en-us/rest/api/power-bi/",
+                "description": "Power BI REST API provides service endpoints for embedding, administration, and user resources."
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+### YamlMime:OpenAPIType
+uid: media.schemas.account_business_profile
+name: account_business_profile
+isArray: true
+simpleType: string
+enumValues:
+- US
+- China
+apiVersion: 2019-05-16
+service: media

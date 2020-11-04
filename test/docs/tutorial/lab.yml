@@ -1,0 +1,196 @@
+### YamlMime:Tutorial
+title: Tutorial with Hands-on Lab
+labUrl: https://www.thugkitchen.com/
+metadata:
+  title: Tutorial with Hands-on Lab
+  description: In this tutorial, you will create a virtual machine and perform many common management tasks such as adding a disk, automating software installation, and creating a virtual machine snapshot.
+  audience: Developers
+  level: Beginner
+items:
+- durationInMinutes: 1
+  content: |
+    In this tutorial, you will create a virtual machine and perform many common management tasks such as adding a disk, automating software installation, and creating a virtual machine snapshot. This tutorial uses the Azure CLI, which we've provided for you here, in the browser. So, there's no need to download or install any software at this time. However, if you wish to perform these tasks on your own machine and you have not already installed the Azure CLI, installation instruction can be found in the [Azure CLI installation guide](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
+- title: Create A Virtual Machine
+  durationInMinutes: 2
+  content: |
+    First, log in to your Azure subscription with the az login command and follow the on-screen directions.
+
+    ```azurecli
+    az login
+    ```
+    Create a resource group with the [az group create](https://docs.microsoft.com/en-us/cli/azure/group#create) command. 
+
+    An Azure resource group is a logical container into which Azure resources are deployed and managed. A resource group must be created before a virtual machine. In this example, a resource group named `myResourceGroup` is created in the `westeurope` region. 
+
+    ```azurecli
+    az group create --name myResourceGroup --location westeurope
+    ```
+
+    Create a virtual machine with the [az vm create](https://docs.microsoft.com/en-us/cli/azure/vm#create) command. 
+
+    When creating a virtual machine, several options are available such as operating system image, disk sizing, and administrative credentials. In this example a virtual machine is created with a name of `myVM` running Ubuntu 16.04. This example will also create SSH keys if the do not exsist. 
+
+    ```azurecli
+    az vm create --resource-group myResourceGroup --name myVM --image UbuntuLTS --generate-ssh-keys
+    ```
+
+    Once the VM has been created, the Azure CLI outputs the following information. Take note of the public IP address, this address is used when accessing the virtual machine. 
+
+    ```azurecli
+    {
+      "fqdns": "",
+      "id": "/subscriptions/d5b9d4b7-6fc1-0000-0000-000000000000/resourceGroups/myResourceGroup/providers/Microsoft.Compute/virtualMachines/myVM",
+      "location": "westeurope",
+      "macAddress": "00-0D-3A-23-9A-49",
+      "powerState": "VM running",
+      "privateIpAddress": "10.0.0.4",
+      "publicIpAddress": "52.174.34.95",
+      "resourceGroup": "myResourceGroup"
+    }
+    ```
+
+    ## Summary
+
+    In this step, you have created an Azure virtual machine and made an SSH connection with this VM. Continue with subsequent steps of this tutorial to complete standard operation and management task with Azure virtual machines.
+- title: Add A Data Disk
+  durationInMinutes: 3
+  content: |
+    By default, Azure virtual machines are created with a single operating system disk. Additional disks can be added for multi-disk storage configuration, application installation, and data. 
+    
+    In this step, a data disk will be created and added to a virtual machine. The operating system of the virtual machine will then be configured to use the disk.
+    
+    ## Create and attach disk
+    
+    Use the [az vm disk attach]( https://docs.microsoft.com/en-us/cli/azure/vm/disk#attach) command to create and attach a new disk. 
+    
+    The following example creates a disk named `myDataDisk` that is 50 gigabytes in size. This disk is also attached to the virtual machine.  
+    
+    ```azurecli
+    az vm disk attach –g myResourceGroup –-vm-name myVM –-disk myDataDisk –-new --size-gb 50
+    ```
+    
+    ## Configure disk
+    
+    Once the disk has been attached to the virtual machine, the operating system needs to be configured to use the disk. 
+    
+    Create an SSH connection with the virtual machine to complete the disk configuration. This step requires the public IP address, which was collected in an earlier step of this tutorial.
+    
+    ```azurecli
+    ssh <Public IP Address>
+    ```
+    
+    Run `lsblk` to list all block devices. The new disk has a size of 50G and will be identifiable by the size column. Take note of the disk name. 
+    
+    ```bash
+    lsblk
+    ```
+    
+    Output:
+    
+    ```bash
+    NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+    sda      8:0    0  29.3G  0 disk
+    └─sda1   8:1    0  29.3G  0 part /
+    sdb      8:16   0     7G  0 disk
+    └─sdb1   8:17   0     7G  0 part /mnt
+    sdc      8:32   0    50G  0 disk
+    sr0     11:0    1   1.1M  0 rom
+    ```
+    
+    Now partition the disk with `fdisk`. This example assums that the disk name is `sdc`.
+    
+    ```bash
+    (echo n; echo p; echo 1; echo ; echo ; echo w) | sudo fdisk /dev/sdc
+    ```
+    
+    Write a file system to the partition by using the `mkfs` command
+    
+    ```bash
+    sudo mkfs -t ext4 /dev/sdc1
+    ```
+    
+    Mount the new disk so that it is accesable in the operatign system.
+    
+    ```bash
+    sudo mkdir /datadrive && sudo mount /dev/sdc1 /datadrive
+    ```
+    
+    The disk can now be accesses through the `datadrive` mountpoint. This can be verified by running the `lsblk` command. 
+    
+    ```bash
+    lsblk
+    ```
+    
+    Output:
+    
+    ```bash
+    NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+    fd0      2:0    1    4K  0 disk
+    sda      8:0    0   30G  0 disk
+    └─sda1   8:1    0   30G  0 part /
+    sdb      8:16   0    7G  0 disk
+    └─sdb1   8:17   0    7G  0 part /mnt
+    sdc      8:32   0   50G  0 disk
+    └─sdc1   8:33   0   50G  0 part /datadrive
+    sr0     11:0    1  1.1M  0 rom
+    ```
+    
+    Now that the disk has been configured, close the SSH session.
+    
+    ```bash
+    exit
+    ```
+    
+    ## Summary
+    
+    In this ste[, you have added and configured a new data disk on an Azure virtual machine. Proceed to the next step in this series to where you will automate the installation of an NGINX webserver.
+- title: Install Software
+  durationInMinutes: 4
+  content: |
+    Azure virtual machine extension are used to automate virtual machine configuration tasks such as installing monitoring agents, anti-virus agents, and configuring the operating system. The [custom script extension for Linux](./virtual-machines-linux-extensions-customscript.md) is used to run any bash script on the virtual machine. The script can be stored in Azure storage, any accessible HTTP endpoint, or embedded in the custom script extension configuration. When using the custom script extension, the Azure VM agent manages the script execution, an SSH connection is not required.
+    
+    In this step, the custom script extension will be used to automate the installation of an NGINX webserver.
+    
+    # Install Software
+    
+    Use the [az vm extension set]( https://docs.microsoft.com/en-us/cli/azure/vm/extension#set) command to install the custom script extensionz. 
+    
+    In this case, a very simple script is embedded in the extension configuration. The extension will run `apt-get install nginx` to install the NGINX software.
+    
+    ```azurecli
+    az vm extension set \
+      --publisher Microsoft.Azure.Extensions \
+      --version 2.0 \
+      --name CustomScript \
+      --vm-name myVM \
+      --resource-group myResourceGroup \
+      --settings '{"commandToExecute":"apt-get -y update && apt-get -y install nginx"}'
+     ```
+    
+    Open an internet browser and enter the public IP address of the virtual machine into the address bar. Even though NGINX has been installed, the default site is not accessible. This will be addressed in the next section of this tutorial. 
+    
+     ## Summary
+    
+    In this step, you have automated the installation of an NGINX web server. While the software has been installed, the web server endpoint is not accessible due to inbound traffic being blocked by an Azure Network Security Group. Proceed to the next step of this tutorial series to configure the NSG so that the NGINX instance is accessible from the internet. 
+- title: Configure a Firewall
+  durationInMinutes: 2
+  content: |
+    An Azure [network security group](../virtual-network/virtual-networks-nsg.md) (NSG) controls inbound and outbound traffic for one or many virtual machines. Network security group rules allow or deny network traffic on a specific port or port range. These rules can also include a source address prefix so that only traffic originating at a predefined source can communicate with a virtual machine.
+    
+    In the previous section of this tutorial the NGINX webserver software was installed. Without creating a network security group rule to allow inbound traffic on port 80, the webserver cannot be accessed from the internet. This step will walk you through creating the NSG rule to allow inbound connections on port 80.
+    
+    ## Create NSG rule
+    
+    To create an inbound NSG rule, use the [az vm open-port](https://docs.microsoft.com/en-us/cli/azure/vm#open-port) command. The following example opens port `80` for the virtual machine.
+    
+    ```azurecli
+    az vm open-port --port 80 --resource-group myResourceGroup --name myVM 
+    ```
+    
+    Now browse to the public IP address of the virtual machine. With the NSG rule in place, the default NGINX website will be displayed.
+    
+    ![NGINX default site](./media/virtual-machine-linux-tutorial/nginx.png)  
+    
+    ## Summary
+    
+    In this step, an Azure network security group has been configured to allow HTTP traffic from the internet to the virtual machine. In the next step a snapshot will be taken of the virtual machine.

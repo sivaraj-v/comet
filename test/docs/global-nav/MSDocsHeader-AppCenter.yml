@@ -1,0 +1,34 @@
+### YamlMime:ContentNav
+
+category:
+  href: /appcenter
+  title: Visual Studio App Center
+items:
+  - href: /appcenter/build/
+    title: Build
+  - href: /appcenter/test-cloud/
+    title: Test
+  - href: /appcenter/analytics/
+    title: Analytics
+  - title: SDK
+    items:
+      - href: /appcenter/sdk/getting-started/android/
+        title: Android
+      - href: /appcenter/sdk/getting-started/ios/
+        title: iOS
+      - href: /appcenter/sdk/getting-started/macos/
+        title: macOS
+      - href: /appcenter/sdk/getting-started/uwp/
+        title: UWP
+      - href: /appcenter/sdk/getting-started/cordova/
+        title: Cordova
+      - href: /appcenter/sdk/getting-started/react-native/
+        title: React Native
+      - href: /appcenter/sdk/getting-started/xamarin/
+        title: Xamarin
+  - href: /appcenter/general/pricing/
+    title: Pricing
+callToAction:
+  primary:
+    href: https://appcenter.ms/login?utm_source=Nav_sign_up_button&utm_medium=referral&utm_campaign=appcenter_Nav_Sign_Up_Button
+    title: Free Account

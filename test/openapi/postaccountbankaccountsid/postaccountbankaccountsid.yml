@@ -1,0 +1,411 @@
+### YamlMime:OpenAPIOperation
+uid: media.postaccountbankaccountsid.postaccountbankaccountsid
+name: Post account bank accounts id
+description: >-
+  <p>Updates the metadata, account holder name, and account holder type of a bank account belonging to a <a href="/docs/connect/custom-accounts">Custom account</a>, and optionally sets it as the default for its currency. Other bank account details are not editable by design.</p>
+
+  <p>You can re-enable a disabled bank account by performing an update call without providing any arguments or changes.</p>
+groupName: PostAccountBankAccountsId
+isDeprecated: true
+callbacks:
+- name: callback1
+  operations: 
+  - media.getaccount.getaccount
+  - media.getaccountbankaccountsid.getaccountbankaccountsid
+- name: callback2
+  operations:
+  - media.getaccountcapabilities.getaccountcapabilities
+httpVerb: POST
+parameters:
+- name: id
+  in: path
+  isRequired: true
+  description: The ID of the external account to update
+  link: 
+    operationId: media.getaccountcapabilitiescapability.getaccountcapabilitiescapability
+    linkedProperty: id
+  examples:
+  - description: The ID of the external account to update 1
+    name: example1
+    value: "id: 123"
+  - description: The ID of the external account to update 2
+    name: example2
+    value: "id: 234"
+  types:
+  - simpleType: string
+- name: Simple
+  in: query
+  description: AccountBusinessProfile
+  link: 
+    operationId: media.getaccountcapabilitiescapability.getaccountcapabilitiescapability
+  types:
+  - referencedType: media.schemas.account_business_profile
+  examples:
+  - description: The ID of the external account to update 1
+    name: example1
+    value: >-
+      foo:
+      summary: A foo example
+      value: {"foo": "bar"}
+      bar:
+      summary: A bar example
+      value: {"bar": "baz"}
+  - description: The ID of the external account to update 2
+    name: example2
+    value: >-
+      foo2:
+      summary: A foo example
+      value: {"foo": "bar"}
+      bar2:
+      summary: A bar example
+      value: {"bar": "baz"}
+- name: AllFields
+  in: header
+  description: The business type. Can be `individual` or `company`.
+  allowReserved: true
+  format: password
+  isNullable: true
+  isRequired: true
+  types:
+  - simpleType: string
+- name: Pattern
+  in: cookie
+  description: The business type. Can be `individual` or `company`.
+  pattern: "*.*"
+  types:
+  - simpleType: string
+- name: Allof
+  in: cookie
+  description: AccountCapabilities
+  isAllOf: true
+  types:
+  - referencedType: media.schemas.account_capabilities
+  - referencedType: media.schemas.legal_entity_company
+- name: Not
+  in: cookie
+  description: AccountCapabilities
+  isNot: true
+  types:
+  - referencedType: media.schemas.account_capabilities
+- name: Enum
+  in: cookie
+  description: The account's country.
+  types:
+  - simpleType: string
+    enumValues:
+    - China
+    - US
+- name: Mapping
+  in: cookie
+  description: Time at which the object was created. Measured in seconds since the Unix epoch.
+  types:
+  - referencedType: media.schemas.account_capabilities
+    isDictionary: true
+- name: Array
+  in: cookie
+  description: Three-letter ISO currency code representing the default currency for the account. This must be a currency that [Stripe supports in the account's country](https://stripe.com/docs/payouts).
+  types:
+  - isArray: true
+    referencedType: media.schemas.account_capabilities
+- name: ArrayEnum
+  in: cookie
+  description: Three-letter ISO currency code representing the default currency for the account. This must be a currency that [Stripe supports in the account's country](https://stripe.com/docs/payouts).
+  types:
+  - isArray: true
+    simpleType: string
+    enumValues:
+    - China
+    - US
+paths:
+- content: /v1/account/bank_accounts/{id}?Simple={Simple}
+  isOptional: true
+- content: /v1/account/bank_accounts/{id}
+requestBody:
+  link: 
+    operationId: media.getaccountcapabilitiescapability.getaccountcapabilitiescapability
+    linkedProperty: id
+  bodies:
+  - mediaType: application/x-www-form-urlencoded
+    type:
+      typeProperties:
+      - name: Simple
+        description: AccountBusinessProfile
+        types:
+        - referencedType: media.schemas.account_business_profile
+      - name: AllFields
+        description: The business type. Can be `individual` or `company`.
+        allowReserved: true
+        format: password
+        isNullable: true
+        isRequired: true
+        types:
+        - simpleType: string
+      - name: Pattern
+        description: The business type. Can be `individual` or `company`.
+        pattern: "*.*"
+        types:
+        - simpleType: string
+      - name: Allof
+        description: AccountCapabilities
+        isAllOf: true
+        types:
+        - referencedType: media.schemas.account_capabilities
+        - referencedType: media.schemas.legal_entity_company
+      - name: Not
+        description: AccountCapabilities
+        isNot: true
+        types:
+        - referencedType: media.schemas.account_capabilities
+      - name: Enum
+        description: The account's country.
+        types:
+        - simpleType: string
+          enumValues:
+          - China
+          - US
+      - name: Mapping
+        description: Time at which the object was created. Measured in seconds since the Unix epoch.
+        types:
+        - referencedType: media.schemas.account_capabilities
+          isDictionary: true
+      - name: Array
+        description: Three-letter ISO currency code representing the default currency for the account. This must be a currency that [Stripe supports in the account's country](https://stripe.com/docs/payouts).
+        types:
+        - isArray: true
+          referencedType: media.schemas.account_capabilities
+      - name: ArrayEnum
+        description: Three-letter ISO currency code representing the default currency for the account. This must be a currency that [Stripe supports in the account's country](https://stripe.com/docs/payouts).
+        types:
+        - isArray: true
+          simpleType: string
+          enumValues:
+          - China
+          - US
+    examples:
+    - description: The ID of the external account to update 1
+      name: urlencodedBodyexample1
+      value: >-
+        foo:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar:
+        summary: A bar example
+        value: {"bar": "baz"}
+    - description: The ID of the external account to update 2
+      name: urlencodedBodyexample2
+      value: >-
+        foo2:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar2:
+        summary: A bar example
+        value: {"bar": "baz"}
+  - mediaType: application/json
+    type:
+      referencedType: media.schemas.account
+    examples:
+    - description: The ID of the external account to update 1
+      name: JsonBodyexample1
+      value: >-
+        foo:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar:
+        summary: A bar example
+        value: {"bar": "baz"}
+    - description: The ID of the external account to update 2
+      name: JsonBodyexample2
+      value:  >-
+        foo2:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar2:
+        summary: A bar example
+        value: {"bar": "baz"}
+  description: Body parameters for the request.
+  isRequired: true
+responses:
+- bodies:
+  - mediaType: application/x-www-form-urlencoded
+    type:
+      typeProperties:
+      - name: Simple
+        description: AccountBusinessProfile
+        types:
+        - referencedType: media.schemas.account_business_profile
+      - name: AllFields
+        description: The business type. Can be `individual` or `company`.
+        allowReserved: true
+        format: password
+        isNullable: true
+        isRequired: true
+        types:
+        - simpleType: string
+      - name: Pattern
+        description: The business type. Can be `individual` or `company`.
+        pattern: "*.*"
+        types:
+        - simpleType: string
+      - name: Allof
+        description: AccountCapabilities
+        isAllOf: true
+        types:
+        - referencedType: media.schemas.account_capabilities
+        - referencedType: media.schemas.legal_entity_company
+      - name: Not
+        description: AccountCapabilities
+        isNot: true
+        types:
+        - referencedType: media.schemas.account_capabilities
+      - name: Enum
+        description: The account's country.
+        types:
+        - simpleType: string
+          enumValues:
+          - China
+          - US
+      - name: Mapping
+        description: Time at which the object was created. Measured in seconds since the Unix epoch.
+        types:
+        - referencedType: media.schemas.account_capabilities
+          isDictionary: true
+      - name: Array
+        description: Three-letter ISO currency code representing the default currency for the account. This must be a currency that [Stripe supports in the account's country](https://stripe.com/docs/payouts).
+        types:
+        - isArray: true
+          referencedType: media.schemas.account_capabilities
+      - name: ArrayEnum
+        description: Three-letter ISO currency code representing the default currency for the account. This must be a currency that [Stripe supports in the account's country](https://stripe.com/docs/payouts).
+        types:
+        - isArray: true
+          simpleType: string
+          enumValues:
+          - China
+          - US
+    examples:
+    - description: The ID of the external account to update 1
+      name: urlencodedResponseexample1
+      value: >-
+        foo:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar:
+        summary: A bar example
+        value: {"bar": "baz"}
+    - description: The ID of the external account to update 2
+      name: urlencodedResponseexample2
+      value: >-
+        foo2:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar2:
+        summary: A bar example
+        value: {"bar": "baz"}
+  - mediaType: application/json
+    type:
+      referencedType: media.schemas.account
+    examples:
+    - description: The ID of the external account to update 1
+      name: jsonResponseexample1
+      value: >-
+        foo:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar:
+        summary: A bar example
+        value: {"bar": "baz"}
+    - description: The ID of the external account to update 2
+      name: jsonResponseexample2
+      value: >-
+        foo2:
+        summary: A foo example
+        value: {"foo": "bar"}
+        bar2:
+        summary: A bar example
+        value: {"bar": "baz"}
+  description: Successful response.
+  headers:
+  - name: AllFields
+    description: The business type. Can be `individual` or `company`.
+    allowReserved: true
+    format: password
+    isNullable: true
+    types:
+    - simpleType: string
+  - name: Pattern
+    description: The business type. Can be `individual` or `company`.
+    pattern: "*.*"
+    types:
+    - simpleType: string
+  statusCode: "200"
+- description: Error response.
+  statusCode: default
+seeAlso:
+- text: Microsoft Learn
+  href: https://docs.microsoft.com/en-us/learn/
+- text: Microsoft Docs
+  href: https://docs.microsoft.com/
+security:
+- type: oauth2
+  description: This is oauth2
+  flows:
+  - type: implicit
+    authorizationUrl: https://example.com/api/oauth/dialog
+    refreshUrl:  https://example.com/api/oauth/dialog
+    scopes:
+    - name: "write:pets"
+      description: modify pets in your account
+    - name: "read:pets"
+      description: read your pets
+  - type: password
+    tokenUrl: https://example.com/api/oauth/dialog
+    refreshUrl:  https://example.com/api/oauth/dialog
+    scopes:
+    - name: "write:pets"
+      description: modify pets in your account
+    - name: "read:pets"
+      description: read your pets
+- type: http
+  description: This is http
+  scheme: basic
+  bearerFormat: JWT
+- type: apiKey
+  apiKeyName: apiKey
+  description: This is apiKey
+  in: header
+- type: openIdConnect
+  description: This is openIdConnect
+  openIdConnectUrl: https://example.com/api/oauth/dialog
+servers:
+- name: https://{env}.api.stripe.com:{port}
+  description: This is the server
+  variables:
+  - defaultValue: PPE
+    description: Environment of the API
+    name: env
+    values: 
+    - PPE
+    - PROD
+  - defaultValue: "633"
+    description: PORT of the API
+    name: port
+    values: 
+    - "633"
+    - "759"
+- name: https://{env}.staging.api.stripe.com:{port}
+  description: This is the staging server
+  variables:
+  - defaultValue: PPE
+    description: Environment of the API
+    name: env
+    values: 
+    - PPE
+    - PROD
+  - defaultValue: "633"
+    description: PORT of the API
+    name: port
+    values: 
+    - "633"
+    - "759"
+apiVersion: 2019-05-16
+service: media

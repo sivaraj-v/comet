@@ -1,0 +1,12 @@
+### YamlMime:OpenAPIGroup
+uid: media.schemas
+name: Schemas
+groupType: components
+summary: Schemas
+groupItems:
+- media.schemas.account
+- media.schemas.account_business_profile
+- media.schemas.account_capabilities
+- media.schemas.legal_entity_company
+apiVersion: 2019-05-16
+service: media

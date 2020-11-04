@@ -1,0 +1,83 @@
+### YamlMime:RESTOperation
+uid: management.azure.com.advisor.operations.list
+name: List
+service: Advisor
+groupName: Operations
+apiVersion: 2017-04-19
+summary: Lists all the available Advisor REST API operations.
+consumes:
+- application/json
+produces:
+- application/json
+paths:
+- content: GET https://management.azure.com/providers/Microsoft.Advisor/operations?api-version=2017-04-19
+uriParameters:
+- name: api-version
+  in: query
+  isRequired: true
+  description: The version of the API to be used with the client request.
+  types:
+  - uid: string
+responses:
+- name: 200 OK
+  description: OK. Successfully retrieved operation list.
+  types:
+  - uid: OperationEntityListResult
+requestHeader: []
+definitions:
+- name: OperationEntityListResult
+  description: The list of Advisor operations.
+  kind: object
+  properties:
+  - name: nextLink
+    description: The link used to get the next page of operations.
+    types:
+    - uid: string
+  - name: value
+    description: The list of operations.
+    types:
+    - uid: OperationEntity
+      isArray: true
+- name: OperationEntity
+  description: The operation supported by Advisor.
+  kind: object
+  properties:
+  - name: name
+    description: 'Operation name: {provider}/{resource}/{operation}.'
+    types:
+    - uid: string
+  - name: display
+    description: The operation supported by Advisor.
+    types:
+    - uid: OperationDisplayInfo
+- name: OperationDisplayInfo
+  description: The operation supported by Advisor.
+  kind: object
+  properties:
+  - name: description
+    description: The description of the operation.
+    types:
+    - uid: string
+  - name: operation
+    description: The action that users can perform, based on their permission level.
+    types:
+    - uid: string
+  - name: provider
+    description: 'Service provider: Microsoft Advisor.'
+    types:
+    - uid: string
+  - name: resource
+    description: Resource on which the operation is performed.
+    types:
+    - uid: string
+examples: []
+security:
+- name: azure_auth
+  type: oauth2
+  description: Azure Active Directory OAuth2 Flow.
+  flow: implicit
+  authorizationUrl: https://login.microsoftonline.com/common/oauth2/authorize
+  scopes:
+  - name: user_impersonation
+    description: impersonate your user account
+errorCodes: []

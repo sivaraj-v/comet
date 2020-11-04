@@ -1,0 +1,76 @@
+### YamlMime:RESTOperation
+uid: clustername-kafkarest.azurehdinsight.net.hdinsight-kafka-rest-proxy.producemessagetotopic.producemessagetotopic
+name: produce Message To Topic
+service: HDInsight Kafka REST Proxy
+groupName: produce Message To Topic
+apiVersion: v1
+summary: "Produce records  \nProduce records to a topic in Kafka. If producing records to a newly created topic, please wait a few seconds for the topic to show up."
+consumes:
+- application/json
+produces:
+- application/json
+paths:
+- content: POST https://clustername-kafkarest.azurehdinsight.net/v1/producer/topics/{topic}
+uriParameters:
+- name: topic
+  in: path
+  isRequired: true
+  description: Topic to produce the records to
+  types:
+  - uid: string
+responses:
+- name: 200 OK
+  description: successful operation
+  types:
+  - uid: string
+- name: 400 Bad Request
+  description: Bad Request
+- name: 401 Unauthorized
+  description: Unauthorized
+- name: 403 Forbidden
+  description: Forbidden
+- name: 404 Not Found
+  description: Not Found
+- name: Other Status Codes
+  description: Method Not Allowed
+- name: 500 Internal Server Error
+  description: Internal Server Error
+requestBody:
+- name: default
+  parameters:
+  - name: records
+    in: body
+    description: List of producer records
+    types:
+    - uid: ProducerRecord
+      isArray: true
+requestHeader: []
+definitions:
+- name: ProducerRecord
+  description: A producer record
+  kind: object
+  properties:
+  - name: value
+    description: Value for producer record
+    types:
+    - uid: object
+  - name: key
+    description: Key for producer record
+    types:
+    - uid: object
+  - name: partition
+    description: Partition ID for producer record
+    types:
+    - uid: integer
+- name: ProducerRecords
+  description: List of producer records to produce in one request
+  kind: object
+  properties:
+  - name: records
+    description: List of producer records
+    types:
+    - uid: ProducerRecord
+      isArray: true
+examples: []
+security: []
+errorCodes: []

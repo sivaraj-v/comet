@@ -1,0 +1,20 @@
+### YamlMime:ContentNav
+
+category:
+  href: /windows/iot-core/
+  title: Windows for IoT
+items:
+  - href: /windows/iot-core/getstarted
+    title: Get started
+  - href: /windows/iot-core/downloads
+    title: Downloads
+  - href: /windows/iot-core
+    title: Samples
+  - href: /windows/iot-core/release-notes/currentcommercial
+    title: Updates
+  - href: /windows/iot-core/resources
+    title: Resources
+callToAction:
+  primary:
+    href: https://partner.microsoft.com/dashboard
+    title: Dashboard

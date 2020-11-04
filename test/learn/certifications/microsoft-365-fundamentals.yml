@@ -1,0 +1,52 @@
+### YamlMime:Certification
+title: Microsoft 365 Certified Fundamentals
+metadata:
+  title: Microsoft 365 Certified Fundamentals
+  description: 'Prove that you understand the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.'
+uid: certification.microsoft-365-fundamentals-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Prove that you understand the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.
+subTitle: Prove that you understand the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.
+levels:
+- beginner
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Understand cloud concepts
+- Understand core Microsoft 365 services and concepts
+- Understand security, compliance, privacy, and trust in Microsoft 365
+- Understand Microsoft 365 pricing and support
+roles:
+- business-user
+- administrator
+type: fundamentals
+products:
+- m365
+- windows
+- office-365
+courses:
+- uid: course.ms-900t01-test
+paths:
+- uid: learn-m365.microsoft-365-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
+exams:
+- uid: exam.ms-900-test
+resources:
+- title: Certification learning path
+  description: 'Discover training resources to become a Microsoft Certified: Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

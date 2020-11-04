@@ -1,0 +1,328 @@
+### YamlMime:Assessment
+id: test
+locale: en-us
+title: Test
+description: Test Assessment used for development
+version: '0'
+categories:
+- isRequired: true
+  id: intro
+  title: Introduction
+  description: Introduction category.
+  questions:
+  - type: singleSelect
+    id: '1'
+    title: How would you describe your cloud journey?
+    choices:
+    - id: A
+      text: Just getting started
+    - id: B
+      text: Deployed VMs/PaaS services, but not workload
+    - id: C
+      text: Successfully deployed a workload
+    - id: D
+      text: Deployed multiple workloads successfully
+  - type: multiSelect
+    id: '2'
+    title: Is there anything specific you are looking for today? Check all that applies.
+    choices:
+    - id: A
+      text: Estimate cost of operating in the cloud
+    - id: B
+      text: Architecting current environment in the cloud
+    - id: C
+      text: Getting Infrastructure ready to deploy workload to the cloud
+    - id: D
+      text: Deploy workload to the cloud
+    - id: E
+      text: Manage operations
+    - id: F
+      text: Improve performance
+    - id: G
+      text: Discovering new ways to improve and be efficient
+- id: org_readiness
+  title: Organization Readiness
+  description: Organization Readiness category.
+  questions:
+  - type: matrix
+    id: '1'
+    title: Rate the importance of each of the following statements.
+    choices:
+    - id: A
+      text: Don't know
+    - id: B
+      text: Not Important
+    - id: C
+      text: Somewhat important
+    - id: D
+      text: Very Important
+    - id: E
+      text: Critical
+    rows:
+    - id: '1'
+      text: Having executive leadership actively support large change initiatives and help remove barriers.
+    - id: '2'
+      text: Establishing a cross-functional organization structure that supports collaborative strategic roadmap development.
+  - type: matrix
+    id: '2'
+    title: Evaluate your organization against each of the following statements.
+    choices:
+    - id: A
+      text: Does not exist
+    - id: B
+      text: Exists, but not formalized
+    - id: C
+      text: Formalized, but requires development
+    - id: D
+      text: Formalized and performing
+    rows:
+    - id: '1'
+      text: We have an established structure with representation from Business, Finance, and IT to advocate, support and influence across the company.
+    - id: '2'
+      text: We have a dedicated Cloud Strategy team that consists of influencers from Finance, impacted Line of Business units, and Technical Architects.
+    - id: '3'
+      text: We have a dedicated Cloud Governance team that consists of subject matter experts from Security, IT Ops and Business Decision Makers to assess business risks and tolerance levels.
+    - id: '4'
+      text: We have a dedicated Cloud Migration team that consists of subject matter experts that have strong awareness of current technical estate.
+    - id: '5'
+      text: We have top down support and push to adopt the cloud.
+    - id: '6'
+      text: We have adequate training for our developers to ensure they are building safe apps (e.g., cross site scripting, cross origin resource sharing, script injection, using HTTPS).
+- id: cost_management
+  title: Cost Management
+  description: Cost Management category.
+  questions:
+  - type: matrix
+    id: '1'
+    title: Rate the importance of each of the following statements.
+    choices:
+    - id: A
+      text: Don't know
+    - id: B
+      text: Not Important
+    - id: C
+      text: Somewhat important
+    - id: D
+      text: Very Important
+    - id: E
+      text: Critical
+    rows:
+    - id: '1'
+      text: Creating comprehensive plans to (a) identify business outcomes enabled by the cloud and (b) identify expected usage/cost patterns from resources supporting those business outcomes.
+    - id: '2'
+      text: Organizing resources to maximize insights into cost attribution (and business impact) to have accountability for efficient spending.
+    - id: '3'
+      text: Leveraging tagging feature to categorize resources for managing and billing to reduce unnecessary costs in subscriptions.
+  - type: singleSelectImage
+    id: '2'
+    title: Select the mix that most closely aligns with your current IT budget allocation
+    choices:
+    - id: A
+      text: 80% On-Prem, 15% Modern
+      imageUrl: https://cafbaseline.com/images/chart1.PNG
+    - id: B
+      text: 60% On-Prem, 30% Modern, 10% Experimentation,
+      imageUrl: https://cafbaseline.com/images/chart2.PNG
+    - id: C
+      text: 25% On-Prem, 35% Modern, 40% Experimentation
+      imageUrl: https://cafbaseline.com/images/chart3.PNG
+guidance:
+  title: Understanding your cloud adoption journey
+  description: Successfully cloud adoption requires a clear understanding of your current state and what business objectives you want to achieve. This report will help you identify your cloud adoption needs based on the questions your assessment survey answers.
+  nextSteps:
+    title: Recommended next steps
+    steps:
+    - title: Complete Governance Assessment
+      description: Governance Assessment will help you understand where your company at regarding Governance
+      links:
+      - text: Take assessment
+        url: /en-us/assessments/
+    - title: Take CAF biz value module
+      description: CAF biz assessment will help you understand where your company at regarding CAF
+      links:
+      - text: Start module
+        url: /en-us/assessments/?branch=master
+    - title: Leverage Cloud Plan template
+      description: Cloud plan template will help you understand where your company at regarding cloud
+      links:
+      - text: Download template
+        url: https://docs.microsoft.com/en-us/azure/azure-resource-manager/
+  recommendation:
+    title: Your cloud adoption journey
+    categories:
+    - id: define-strategy
+      title: Define Strategy
+      description: Defining business justification and expected outcomes will set you up for success.
+      links:
+      - text: Drivers for moving to the Cloud
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/motivations/
+        anyOf:
+        - intro.1.A
+        - intro.1.B
+      - text: Speed up for moving to the Cloud
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/first-adoption-project/
+        anyOf:
+        - intro.1.C
+        - intro.1.D
+    - id: plan
+      title: Plan
+      description: Align actionable technology projects to business outcomes.
+      links:
+      - text: Azure Devops Plan Generator
+        url: https://aka.ms/adopt/plan/generator/
+        anyOf:
+        - intro.1.A
+        - intro.1.B
+      - text: Lightweight Initial Organization Alignment
+        url: https://aka.ms/InitialOrgAlignment/
+        anyOf:
+        - intro.1.A
+        - intro.1.B
+        - org_readiness.1.1.A
+        - org_readiness.1.2.A
+      - text: Template for planning cloud adoption
+        url: https://aka.ms/adopt/plan/template/
+        anyOf:
+        - intro.1.A
+        - intro.1.B
+        - org_readiness.2.1.B
+        - org_readiness.2.2.B
+      - text: Azure Pricing Calculator
+        url: https://azure.microsoft.com/en-us/pricing/calculator/
+        anyOf:
+        - intro.2.A
+        - org_readiness.1.1.A
+        - org_readiness.1.2.A
+        - org_readiness.2.1.B
+        - org_readiness.2.2.B
+      - text: Migrate - Manage Costs
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/manage-costs?tabs=EstimateVMCosts
+        anyOf:
+        - intro.2.A
+        - intro.2.B
+      - text: Plan - Financial Model
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/financial-models
+        anyOf:
+        - intro.2.C
+        - intro.2.D
+        - org_readiness.2.1.C
+        - org_readiness.2.2.C
+        - org_readiness.2.1.D
+        - org_readiness.2.2.D
+    - id: ready
+      title: Ready
+      description: Prepare in different ways to make your business ready.
+      noneOf:
+        - intro.1.D
+      links:
+      - text: Learning Module link
+        url: https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/1-introduction/
+        anyOf:
+        - intro.1.A
+        - intro.1.B
+        - org_readiness.2.1.A
+        - org_readiness.2.2.A
+        - org_readiness.2.1.B
+        - org_readiness.2.2.B
+      - text: Quickstart Center
+        url: https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/ready/azure-readiness-guide/
+        anyOf:
+        - intro.2.C
+        - intro.2.D
+      - text: Ready - Readiness Guide
+        url: https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/ready/azure-readiness-guide/
+        allOf:
+        - intro.1.C
+        - intro.2.C
+      - text: Operate
+        url: https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/operations/operational-fitness-review
+        noneOf:
+        - intro.1.A
+        - intro.1.B
+        - intro.2.E
+        - org_readiness.2.1.A
+        - org_readiness.2.2.A
+        - org_readiness.2.1.B
+        - org_readiness.2.2.B
+    - id: adopt
+      title: Adopt
+      description: Prepare the people, culture and environment for change.
+      links:
+      - text: Migrate Decision Guide
+        url: https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/decision-guides/migrate-decision-guide/index/
+        anyOf:
+        - intro.1.C
+        - intro.1.D
+      - text: 5Rs of Rationalization
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/5-rs-of-rationalization/
+        anyOf:
+        - intro.1.B
+        - intro.2.B
+        - org_readiness.2.1.A
+        - org_readiness.2.2.A
+      - text: Innovation Template
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/index/
+        anyOf:
+        - intro.1.C
+        - intro.2.C
+        - org_readiness.2.1.B
+        - org_readiness.2.1.B
+      - text: AMP survey
+        url: https://azure.microsoft.com/en-us/migration/migration-program/
+        anyOf:
+        - intro.1.A
+        - intro.1.B
+      - text: Migration Tooling
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-migration-guide/?tabs=Overview/
+        anyOf:
+        - intro.2.D
+        - org_readiness.2.1.D
+        - org_readiness.2.2.D
+      - text: Best Practices Under Migrate
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/index/
+        anyOf:
+        - intro.2.C
+        - intro.2.G
+        - org_readiness.2.1.A
+        - org_readiness.2.2.A
+        - org_readiness.2.1.B
+        - org_readiness.2.2.B
+    - id: operate
+      title: Operate
+      description: Govern and manage resources, people, business processes.
+      links:
+      - text: Process for Long Term Org Alignment
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/index/
+        anyOf:
+        - intro.1.A
+        - intro.1.B
+        - org_readiness.2.1.A
+        - org_readiness.2.2.A
+      - text: Drivers for moving to the cloud
+        url: https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/business-strategy/motivations-why-are-we-moving-to-the-cloud
+        anyOf:
+        - intro.1.C
+        - intro.1.D
+      - text: Starting an internal Cloud Strategy Team
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures/
+        anyOf:
+        - intro.1.B
+        - intro.2.B
+        - cost_management.1.1.A
+        - cost_management.1.2.A
+        - cost_management.1.1.B
+        - cost_management.1.2.B
+        - cost_management.2.A
+        - cost_management.2.B
+      - text: Build your own resource management
+        url: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cost-conscious-organization/
+        anyOf:
+        - intro.1.C
+        - intro.2.C
+        - cost_management.1.1.C
+        - cost_management.1.2.C
+        - cost_management.1.1.D
+        - cost_management.1.2.D
+        - cost_management.2.C
+        - cost_management.2.D
+

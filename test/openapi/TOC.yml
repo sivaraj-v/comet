@@ -1,0 +1,21 @@
+- name: Index
+  href: index.md
+- name: PostAccountBankAccountsId
+  items:
+  - name: postaccountbankaccountsid
+    uid: media.postaccountbankaccountsid
+  - name: post account bank accounts id
+    uid: media.postaccountbankaccountsid.postaccountbankaccountsid
+- name: Components
+  items:
+  - name: Schemas
+    items:
+    - name: Schemas
+      uid: media.schemas
+    - name: Account
+      uid: media.schemas.account
+    - name: account business profile
+      uid: media.schemas.account_business_profile
+    - name: legal entity company
+      uid: media.schemas.legal_entity_company
+

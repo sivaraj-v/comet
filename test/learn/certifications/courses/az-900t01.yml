@@ -1,0 +1,87 @@
+### YamlMime:Course
+title: Microsoft Azure Fundamentals
+metadata:
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  iltScheduling: true
+uid: course.az-900t01-test
+courseNumber: 'AZ-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand general cloud computing concepts
+- skill: Understand core services available with Microsoft Azure
+- skill: Understand security, privacy, compliance, and trust with Microsoft Azure
+- skill: Understand pricing and support models available with Microsoft
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-900-test
+summary: |-
+  This course will provide foundational-level knowledge of cloud services and how those services are provided with Microsoft Azure. The course can be taken as an optional first step in learning about cloud services and Microsoft Azure, before taking further Microsoft Azure or Microsoft cloud services courses.
+
+  The course will cover general cloud computing concepts, as well as general cloud computing models and services, such as Public, Private and Hybrid cloud, and Infrastructure-as-a-Service (IaaS), Platform-as-a-Service(PaaS), and Software-as-a-Service (SaaS).
+
+  It will also cover some core Azure services and solutions, as well as key Azure pillar services concerning security, privacy, compliance, and trust. It will finally cover pricing and support services available with Azure.
+
+  #### Audience profile
+  There are no prerequisites for taking this course. It is targeted toward anyone who wants to learn more about Microsoft Azure.
+prerequisitesSection: |-
+  There are no prerequisites for taking this course. Technical IT experience is not required, however, some general IT knowledge or experience would be beneficial.
+
+outlineSection: |-
+  ### Module  1&#58; Cloud Concepts
+  In this module you will learn basic cloud concepts.
+  #### Lessons
+  - Learning Objectives
+  - Why Cloud Services?
+  - Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS)
+  - Public, Private, and Hybrid cloud models
+
+  After completing this module, students will be able&#58;
+  - Understand general cloud computing concepts
+
+
+  ### Module  2&#58; Core Azure Services
+  In this module you will learn the basics core services available with Microsoft Azure.
+  #### Lessons
+  - Core Azure architectural components
+  - Core Azure Services and Products
+  - Azure Solutions
+  - Azure management tools
+
+  After completing this module, students will be able&#58;
+  - Understand core services available with
+  Microsoft Azure
+
+  ### Module  3&#58; Security, Privacy, Compliance and Trust
+  In this module,  you learn about security, privacy, compliance, and trust with Microsoft Azure.
+  #### Lessons
+  - Securing network connectivity in Azure
+  - Core Azure Identity services
+  - Security tools and features
+  - Azure governance methodologies
+  - Monitoring and Reporting in Azure
+  - Privacy, Compliance, and Data Protection standards in Azure
+
+  After completing this module, students will be able&#58;
+  - Understand
+  security, privacy, compliance, and trust with Microsoft Azure
+
+  ### Module  4&#58; Azure Pricing and Support
+  In this module, you will focus on pricing and support models available with Microsoft.
+  #### Lessons
+  - Azure subscriptions
+  - Planning and managing costs
+  -  Support options available with Azure
+  - Service lifecycle in Azure
+
+  After completing this module, students will be able&#58;
+  - Understand pricing and support models available with Microsoft

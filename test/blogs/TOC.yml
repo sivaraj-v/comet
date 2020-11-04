@@ -1,0 +1,8 @@
+- name: Index
+  href: index.md
+- name: Blog 1
+  href: ./how-many-trips-to-the-electronics-store-does-it-take-to-make-a-jack-o-lantern.md
+- name: Blog 2
+  href: ./how-to-get-a-static-ip-address-for-your-microsoft-azure-web-site.md
+- name: Blog 3
+  href: ./exchange-server-quarterly-servicing-updates-changes-zero-day-vulnerability-fixes-released.md

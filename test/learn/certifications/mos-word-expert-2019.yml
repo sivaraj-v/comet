@@ -1,0 +1,40 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
+  description: 'Demonstrate that you have the advanced skills needed to get the most out of Office by earning a Microsoft Office Specialist: Expert certification in a specific Office program.'
+uid: certification.mos-word-expert-2019-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Demonstrate that you have the advanced skills needed to get the most out of Office by earning a Microsoft Office Specialist&#58; Expert certification in a specific Office program.
+subTitle: 'Demonstrate that you have the advanced skills needed to get the most out of Office by earning a Microsoft Office Specialist: Expert certification in a specific Office program.'
+levels:
+- advanced
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Manage document options and settings
+- Use advanced editing and formatting features
+- Create custom document elements
+- Use advanced Word features
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WHJ2
+exams:
+- uid: exam.mb-700-test
+resources:
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

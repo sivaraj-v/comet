@@ -1,0 +1,15 @@
+- name: Index
+  href: index.md
+- name: Cloud Advocates
+  href: list.yml
+  items:
+  - name: Map
+    href: map.yml
+  - name: Twitter
+    href: tweets.yml
+  - name: Aaron Schlesinger
+    uid: advocates.aaron-schlesinger
+  - name: Aaron Wislang
+    uid: advocates.aaron-wislang
+  - name: Aaron Wislang (new schema)
+    uid: advocates.aaron-wislang-new

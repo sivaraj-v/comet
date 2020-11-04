@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-dynamic-test.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops 
+hidden: true
+metadata: 
+ title: Configure and perform the procure-to-purchase process in Dynamics 365 Supply Chain Management
+ description: Procure-to-purchase is the first step of the procure-to-pay process. Procure-to-purchase involves the procurement agent finding a vendor and requesting a material or service to be purchased. 
+ ms.date: 03/30/2019  
+ author: cstorega  
+ ms.author: cstorega  
+ ms.topic: interactive-tutorial  
+ ms.prod: learning-d365-finance-operations  
+title: Configure and perform the procure-to-purchase process in Dynamics 365 Supply Chain Management
+summary: |
+  [!include[](includes/module-banner.md)]
+
+  Procure-to-purchase is the first step of the procure-to-pay process. Procure-to-purchase involves the procurement agent finding a vendor and requesting a material or service to be purchased. 
+abstract: | 
+    In this module, you will learn how to: 
+    - Apply the procurement and sourcing processes in a business scenario.
+    - Use purchasing policies.
+    - Create and maintain vendors.
+    - Create and process purchase requisitions.
+    - Create and process a request for quotation.
+prerequisites: |
+    - General knowledge of supply chain management and procurement processes
+    - General knowledge of inventory procedures
+    - Basic knowledge of warehouse procedures
+    - Ability to use Dynamics 365 Supply Chain Management for basic processing
+iconUrl: /learn/achievements/configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant 
+- business-user   
+products:  
+- dynamics  
+- dynamics-scm
+- dynamics-finance-operations
+units: 
+- learn-dynamic-test.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.11-exercise-create-purchase-policies 
+badge: 
+  uid: learn-dynamics-test.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.badge 

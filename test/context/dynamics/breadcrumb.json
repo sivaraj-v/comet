@@ -1,0 +1,41 @@
+[
+    {
+        "toc_title": "Dynamics API Browser",
+        "href": "/devsandbox/apiBrowser/index",
+        "level": 1,
+        "children": [
+            {
+                "href": "/devsandbox/apiBrowser/dotnet",
+                "homepage": "/devsandbox/apiBrowser/index",
+                "toc_title": "Dynamics .NET",
+                "level": 2
+            },
+            {
+                "href": "/devsandbox/apiBrowser/powershell",
+                "homepage": "/devsandbox/apiBrowser/index",
+                "toc_title": "Dynamics PowerShell",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "href": "/devsandbox/",
+        "homepage": "/devsandbox/index",
+        "toc_title": "Dynamics Dev Sandbox",
+        "level": 1,
+        "children": [
+            {
+                "href": "/devsandbox/hubpages/",
+                "homepage": "/devsandbox/hubpages/index",
+                "toc_title": "Dynamics Hub Pages",
+                "level": 2
+            },
+            {
+                "href": "/devsandbox/landingpages/",
+                "homepage": "/devsandbox/landingpages/index",
+                "toc_title": "Dynamics Landing Pages",
+                "level": 2
+            }
+        ]
+    }
+]

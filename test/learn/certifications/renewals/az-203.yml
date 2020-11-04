@@ -1,0 +1,31 @@
+### YamlMime:CertificationRenewal
+title: 'Renewal for Microsoft Certified: Azure Developer Associate'
+metadata:
+  title: 'Renewal for Microsoft Certified: Azure Developer Associate'
+  description: Microsoft Azure Developers design, build, test, and maintain cloud solutions, such as applications and services, partnering with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement these solutions.
+uid: renewal.az-203-test
+certificationUid: certification.azure-developer-test
+durationInMinutes: 90
+assessmentId: AZ-203
+summary:
+  Candidates for this exam are Azure Developers who design and build cloud solutions such as applications and services. They participate in all phases of development, from solution design, to development and deployment, to testing and maintenance. They partner with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement the solution.  Candidates should be proficient in developing apps and services by using Azure tools and technologies, including storage, security, compute, and communications.  Candidates must have at least one year of experience developing scalable solutions through all phases of software development and be skilled in at least one cloud-supported programming language.
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+examsPassed:
+- az-203
+skills:
+- Develop Azure Infrastructure as a Service compute solution (10-15%)
+- Develop Azure Platform as a Service compute solution (20-25%)
+- Develop for Azure storage (15-20%)
+- Implement Azure security (10-15%)
+- Monitor, troubleshoot, and optimize solutions (10-15%)
+- Connect to and consume Azure and third-party services (20-25%)
+resources:
+- title: Certification Learning Path
+  summary: 'Discover training resources to become a Microsoft Certified: Azure Developer Associate.'
+  url: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Training and certification guide
+  summary: Explore all certifications in a concise training and certifications guide.
+  url: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  summary: Check out an overview of fundamentals, role-based and specialty certifications.
+  url: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI

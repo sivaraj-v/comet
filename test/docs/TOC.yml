@@ -1,0 +1,278 @@
+- name: Index
+  href: index.md
+- name: Architecture
+  items:
+  - name: Home
+    href: ./architecture/index.yml
+  - name: Icons
+    href: ./architecture/icons/index.md
+- name: API Browser
+  items:
+  - name: Dotnet
+    href: ./apibrowser/dotnet.md
+  - name: index
+    href: ./apibrowser/index.md
+  - name: Java
+    href: ./apibrowser/java.md
+  - name: JavaScript
+    href: ./apibrowser/javascript.md
+  - name: PowerShell
+    href: ./apibrowser/powershell.md
+  - name: Python
+    href: ./apibrowser/python.md
+  - name: Rest
+    href: ./apibrowser/rest.md
+  - name: Dotnet with experimental moniker picker
+    href: ./apibrowser/dotnet.experimental-moniker-picker.md
+- name: Assessments
+  href: ./assessments/index.yml
+- name: Azure Selector
+  items:
+  - name: Single Selector
+    href: ./azure-selector/contact-support-for-business-products.md
+  - name: Multi Selector
+    href: ./azure-selector/markdown-reference.md
+- name: Azure CLI
+  items:
+  - name: Manage blob directories
+    href: ./azurecli/directory.yml
+- name: Banners
+  items:
+  - name: Build Banner
+    items:
+    - name: Normal
+      href: ./banners/build-banner/index.md
+    - name: Dotnet
+      href: ./banners/build-banner/dotnet/dotnet-test.md
+  - name: Content Banner
+    href: ./banners/content-banner/index.md?preview=banner
+  - name: Global Banner
+    href: ./banners/global-banner/index.md?preview=banner
+  - name: Learn Banner
+    items:
+    - name: Azure
+      href: ./banners/learn-banner/index.md
+    - name: Virtual Machine
+      href: ./banners/learn-banner/azure-virtual-machines/index.md
+  - name: Previous Versions
+    href: ./banners/previous-versions/index.md
+  - name: VS Banner
+    href: ./banners/vs-banner/index.md
+- name: Browse Page - Sample
+  href: ./browse/sample.yml
+- name: Conceptual Pages
+  items:
+  - name: Alerts
+    href: ./conceptual/alerts.md
+  - name: Buttons
+    href: ./conceptual/button.md
+  - name: Checkboxes
+    href: ./conceptual/checkbox-toggle.md
+  - name: Code Samples
+    href: ./conceptual/code.md
+  - name: Content Adjustments Profiling
+    href: ./conceptual/content-adjustments-profiling.md
+  - name: Azure CLI
+    href: ./conceptual/azure-cli.md
+  - name: Tables
+    href: ./conceptual/tables.md
+  - name: KBD
+    href: ./conceptual/kbd.md
+  - name: Protocol Rendering
+    href: ./conceptual/protocol-rendering.md
+  - name: Azure PowerShell
+    href: ./conceptual/azure-powershell.md
+  - name: Cloud Shell
+    href: ./conceptual/cloud-shell.md
+  - name: Tabbed Conceptual
+    href: ./conceptual/tabbed-conceptual.md
+  - name: 'Tabbed Conceptual (all platforms)'
+    href: ./conceptual/tabbed-conceptual-platforms.md
+  - name: 'Tabbed Conceptual (combined tabs)'
+    href: ./conceptual/tabbed-conceptual-combined.md
+  - name: 'C# Interactive'
+    href: ./conceptual/csharp-interactive.md
+  - name: Twitter Widgets
+    href: ./conceptual/twitter.md
+  - name: Headings
+    href: ./conceptual/headings.md
+  - name: Inline Code
+    href: ./conceptual/inline-code.md
+  - name: Lightbox-enabled content
+    href: ./conceptual/lightbox.md
+  - name: Machine Translated
+    href: ./conceptual/sxs.md
+  - name: Meta Tags Encoding
+    href: ./conceptual/meta-tags.md
+  - name: Meta Tag Encoding more
+    href: ./conceptual/meta-tags-more.md
+  - name: Moniker
+    href: ./conceptual/moniker.md
+  - name: Mooncake Header
+    href: ./conceptual/mooncake-header.md
+  - name: SXS
+    href: ./conceptual/sxs.md
+  - name: Video
+    href: ./conceptual/video.md
+  - name: HTML Sanitize
+    href: ./conceptual/html-sanitize.md
+  - name: Quickstart Experiment
+    href: ./conceptual/quickstart-experiment.md
+- name: Content Pages
+  items:
+  - name: index
+    href: ./content/index.md
+- name: Directory Page
+  href: ./directory/index.yml
+- name: FAQ Pages
+  items:
+  - name: Flat List
+    href: ./faq/flatlist.yml
+  - name: With Sections
+    href: ./faq/sections.yml
+- name: Home Page
+  href: ./home/home.md
+- name: Hub Pages
+  items:
+  - name: Azure (with legacy Azure Header)
+    href: ./hub/azure.yml
+  - name: Azure (with Content Nav Header)
+    href: ./hub/azure-newheader.yml
+  - name: Azure (with edit link enabled)
+    href: ./hub/azure-edit-link.yml
+  - name: Q&A Home
+    href: ./hub/qna-home.yml
+  - name: Normal (Visual Studio)
+    href: ./hub/visual-studio.yml
+- name: Landing Pages
+  items:
+  - name: Azure
+    href: ./landing/azure.yml
+  - name: Normal (PowerBI)
+    href: ./landing/power-bi.yml
+- name: Legacy
+  items:
+  - name: HubPage Pages
+    items:
+    - name: ASPNET
+      href: ./legacy/hubPage/aspnet.md
+    - name: Azure
+      href: ./legacy/hubPage/azure.md
+    - name: Power Apps
+      href: ./legacy/hubPage/powerapps.md
+    - name: System Center
+      href: ./legacy/hubPage/system-center.md
+    - name: VS Localized
+      href: ./legacy/hubPage/vs-localized.md
+  - name: LandingData Pages
+    items:
+    - name: Azure Python
+      href: ./legacy/landingData/azure.yml
+    - name: Graph
+      href: ./legacy/landingData/graph.yml
+    - name: With Inline Styles
+      href: ./legacy/landingData/with-inline-styles.yml
+  - name: LandingPage Pages
+    items:
+    - name: Azure Architecture
+      href: ./legacy/landingPage/azureCat.md
+    - name: UWP
+      href: ./legacy/landingPage/uwp.md
+- name: Lifecycle
+  items:
+  - name: Fixed
+    href: ./lifecycle/index.yml
+  - name: Component
+    href: ./lifecycle/component.yml
+  - name: Modern On-Prem
+    href: ./lifecycle/modern-on-prem.yml
+  - name: Modern Online
+    href: ./lifecycle/modern-online.yml
+- name: Locale Pages
+  href: ./localepage/index.md
+- name: Localization Pages
+  items:
+  - name: es-es.ht
+    href: ./localization/advisor-get-started.es-es.ht.md
+  - name: es-es.mt
+    href: ./localization/advisor-get-started.es-es.mt.md
+- name: Markdown Pages
+  items:
+  - name: Code Extension Page
+    href: ./markdown/code-extension-test.md
+  - name: Code Pages
+    items:
+    - name: OData
+      href: ./markdown/code/index.md
+    - name: SQL
+      href: ./markdown/code/sql.md
+  - name: Code highlighting Pages
+    items:
+    - name: CSharp
+      href: ./markdown/code-highlighting/csharp.md
+    - name: CShtml
+      href: ./markdown/code-highlighting/cshtml.md
+    - name: Kusto
+      href: ./markdown/code-highlighting/kusto.md
+    - name: Line highlighting
+      href: ./markdown/code-highlighting/line-highlighting.md
+    - name: Perf testing with long Page
+      href: ./markdown/code-highlighting/perf-test.md
+    - name: QSharp
+      href: ./markdown/code-highlighting/qsharp.md
+    - name: U-SQL
+      href: ./markdown/code-highlighting/usql.md
+  - name: Code Include Page
+    href: ./markdown/code-include/index.md
+  - name: Footnotes Page
+    href: ./markdown/footnotes/index.md
+  - name: Image Page
+    href: ./markdown/image/index.md
+  - name: List Page
+    href: ./markdown/list/index.md
+- name: Not Found Pages
+  items:
+  - name: notfound
+    href: ./notfound/notfound.md
+- name: PowerConnector Pages
+  items:
+    - name: 10to8
+      href: ./powerconnector/10to8/index.yml
+    - name: BingSearch
+      href: ./powerconnector/bingsearch/index.yml
+    - name: Instagram
+      href: ./powerconnector/instagram/index.yml
+    - name: YouTube
+      href: ./powerconnector/youtube/index.yml
+- name: Sample Pages
+  items:
+  - name: Normal
+    href: ./sample/azure-azureapi.yml
+  - name: Many Contributors
+    href: ./sample/sample-with-many-contributors.yml
+- name: Search Pages
+  items:
+  - name: Search
+    href: ./search/search.md
+  - name: Search with scoring profile
+    href: ./search/search-experimental.md
+- name: Tutorials
+  items:
+  - name: Azure CLI
+    href: ./tutorial/azurecli.yml
+  - name: Tutorial w/Hands-on Lab
+    href: ./tutorial/lab.yml
+  - name: Video
+    href: ./tutorial/video.yml
+- name: Welcome Page
+  href: ./welcome/index.yml
+- name: Zones
+  items:
+  - name: Zones
+    href: ./zones/zones.md
+  - name: Zones in a folder
+    href: ./zones/monday/zones-in-a-folder
+  - name: Zone with group file name
+    href: ./zones/zones2.md
+  - name: Zone for isolated environment
+    href: ./zones/zones-isolated.md

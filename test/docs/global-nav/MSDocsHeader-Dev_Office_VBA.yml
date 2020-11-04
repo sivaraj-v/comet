@@ -1,0 +1,12 @@
+### YamlMime:ContentNav
+
+category:
+  href: /office/vba/api/overview/
+  title: Office VBA Reference
+items:
+  - href: /office/vba/api/overview/language-reference
+    title: Language Reference
+  - href: /office/vba/api/overview/library-reference
+    title: Library Reference
+  - href: /office/vba/articles/feedback-support
+    title: Support

@@ -1,0 +1,33 @@
+- name: Index
+  href: index.md
+- name: Rest Tryit
+  items:
+  - name: Security
+    items:
+    - name: apiKey
+      uid: rest-sandbox.security.apikey
+    - name: basic
+      uid: rest-sandbox.security.basic
+    - name: none
+      uid: rest-sandbox.security.none
+    - name: oauth_accesscode
+      uid: rest-sandbox.security.oauth_accesscode
+    - name: oauth_implicit_and_apikey
+      uid: rest-sandbox.security.oauth_implicit_and_apikey
+    - name: oauth_implicit
+      uid: rest-sandbox.security.oauth_implicit
+- name: Rest
+  items:
+  - name: Operations
+    uid: management.azure.com.advisor.operations
+  - name: List
+    uid: management.azure.com.advisor.operations.list
+  - name: Get Available Stacks
+    uid: management.azure.com.appservice.provider.getavailablestacks
+  - name: List Prebuild Entities
+    uid: cognitiveservices.model.listprebuiltentities
+  - name: Produce Message To Topic
+    uid: clustername-kafkarest.azurehdinsight.net.hdinsight-kafka-rest-proxy.producemessagetotopic.producemessagetotopic
+  - name: Send Device Event
+    uid: fully-qualified-iothubname.azure-devices.net.iothub.device.senddeviceevent
+

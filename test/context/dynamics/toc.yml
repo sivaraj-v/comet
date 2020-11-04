@@ -1,0 +1,46 @@
+metadata:
+  sample_key: sample_value
+  daysTillAutumn: 4
+  isTodaySpringQuinox: false
+items:
+- name: Dynamics Context Sandbox
+  href: index.md
+  displayName: Home
+  pdf_name: abc.pdf
+  pdf_absolute_path: /azure/opbuildpdf/virtual-machines/linux/toc.pdf
+- name: Conceptual Pages
+  href: ./conceptual/index.md
+  expanded: true
+  items:
+  - name: Code Samples
+    href: ./conceptual/code.md
+  - name: Tables
+    href: ./conceptual/tables.md
+  - name: Azure CLI
+    href: ./conceptual/azure-cli.md
+  - name: Azure PowerShell
+    href: ./conceptual/azure-powershell.md
+  - name: Cloud Shell
+    href: ./conceptual/cloud-shell.md
+  - name: Tabbed Conceptual
+    href: ./conceptual/tabbed-conceptual.md
+  - name: 'Tabbed Conceptual (all platforms)'
+    href: ./conceptual/tabbed-conceptual-platforms.md
+  - name: 'C# Interactive'
+    href: ./conceptual/csharp-interactive.md
+  - name: Twitter Widgets
+    href: ./conceptual/twitter.md
+- name: Content Pages
+  href: ./content/index.md
+- name: Hub Pages
+  items:
+  - name: Card Gallery
+    href: ./hubPage/cardGallery.md
+- name: Landing Pages
+  items:
+  - name: Azure Architecture
+    href: ./landingPage/azureCat.md
+  - name: UWP
+    href: ./landingPage/uwp.md
+- name: API Browser
+  href: ./apiBrowser/index.md

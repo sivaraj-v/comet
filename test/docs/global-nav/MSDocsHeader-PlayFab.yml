@@ -1,0 +1,144 @@
+### YamlMime:ContentNav
+
+category:
+  href: /gaming/playfab
+  title: Azure PlayFab
+items:
+  - title: Overview
+    items:
+      - href: /gaming/playfab/what-is-playfab
+        title: What is PlayFab?
+      - title: Features
+        items:
+          - href: /gaming/playfab/features/authentication/authentication/
+            title: Authentication
+          - href: /gaming/playfab/features/multiplayer/mpintro
+            title: Multiplayer
+          - href: /gaming/playfab/features/multiplayer/matchmaking/
+            title: Matchmatching
+          - href: /gaming/playfab/features/multiplayer/servers/
+            title: Server hosting
+          - href: /gaming/playfab/features/multiplayer/networking/concepts-invitations-security-model
+            title: Networking
+          - href: /gaming/playfab/features/multiplayer/networking/concepts-chat
+            title: Voice and text chat
+          - href: /gaming/playfab/features/social/tournaments-leaderboards/
+            title: Tournaments and leaderboards
+          - href: /gaming/playfab/features/social/groups/
+            title: Groups, guilds, and clans
+          - href: /gaming/playfab/features/social/friends/
+            title: Friends
+          - href: /gaming/playfab/features/commerce/economy/
+            title: Game economy and store
+          - href: /gaming/playfab/features/commerce/items/
+            title: Items and inventories
+      - title: Game management services
+        items:
+          - href: /gaming/playfab/features/engagement/news/
+            title: Title news
+          - href: /gaming/playfab/features/engagement/push-notifications/
+            title: Push notifications
+          - href: /gaming/playfab/features/engagement/emails/
+            title: Customized emails
+          - href: /gaming/playfab/features/automation/rewarded-ads/
+            title: Rewarded ads
+          - href: /gaming/playfab/personas/bi
+            title: Data analytics and business intelligence
+          - href: /gaming/playfab/features/analytics/reports/
+            title: Reports
+      - title: Pricing
+        items: 
+          - href: /gaming/playfab/features/pricing/pricing-overview
+            title: Overview
+          - href: https://playfab.com/pricing/
+            title: Latest rates
+          - href: /gaming/playfab/features/pricing/upgrades#account-plans
+            title: Account plans
+      - href: /gaming/playfab/gamemanager/
+        title: Game manager
+      - href: https://status.playfab.com/
+        title: Service health
+      - href: /gaming/playfab/release-notes/
+        title: Release notes
+  - title: Build
+    items:
+      - href: /gaming/playfab/features/authentication/authentication/
+        title: Authentication
+      - href: /gaming/playfab/features/multiplayer/mpintro
+        title: Multiplayer
+      - href: /gaming/playfab/features/multiplayer/networking/
+        title: Party
+      - href: /gaming/playfab/features/social/
+        title: Social
+      - href: /gaming/playfab/features/automation/
+        title: Automation
+      - href: /gaming/playfab/features/insights/
+        title: Insights
+  - title: Engage
+    items:
+      - href: /gaming/playfab/features/commerce/economy/
+        title: Economy
+      - href: /gaming/playfab/features/social/tournaments-leaderboards/
+        title: Tournaments and leaderboards
+      - href: /gaming/playfab/features/engagement/news/
+        title: Title news
+  - title: Analyze
+    items:
+      - title: Data
+        items:
+          - href: /gaming/playfab/features/data/playerdata/
+            title: Player data
+          - href: /gaming/playfab/features/data/titledata/
+            title: Title data
+          - href: /gaming/playfab/features/data/entities/
+            title: Custom data using Entities
+          - href: /gaming/playfab/features/analytics/xbox-data/
+            title: Xbox data add-on
+      - title: Data collection
+        items: 
+          - href: /gaming/playfab/features/analytics/segmentation/
+            title: Segmentation
+          - href: /gaming/playfab/features/analytics/ab-testing/
+            title: A/B testing
+          - href: /gaming/playfab/features/analytics/experiments/
+            title: Experiments
+      - href: /gaming/playfab/gamemanager/reference#title-overview
+        title: Event data visualization management portal
+      - title: Data export, storage, and automation
+        items: 
+          - href: /gaming/playfab/features/data/webhooks/
+            title: Webhooks
+          - href: /gaming/playfab/features/automation/cloudscript/making-webhook-calls-from-cloudscript
+            title: Cloudscript
+  - title: Learn PlayFab
+    items: 
+      - href: /gaming/playfab/what-is-playfab
+        title: Getting started
+      - title: SDK install
+        items: 
+          - href: /gaming/playfab/sdks/
+            title: PlayFab SDKs
+          - href: /gaming/playfab/features/multiplayer/networking/#resources
+            title: Party SDKs
+  - title: Reference
+    items: 
+      - href: /rest/api/playfab/admin/?view=playfab-rest
+        title: Admin and management services REST APIs
+      - href: /gaming/playfab/api-references/events/
+        title: PlayStream Event model reference
+  - title: Resources
+    items: 
+      - href: https://community.playfab.com/index.html
+        title: Forums
+      - href: https://blog.playfab.com/blog
+        title: Blog
+      - href: /gaming/playfab/features/pricing/paidtechnicalsupport
+        title: Technical support
+      - href: https://github.com/PlayFab
+        title: Github repo
+      - href: https://www.buzzsprout.com/489403
+        title: Art of LiveOps podcast
+callToAction:
+  primary:
+    href: https://developer.playfab.com/en-us/sign-up?ocid=gs0056
+    title: Free Account

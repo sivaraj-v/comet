@@ -1,0 +1,60 @@
+### YamlMime:ContentNav
+
+category:
+  href: /office/dev/add-ins/
+  title: Office Add-ins
+items:
+  - title: Guides
+    items:
+      - href: /office/dev/add-ins/overview/learning-path-beginner
+        title: Beginners
+      - href: /office/dev/add-ins/overview/learning-path-transition
+        title: Transition from VSTO
+  - title: Office applications
+    items:
+      - href: /office/dev/add-ins/excel
+        title: Excel
+      - href: /office/dev/add-ins/onenote
+        title: OneNote
+      - href: /office/dev/add-ins/outlook
+        title: Outlook
+      - href: /office/dev/add-ins/powerpoint
+        title: PowerPoint
+      - href: /office/dev/add-ins/project
+        title: Project
+      - href: /office/dev/add-ins/visio
+        title: Visio
+      - href: /office/dev/add-ins/word
+        title: Word
+  - title: Office Dev Center Resources
+    items:
+      - href: https://developer.microsoft.com/office
+        title: Office Dev Center
+      - href: https://developer.microsoft.com/office/blogs
+        title: Blog
+      - href: https://developer.microsoft.com/office/gallery/?filterBy=Samples,Add-ins
+        title: Samples
+      - href: https://developer.microsoft.com/office/gallery/?filterBy=Tools,Add-ins
+        title: Tools
+      - href: https://developer.microsoft.com/office/gallery/?filterBy=Videos,Podcasts,Add-ins
+        title: Videos
+      - href: https://developer.microsoft.com/office/events
+        title: Events
+      - href: https://developer.microsoft.com/office/docs#officecommunity
+        title: Support
+      - href: https://developer.microsoft.com/office/gallery
+        title: All Resources
+  - title: Developer Program
+    items:
+      - href: https://developer.microsoft.com/microsoft-365/dev-program
+        title: Join Now
+      - href: https://developer.microsoft.com/microsoft-365/profile
+        title: My Dashboard
+      - href: /office/developer-program/office-365-developer-program
+        title: Dev Program Docs
+      - href: /office/developer-program/office-365-developer-program-faq
+        title: FAQ
+callToAction:
+  primary:
+    href: /office/dev/add-ins/overview/explore-with-script-lab
+    title: Script Lab

@@ -1,0 +1,13 @@
+{
+    "monikers": [
+        {
+            "moniker_name": "cat-1.0"
+        },
+        {
+            "moniker_name": "cat-2.0"
+        },
+        {
+            "moniker_name": "vs-2017"
+        }
+    ]
+}

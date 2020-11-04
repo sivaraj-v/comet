@@ -1,0 +1,24 @@
+### YamlMime:ContentNav
+
+category:
+    title: Azure Gaming
+    href: /gaming/azure/
+items:
+  - title: Getting Started
+    href: /gaming/azure/reference-architectures/general-guidelines
+  - title: Features
+    items:
+      - title: Game Servers Hosting
+        href: /azure/reference-architectures/multiplayer-basic-game-server-hosting
+      - title: Multiplayer Servers
+        href: /gaming/azure/reference-architectures/multiplayer
+      - title: Game Server Scaling
+        href: /gaming/azure/reference-architectures/multiplayer-custom-server-scaling
+      - title: Game Analytics
+        href: /gaming/azure/reference-architectures/analytics
+      - title: Matchmaking
+        href: /gaming/azure/reference-architectures/multiplayer-matchmaker
+      - title: Leaderboards
+        href: /gaming/azure/reference-architectures/leaderboard
+      - title: AI in Games
+        href: /gaming/azure/reference-architectures/cognitive

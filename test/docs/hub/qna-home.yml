@@ -1,0 +1,110 @@
+### YamlMime:Hub
+title: Microsoft Q&A supported products
+summary: Learn about the products supported in Microsoft Q&A, and get the answers to your technical questions.
+pageModifier: qna-home
+
+metadata:
+  title: Microsoft Q&A supported products
+  description: Learn about the products supported in Microsoft Q&A, and get the answers to your technical questions.
+  services: non-product-specific
+  ms.service: non-product-specific
+  ms.topic: hub-page
+  author: v-jaben
+  ms.author: v-jaben
+  ms.date: 03/24/2020
+  uhfHeaderId: answers
+  featureFlags:
+  - clicktale
+
+highlightedContent:
+# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample tutorial | video | whats-new
+  items:
+    # Card
+    - title: Get started card 1
+      itemType: get-started
+      url: https://docs.microsoft.com/answers/articles/388/microsoft-qa-frequently-asked-questions.html
+    # Card
+    - title: Get started card 2
+      itemType: learn
+      url: https://docs.microsoft.com/answers/articles/388/microsoft-qa-frequently-asked-questions.html
+    # Card
+    - title: Get started card 3
+      itemType: overview
+      url: https://docs.microsoft.com/answers/articles/388/microsoft-qa-frequently-asked-questions.html
+    # Card
+    - title: Get started card 4
+      itemType: how-to-guide
+      url: https://docs.microsoft.com/answers/articles/388/microsoft-qa-frequently-asked-questions.html
+
+productDirectory:
+  title: Browse Q&A Topics
+  items:
+    # Card
+    - title: Azure
+      summary: Visual Studio Summary
+      imageSrc: https://static.docs.com/ui/media/product/azure/azure.svg
+      qnaProductCategories:
+        - all
+        - azure
+      url: ./azure.yml
+    # Card
+    - title: Visual Studio
+      summary: Visual Studio Summary
+      imageSrc: ./media/vs-ide-2019.svg
+      qnaProductCategories:
+        - all
+        - visual-studio
+      url: https://visualstudio.microsoft.com/
+    # Card
+    - title: Visual Studio for Mac
+      summary: Visual Studio for Mac Summary
+      imageSrc: ./media/vs-mac-2019.svg
+      qnaProductCategories:
+        - all
+        - visual-studio
+      url: https://docs.microsoft.com/visualstudio/mac
+    # Card
+    - title: Visual Studio Code
+      summary: Visual Studio Code Summary
+      imageSrc: ./media/vs-code-logo.svg
+      qnaProductCategories:
+        - all
+        - visual-studio
+      url: https://code.visualstudio.com/docs
+    # Card
+    - title: Visual Studio App Center
+      summary: Visual Studio App Center Summary
+      imageSrc: ./media/vs-mobile-center.svg
+      qnaProductCategories:
+        - all
+        - visual-studio
+      url: https://docs.microsoft.com/appcenter
+    # Card
+    - title: Visual Studio Subscriptions
+      summary: Visual Studio Subscription Summary
+      imageSrc: ./media/vs-subscription-temp.svg
+      qnaProductCategories:
+        - all
+        - visual-studio
+      url: https://docs.microsoft.com/visualstudio/subscriptions
+
+additionalContent:
+  sections:
+    - title: Browse Q&A supported products
+      items:
+        # Card
+        - title: Windows
+          summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          url: windows.yml
+        # Card
+        - title: Azure
+          summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          url: azure.yml
+        # Card
+        - title: Teams
+          summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          url: https://docs.microsoft.com/answers/topics/teams.html 
+        # Card
+        - title: Partner Center
+          summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          url: https://docs.microsoft.com/answers/topics/partner-center-api.html

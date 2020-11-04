@@ -1,0 +1,127 @@
+### YamlMime:LearnProduct
+title: Introduction to Azure
+summary: The skills required to advance your career and earn your spot at the top do not come easily. Now there’s a more rewarding approach to hands-on learning that helps you achieve your goals faster. Earn points, levels, and achieve more!
+brand: azure
+hero:
+  backgroundColor: 'linear-gradient(174.2deg, #2C2C31 0%, #2C2C31 100%)'
+  supertitle: Microsoft Learn
+  subtitle: Unlock your cloud skills in minutes.
+  summary: The skills required to advance your career and earn your spot at the top do not come easily. Now there’s a more rewarding approach to hands-on learning that helps you achieve your goals faster. <strong>Earn points, levels, and achieve more!<strong>
+tabs:
+- tabId: start-a-learning-path
+  title: Start learning today
+  navigation:
+    title: Select your role
+    links:
+    - text: Developer
+      href: /learn/browse/?roles=developer&products=azure
+    - text: Administrator
+      href: /learn/browse/?roles=administrator&products=azure
+    - text: Solution Architect
+      href: /learn/browse/?roles=solution-architect&products=azure
+    - text: Security Engineer
+      href: /learn/browse/?roles=security-engineer&products=azure
+    - text: AI Engineer
+      href: /learn/browse/?roles=ai-engineer&products=azure
+    - text: Business User
+      href: /learn/browse/?roles=business-user
+    - text: Business Analyst
+      href: /learn/browse/?roles=business-analyst
+    - text: Data Engineer
+      href: /learn/browse/?roles=data-engineer&products=azure
+    - text: Data Scientist
+      href: /learn/browse/?roles=data-scientist&products=azure
+    - text: DevOps Engineer
+      href: /learn/browse/?roles=devops-engineer&products=azure
+  summary: Up your game with a module or learning path tailored to today's developer and technology masterminds and designed to prepare you for industry-recognized [Microsoft certifications](/learn/certifications/courses/browse).
+  tagText: Learning paths
+  image:
+    src: /media/learn/Product/Learn/learningpath_graphic.svg
+    alt: Start learning today
+- tabId: hands-on-learning
+  title: Hands-on learning
+  navigation:
+    title: Browse all
+    links:
+    - text: Browse all
+      href: /learn/browse/
+  summary: Master core concepts at your speed and on your schedule. Whether you've got 15 minutes or an hour, you can develop practical skills through interactive training.
+  tagText: Hands-on learning
+  image:
+    src: /media/learn/Product/Learn/hands_on_learning.svg
+    alt: Hands-on learning
+- tabId: learn-for-free
+  title: Learn for free
+  navigation:
+    title: Find a product
+    links:
+    - text: Azure
+      href: /learn/browse/?products=azure
+    - text: Dynamics 365
+      href: /learn/browse/?products=dynamics
+    - text: .NET
+      href: /learn/browse/?products=dotnet
+    - text: Power Platform
+      href: /learn/browse/?products=power-platform
+    - text: Windows
+      href: /learn/browse/?products=windows
+  summary: When we say free, we mean it. Instant in-browser access to Microsoft tools and modules. **No credit card required**.
+  tagText: Learn for free
+  image:
+    src: /media/learn/Product/Learn/learn_4_free.svg
+    alt: Learn for free
+showcase:
+- title: Learning Paths
+  summary: Follow a guided learning path to build practical job skills you can start using right away.
+  browseAllPathsLink:
+    url: /learn/browse/?products=azure&resource_type=learning%20path
+    text: Browse all Azure learning paths
+  browseAllModulesLink:
+    url: /learn/browse/?products=azure&resource_type=module
+    text: Browse all Azure modules
+  paths:
+  - learn.deploy-a-website-with-azure-app-service
+  - learn.cloud-foundations
+  - learn.work-with-nosql-data-in-azure-cosmos-db
+  - learn.architect-great-solutions-in-azure
+  - learn.administer-containers-in-azure
+  - learn.create-serverless-applications
+  modules:
+  - learn.build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm
+  - learn.control-azure-services-with-cli
+  - learn.intro-to-azure-government
+  - learn.pillars-of-a-great-azure-architecture
+  - learn.predict-costs-and-optimize-spending
+additionalLearning:
+  title: Microsoft Learn is just the beginning
+  summary: Start with the basics, then move to advanced methods that address real-world challenges. Microsoft Learn meets you where you are and takes you where you want to go.
+  items:
+  - title: Certifications
+    summary: Jump-start your career and demonstrate your achievements through industry-recognized Microsoft certifications.
+    iconUrl: /media/learn/Product/Learn/cert_badge_updated.svg
+    link:
+      url: /learn/certifications
+      text: Explore all certifications
+  - title: Hands-on Labs
+    summary: Practice what you learned with free interactive hands-on labs. Apply and validate your learning in a live Azure environment
+    iconUrl: /media/learn/Product/Learn/learning_plus_icon.svg
+    link:
+      url: https://microsoft.com/handsonlabs
+      text: See all Hands-on Labs
+  - title: Pluralsight
+    summary: Watch video courses to learn the Azure skills for your job and prepare for certification, free in partnership with Pluralsight.
+    iconUrl: /media/learn/Product/Azure/pluralsight.svg
+    link:
+      url: https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2
+      text: Register for free
+  - title: Instructor-led training
+    summary: Sharpen your technology skills with in-depth, on-demand training in virtual classrooms led by Microsoft Certified Trainers.
+    iconUrl: /media/learn/Product/Learn/Instructor_led_icon.svg
+    link:
+      url: /learn/certifications/courses/browse
+      text: Select a course
+browseAllSection:
+  title: Start your journey today for free!
+  link:
+    text: Browse all
+    url: /learn/browse/

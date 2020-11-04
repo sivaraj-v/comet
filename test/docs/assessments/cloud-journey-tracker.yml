@@ -1,0 +1,587 @@
+### YamlMime:Assessment
+id: cloud-journey-tracker
+locale: en-us
+title: Cloud Journey Tracker
+description: Identify your cloud adoption path based on your needs with this tracker and navigate to relevant content in the Cloud Adoption Framework for Azure.  [15 mins]
+version: '0'
+categories:
+- isRequired: true
+  id: cjt
+  title: Cloud journey tracker
+  description: Successful cloud adoption requires a clear understanding of your current state and what business objectives you want to achieve. This discovery tool will help you identify your cloud adoption needs. The questions will hone in on your current cloud status and lead to recommendations customized to your unique journey.
+  questions:
+  - type: singleSelect
+    id: '1'
+    title: How would you describe your cloud journey?
+    choices:
+    - id: A
+      text: Selected Azure as cloud provider but have not deployed anything yet.
+    - id: B
+      text: Deployed VMs/PaaS services, but not workload (or a list of IT assets that support specific business functions).
+    - id: C
+      text: Successfully deployed a workload (or a list of IT assets that support specific business functions).
+    - id: D
+      text: Deployed multiple workloads (or a list of IT assets that support specific business functions) successfully.
+  - type: multiSelect
+    id: '2'
+    title: What areas interest you? Check all that apply.
+    choices:
+    - id: A
+      text: Estimate cost of operating in the cloud.
+    - id: B
+      text: Architecting  current environment in the cloud.
+    - id: C
+      text: Getting Infrastructure ready to deploy workload to the cloud.
+    - id: D
+      text: Deploy workload to the cloud.
+    - id: E
+      text: Manage operations.
+    - id: F
+      text: Improve performance.
+    - id: G
+      text: Discovering new ways to improve and be efficient.
+  - type: multiSelect
+    id: '3'
+    title: 'What are the motivation for your cloud transformation? Check all that apply.'
+    choices:
+    - id: A
+      text: Reductions in capital expenses.
+    - id: B
+      text: Transforming products or services.
+    - id: C
+      text: Preparation for new technical capabilities.
+    - id: D
+      text: Scaling to meet geographic demands.
+    - id: E
+      text: Improving customer experiences and engagements.
+    - id: F
+      text: Mergers, acquisitions, or divestiture.
+    - id: G
+      text: Critical business events like, data center exit.
+    - id: H
+      text: Increasing business agility.
+    - id: I
+      text: Reduction in vendor or technical complexity.
+    - id: J
+      text: End of support for mission-critical technologies.
+    - id: K
+      text: Scaling to meet market demands.
+    - id: L
+      text: Optimization of internal operations.
+    - id: M
+      text: Improvise on or make efficient/modernize existing app.
+    - id: 'N'
+      text: Other.
+  - type: singleSelect
+    id: '4'
+    title: What is your financial model for cloud transformation?
+    description: Cloud financial model involves transitioning from an Capital investment to an Operational cost based model.
+    choices:
+    - id: A
+      text: Cost Center Model.
+    - id: B
+      text: Chargeback.
+    - id: C
+      text: Showback or awareness - back.
+    - id: D
+      text: Profit Center Model.
+    - id: E
+      text: Don’t know.
+  - type: singleSelect
+    id: '5'
+    title: Do you have a thorough inventory of assets, including applications, software, hardware, operating systems, and system performance metrics?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: Yes.
+    - id: C
+      text: No.
+  - type: multiSelect
+    id: '6'
+    title: Select what is in scope for your transformation?
+    choices:
+    - id: A
+      text: Legacy app with no support.
+    - id: B
+      text: Legacy app with vendor support.
+    - id: C
+      text: N-tier app with web and data.
+    - id: D
+      text: Packaged application - 3rd party application.
+    - id: E
+      text: Clustered compute.
+    - id: F
+      text: Creation of new application.
+    - id: G
+      text: Modernization of an existing app.
+  - type: singleSelect
+    id: '7'
+    title: Do you have dedicated environments for Dev & Test?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: Yes.
+    - id: C
+      text: No.
+  - type: multiSelect
+    id: '8'
+    title: Select any inventory or assessments you have in your current digital estate (IT assests that include apps, data, infrastructure, process).
+    choices:
+    - id: A
+      text: Migration assessments.
+    - id: B
+      text: Application inventory.
+    - id: C
+      text: Existing CMDB.
+    - id: D
+      text: Data store inventory.
+    - id: E
+      text: Governance benchmark.
+    - id: F
+      text: Don't have/Don't know.
+  - type: singleSelect
+    id: '9'
+    title: Does your organization have a requirement to run workloads across public cloud and on premise (hybrid cloud)?
+    description: Configuration management database, Output of assessment tools.
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '10'
+    title: Do assets within your workload require connectivity to on-premises data center?
+    choices:
+    - id: A
+      text: Unclear at this point.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '11'
+    title: Does your organization have a requirement to run workloads across multiple cloud providers (Azure + Amazon Web Services ,Google Cloud Platform, Other)?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: multiSelect
+    id: '12'
+    title: Which of the following are you thinking about as you transform new products and services?
+    choices:
+    - id: A
+      text: Leverage AI/ML in applications.
+    - id: B
+      text: Replication and geo redundancy.
+    - id: C
+      text: Decompose application(s) into smaller components (micro services).
+    - id: D
+      text: Run application(s) in containerized environment.
+    - id: E
+      text: Automation of scale to meet users demands, while keeping costs in check.
+    - id: F
+      text: Extending standard application to include a natural bot interface.
+    - id: G
+      text: Automation of testing on real devices of various configurations. 
+    - id: H
+      text: Build cloud-native apps without provisioning and managing infrastructure using a fully managed platform that handles scaling, availability, and performance.
+    - id: I
+      text: Innovate through intermittently connected and perceptive edge devices.
+    - id: J
+      text: Predict customer needs and influence customer behaviors.
+    - id: K
+      text: Other.
+  - type: singleSelect
+    id: '13'
+    title: Do you have an approved and comprehensive project plan to drive your organization through transformation?
+    choices:
+    - id: A
+      text: Unclear at this point.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '14'
+    title: Have you set up a management hierarchy to consistently apply access control, policy, and compliance to groups of resources and use tagging to track related resources?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '15'
+    title: Have you used role-based access control to make sure that users have only the permissions they really need?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '16'
+    title: Do you understand how billing works and how to manage costs?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '17'
+    title: Do you have policies and security settings in place that ensures you adhere to compliance requirements?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '18'
+    title: Do you have visibility into your resources to help isolate issues and optimize performance?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '19'
+    title: Do you understand your compute requirements needed to facilitate your cloud adoption?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '20'
+    title: Have you made networking design decisions to properly support the workloads and services that will be hosted in the cloud?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '21'
+    title: Have you made storage decisions to secure the workloads and services that will be hosted in the cloud?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '22'
+    title: Have you determined the data service requirements for hosting your workloads?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '23'
+    title: Do the appropriate people and teams have foundational level knowledge of cloud services and how those services are provided with Microsoft Azure?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '24'
+    title: Do you have an established organizational structure (like a cloud strategy team) with representation from Business Units, Finance, Operations, Security and IT to advocate, support and influence across the company?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '25'
+    title: Do you have a dedicated cloud governance team that consists of subject matter experts from Security, IT Ops and Business Decision Makers to assess business risks and tolerance levels?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '26'
+    title: Do you  have a dedicated cloud adoption team that consists of subject matter experts that have strong awareness of current digital estate?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '27'
+    title: Do you have adequate training for your developers to ensure they are building safe apps (e.g., cross site scripting, cross origin resource sharing, script injection, using HTTPS)?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+  - type: singleSelect
+    id: '28'
+    title: Do your developers understand cloud computing concepts as well as general cloud computing models and services such as Public, Private and Hybrid cloud and IaaS, PaaS and SaaS?
+    choices:
+    - id: A
+      text: Don't know.
+    - id: B
+      text: 'Yes.'
+    - id: C
+      text: 'No.'
+guidance:
+  title: Understanding your cloud adoption journey
+  description: Successfully cloud adoption requires a clear understanding of your current state and what business objectives you want to achieve. This report will help you identify your cloud adoption needs based on the questions your assessment survey answers.
+  nextSteps:
+    title: Recommended next steps
+    steps:
+    - title: Complete Governance Assessment
+      description: Governance Assessment will help you identify gaps in your organization across six key domains as defined in the Microsoft Cloud Adoption Framework.
+      links:
+      - text: Take the assessment
+        url: /en-us/assessments/
+    - title: Take Cloud Adoption Framework business value module.
+      description: This module covers the basics of how to use the Cloud Adoption Framework — a set of documentation, implementation guidance, best practices, and tools that aid in aligning the strategy for business, people, and technology.
+      links:
+      - text: Start the module
+        url: /learn/modules/microsoft-cloud-adoption-framework-for-azure/
+    - title: Leverage Cloud Plan template
+      description: The template organizes the decisions and data points that will help align your specific plans for adoption.
+      links:
+      - text: Download the template
+        url: /azure/cloud-adoption-framework/plan/template#align-the-cloud-adoption-plan
+  recommendation:
+    title: Your Cloud adoption journey
+    categories:
+    - id: define-strategy
+      title: Define Strategy
+      description: Defining business justification and expected outcomes will set you up for success.
+      iconUrl: /azure/cloud-adoption-framework/_images/caf-strategy.png
+      links:
+      - text: Azure pricing calculator
+        url: https://azure.microsoft.com/en-us/pricing/calculator/
+        anyOf:
+        - cjt.2.A
+      - text: Understanding your true motivations for moving to the cloud.
+        url: /azure/cloud-adoption-framework/strategy/motivations
+        anyOf:
+        - cjt.3.A
+        - cjt.3.B
+        - cjt.3.C
+        - cjt.3.D
+        - cjt.3.E
+        - cjt.3.F
+        - cjt.3.G
+        - cjt.3.H
+        - cjt.3.I
+        - cjt.3.J
+        - cjt.3.K
+        - cjt.3.L
+        - cjt.3.M
+        - cjt.3.N
+      - text: Understanding cloud accounting.
+        url: /azure/architecture/cloud-adoption/business-strategy/cloud-accounting
+        anyOf:
+        - cjt.4.A
+        - cjt.4.B
+        - cjt.4.C
+        - cjt.4.D
+        - cjt.4.E
+      - text: Capabilities of a cloud strategy team.
+        url: /azure/cloud-adoption-framework/organize/cloud-strategy
+        anyOf:
+        - cjt.24.B
+        - cjt.24.C
+    - id: plan
+      title: Plan
+      description: Align actionable adoption plans to business outcomes.
+      iconUrl: /azure/cloud-adoption-framework/_images/caf-plan.png
+      links:
+      - text: Why you should rationalize your assets to determine best ways to migrate or innovate.
+        url: /azure/cloud-adoption-framework/digital-estate/5-rs-of-rationalization
+        anyOf:
+        - cjt.5.A
+        - cjt.5.C
+      - text: Download the cloud adoption plan.
+        url: /azure/cloud-adoption-framework/plan/template#align-the-cloud-adoption-plan
+        anyOf:
+        - cjt.13.B
+        - cjt.13.C
+      - text: Capabilities of a cloud governance team.
+        url: /azure/cloud-adoption-framework/organize/cloud-governance
+        anyOf:
+        - cjt.25.B
+        - cjt.25.C
+      - text: Capabilities of a cloud adoption team.
+        url: /azure/cloud-adoption-framework/organize/cloud-adoption
+        anyOf:
+        - cjt.26.B
+        - cjt.26.C
+    - id: ready
+      title: Ready
+      description: Prepare the cloud environment for the planned changes.
+      iconUrl: /azure/cloud-adoption-framework/_images/caf-ready.png
+      links:
+      - text: Reference guide - Azure Architecture Center
+        url: /azure/architecture/reference-architectures/
+        anyOf:
+        - cjt.2.B
+      - text: Introduction to features that help you organize resources, control costs, and secure and manage your organization.
+        url: /azure/cloud-adoption-framework/ready/azure-setup-guide/
+        anyOf:
+        - cjt.2.C
+        - cjt.14.B
+        - cjt.14.C
+        - cjt.15.B
+        - cjt.15.C
+        - cjt.16.B
+        - cjt.16.C
+        - cjt.18.B
+        - cjt.18.C
+      - text: Orchestrate the deployment of various resource templates and other artifacts using blueprints.
+        url: /azure/governance/blueprints/overview
+        anyOf:
+        - cjt.2.D
+      - text: Some major considerations for implementing any landing zone deployment.
+        url: /azure/cloud-adoption-framework/ready/considerations/
+        anyOf:
+        - cjt.19.B
+        - cjt.19.C
+        - cjt.20.A
+        - cjt.20.B
+        - cjt.20.C
+        - cjt.21.A
+        - cjt.21.B
+        - cjt.21.C
+        - cjt.22.B
+        - cjt.22.C
+      - text: Environmental (technical) readiness learning path.
+        url: /azure/cloud-adoption-framework/organize/suggested-skills#environmental-technical-readiness-learning-paths
+        anyOf:
+        - cjt.23.B
+        - cjt.23.C
+        - cjt.27.B
+        - cjt.27.C
+      - text: Learn more about Azure compute options.
+        url: /learn/modules/intro-to-azure-compute/
+        anyOf:
+        - cjt.28.B
+        - cjt.28.C
+    - id: adopt
+      title: Adopt
+      description: The greatest business value derived from cloud adoption comes from innovation activities.
+      iconUrl: /azure/cloud-adoption-framework/_images/caf-adopt.png
+      links:
+      - text: Learn more about Azure Migration Program
+        url: https://azure.microsoft.com/en-us/migration/migration-program/
+        anyOf:
+        - cjt.6.A
+        - cjt.6.B
+        - cjt.6.C
+        - cjt.6.D
+      - text: Explore third-party migration tools and ISV services that can assist you with the migration process.
+        url: /azure/cloud-adoption-framework/migrate/azure-migration-guide/migrate?tabs=third-party-tools
+        anyOf:
+        - cjt.8.F
+      - text: Assess your on-premises infrastructure, applications and data for migration to Azure using the Azure Migrate service.
+        url: /azure/architecture/cloud-adoption/migrate/azure-migration-guide/assess?tabs=Tools
+        anyOf:
+        - cjt.8.F
+      - text: Learn more about ExpressRoute
+        url: /azure/vmware-cloudsimple/on-premises-connection
+        anyOf:
+        - cjt.10.B
+      - text: Explore the starting point for innovation guidance in cloud adoption framework.
+        url: /azure/cloud-adoption-framework/innovate/innovation-guide/
+        anyOf:
+        - cjt.12.A
+        - cjt.12.C
+        - cjt.12.D
+        - cjt.12.E
+        - cjt.12.F
+        - cjt.12.G
+        - cjt.12.H
+        - cjt.12.I
+        - cjt.12.J
+    - id: govern
+      title: Govern
+      description: Govern the environment and workloads.
+      iconUrl: /azure/cloud-adoption-framework/_images/caf-govern.png
+      links:
+      - text: Governance methodology in Cloud Adoption Framework for Azure.
+        url: /azure/cloud-adoption-framework/govern/methodology
+        anyOf:
+        - cjt.8.E
+      - text: Establish your governance benchmark.
+        url: https://aka.ms/adopt/gov/assess
+        anyOf:
+        - cjt.8.F
+      - text: Changes to cater for in multi-cloud environment.
+        url: /azure/cloud-adoption-framework/govern/guides/complex/multicloud-improvement
+        anyOf:
+        - cjt.11.A
+        - cjt.11.B
+      - text: 'Learn about cloud adoption framework: governance.'
+        url: /azure/cloud-adoption-framework/ready/azure-setup-guide/govern-org-compliance?tabs=AzureBlueprints
+        anyOf:
+        - cjt.17.B
+        - cjt.17.C
+    - id: manage
+      title: Manage
+      description: Cloud adoption framework is the one microsoft approach to cloud adoption in Azure, consolidating and sharing best practices from Microsoft employees, partners, and customers.
+      iconUrl: /azure/cloud-adoption-framework/_images/caf-manage.png
+      links:
+      - text: Learn more about cloud management.
+        url: /azure/cloud-adoption-framework/manage/
+        anyOf:
+        - cjt.2.E
+      - text: Establish an operational fitness review.
+        url: /azure/cloud-adoption-framework/manage/operational-fitness-review
+        anyOf:
+        - cjt.2.E
+      - text: Learn more about Azure monitor.
+        url: /azure/cloud-adoption-framework/manage/azure-server-management/tools-services#monitor
+        anyOf:
+        - cjt.2.F
+      - text: See a resiliency checklist for Azure services.
+        url: /azure/architecture/checklist/resiliency-per-service?toc=https://docs.microsoft.com/azure/cloud-adoption-framework/toc.json&bc=https://docs.microsoft.com/azure/cloud-adoption-framework/_bread/toc.json
+        anyOf:
+        - cjt.2.G
+      - text: Managing organizational alignment.
+        url: /azure/cloud-adoption-framework/organize/
+        anyOf:
+        - cjt.24.A
+      - text: Aligning responsibilities across teams.
+        url: /azure/cloud-adoption-framework/organize/raci-alignment
+        anyOf:
+        - cjt.25.A
+        - cjt.26.A

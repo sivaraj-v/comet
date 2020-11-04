@@ -1,0 +1,137 @@
+### YamlMime:RESTOperation
+name: Get
+uid: rest-sandbox.security.oauth_implicit_and_apikey
+summary: Gets information about the specified compute node.
+service: Batch Service
+apiVersion: "2017-06-01.5.1"
+groupName: ComputeNode
+isDeprecated: false
+paths:
+- content: GET https://batch.core.windows.net/pools/{poolId}/nodes/{nodeId}?api-version=2017-06-01.5.1
+- content: GET https://batch.core.windows.net/pools/{poolId}/nodes/{nodeId}?$select={$select}&timeout={timeout}&api-version=2017-06-01.5.1
+  isOptional: true
+uriParameters:
+- description: "The ID of the pool that contains the compute node."
+  in: path
+  name: poolId
+  isRequired: true
+  skipUrlEncoding: true
+  types: 
+  - uid: string
+- description: "The ID of the compute node that you want to get information about."
+  in: path
+  name: nodeId
+  isRequired: true
+  types: 
+  - uid: string
+- description: "An OData $select clause."
+  in: query
+  name: $select
+  isRequired: false
+  types: 
+  - uid: string
+- description: "The maximum time that the server can spend processing the request, in seconds. The default is 30 seconds."
+  in: query
+  name: timeout
+  isRequired: false
+  types: 
+  - uid: integer
+  format: int32
+- description: "Client API Version."
+  in: query
+  name: api-version
+  isRequired: true
+  types: 
+  - uid: string
+requestHeader:
+- description: "The caller-generated request identity, in the form of a GUID with no decoration such as curly braces, e.g. 9C4D50EE-2D56-4CD3-8152-34347DC9F2B0."
+  name: client-request-id
+  types: 
+  - uid: string
+  format: uuid
+  isRequired: false
+- description: "Whether the server should return the client-request-id in the response."
+  name: return-client-request-id
+  types: 
+  - uid: boolean
+  isRequired: false
+- description: "The time the request was issued. Client libraries typically set this to the current system clock time; set it explicitly if you are calling the REST API directly."
+  name: ocp-date
+  types: 
+  - uid: string
+  format: date-time-rfc1123
+  isRequired: false
+responses:
+- description: "A response containing the compute node."
+  name: 200 OK
+  types: 
+  - uid: ComputeNode
+  headers:
+  - name: client-request-id
+    value: string
+  - name: request-id
+    value: string
+  - name: ETag
+    value: string
+  - name: Last-Modified
+    value: string
+- description: "The error from the Batch service."
+  name: Other Status Codes
+  types: 
+  - uid: BatchError
+examples:
+- name: ListRecommendations
+  request: 
+    uri: GET https://management.azure.com/subscriptions/subscriptionId/providers/Microsoft.Advisor/recommendations?api-version=2017-03-31&$top=10
+    headers:
+    - name: client-request-id
+      value: 00000000-0000-0000-0000-000000000000
+  responses:
+  - statusCode: "200"
+    headers:
+    - name: client-request-id
+      value: 00000000-0000-0000-0000-000000000000
+    - name: request-id
+      value: 00000000-0000-0000-0000-000000000001
+    - name: ETag
+      value: This is a test
+    - name: Last-Modified
+      value: 11-30-2017
+    body: |
+      {
+        "nextLink": "https://management.azure.com/subscriptions/subscriptionId/providers/Microsoft.Advisor/recommendations?api-version=2017-03-31&$top=10&$skiptoken=skiptoken",
+        "value": [
+          {
+            "id": "/resourceUri/providers/Microsoft.Advisor/recommendations/recGUID",
+            "name": "recGUID",
+            "properties": {
+              "category": "HighAvailability",
+              "impact": "Medium",
+              "impactedField": "Microsoft.Compute/availabilitySets",
+              "impactedValue": "armavset",
+              "lastUpdated": "2017-02-24T22:24:43.3216408Z",
+              "risk": "Warning",
+              "shortDescription": {
+                "problem": "This availability set is not configured for fault tolerance",
+                "solution": "To ensure high availability add one or more virtual machines to this availability set"
+              }
+            },
+            "type": "Microsoft.Advisor/recommendations"
+          }
+        ]
+      }
+security:
+- type: apiKey
+  name: api_key
+  in: header
+- type: oauth2
+  name: petstore_auth
+  authorizationUrl: "http://swagger.io/api/oauth/dialog"
+  flow: implicit
+  scopes:
+  - name: write:pets
+    description: "modify pets in your account"
+  - name: read:pets
+    description: "read your pets"
+metadata:
+  enable_rest_try_it: true

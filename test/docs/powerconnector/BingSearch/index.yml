@@ -1,0 +1,114 @@
+### YamlMime:PowerConnector
+# This file is auto-generated. Any manual changes will be overwritten.
+"title": "Bing Search (Preview)"
+"iconUrl": "https://connectoricons-prod.azureedge.net/bingsearch/icon_1.0.1257.1710.png"
+"summary": "Microsoft Cognitive Services Bing Search API allows you to search content across the web."
+"remarks": "This connector is available in the following products and regions: \r\n\r\nService | Class | Regions \r\n --- | --- | --- \r\n __Logic Apps__ |Standard|All [Logic Apps regions](https://azure.microsoft.com/global-infrastructure/services/?products=logic-apps&regions=all) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Azure China regions \r\n __Power Automate__ |Standard|All [Power Automate regions](https://docs.microsoft.com/flow/regions-overview) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; US Government (GCC High) \r\n __Power Apps__ |Standard|All [Power Apps regions](https://docs.microsoft.com/powerapps/administrator/regions-overview#what-regions-are-available) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; US Government (GCC High) \r\n"
+"connectionParameters":
+- "name": "API Version"
+  "summary": "API Version"
+  "type": "string"
+- "name": "API Key"
+  "summary": "API Key"
+  "type": "securestring"
+"limits":
+- "name": "API calls per connection"
+  "count": 1200
+  "renewalPeriod": "60 seconds"
+- "name": "Frequency of trigger polls"
+  "count": 1
+  "renewalPeriod": "900 seconds"
+"metadata":
+  "title": "Bing Search"
+  "description": "Microsoft Cognitive Services Bing Search API allows you to search content across the web."
+"actions":
+- "operationId": "GetNews"
+  "name": "List news by query"
+  "summary": "Returns a list of news articles for a given query."
+  "parameters":
+  - "name": "Search Query"
+    "required": true
+    "type": "string"
+    "summary": "The search query string."
+    "key": "q"
+  - "name": "Market"
+    "type": "string"
+    "summary": "The market where the results come from. Typically, this is the country where the user is making the request from; however, it could be a different country if the user is not located in a country where Bing delivers results. The market must be in the form -. For example, en-US."
+    "key": "mkt"
+  - "name": "Safe Search"
+    "type": "string"
+    "summary": "A filter used to filter results for adult content."
+    "key": "safeSearch"
+  - "name": "Count"
+    "type": "string"
+    "summary": "The number of search results to return in the response. The actual number delivered may be less than requested."
+    "key": "count"
+  - "name": "Offset"
+    "required": false
+    "type": "string"
+    "summary": "The zero-based offset that indicates the number of search results to skip before returning results."
+    "key": "offset"
+  "response":
+    "singleSchema":
+      "name": "Items"
+      "type": "BingNewsBatch"
+"triggers":
+- "operationId": "TrigNewNews"
+  "name": "On new news article"
+  "summary": "Triggers when a news article matches the given query."
+  "parameters":
+  - "name": "Search Query"
+    "required": true
+    "type": "string"
+    "summary": "The search query string."
+    "key": "q"
+  - "name": "Market"
+    "type": "string"
+    "summary": "The market where the results come from. Typically, this is the country where the user is making the request from; however, it could be a different country if the user is not located in a country where Bing delivers results. The market must be in the form -. For example, en-US."
+    "key": "mkt"
+  - "name": "Safe Search"
+    "type": "string"
+    "summary": "A filter used to filter results for adult content."
+    "key": "safeSearch"
+  - "name": "Count"
+    "type": "string"
+    "summary": "The number of search results to return in the response. The actual number delivered may be less than requested."
+    "key": "count"
+  - "name": "Offset"
+    "required": false
+    "type": "string"
+    "summary": "The zero-based offset that indicates the number of search results to skip before returning results."
+    "key": "offset"
+  "response":
+    "singleSchema":
+      "name": "Body"
+      "type": "NewsArticle"
+"definitions":
+- "name": "BingNewsBatch"
+  "properties":
+  - "name": "Items"
+    "type": "NewsArticle"
+    "path": ""
+- "name": "NewsArticle"
+  "properties":
+  - "name": "Name"
+    "type": "string"
+    "summary": "The name of the news article."
+    "path": "name"
+  - "name": "URL"
+    "type": "string"
+    "summary": "The URL to the news article."
+    "path": "url"
+  - "name": "Description"
+    "type": "string"
+    "summary": "A short description of the news article."
+    "path": "description"
+  - "name": "Date Published"
+    "type": "date-time"
+    "summary": "The datetime the article was published."
+    "path": "datePublished"
+  - "name": "Category"
+    "type": "string"
+    "summary": "The category of the news article, such as ScienceAndTechnology."
+    "path": "category"
+  

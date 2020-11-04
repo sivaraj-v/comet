@@ -1,0 +1,49 @@
+### YamlMime:TopicLanding
+title: University courses on Microsoft Learn
+summary: Explore modules and learning paths from universities like Carnegie Mellon, Oxford, and Berkeley to prepare you for a career in cloud.
+hero:
+  superTitle: Welcome to Microsoft Learn
+  summary: Explore modules and learning paths from universities like Carnegie Mellon, Oxford, and Berkeley to prepare you for a career in cloud.
+  link:
+    url: ../browse/
+    text: Browse all university modules
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/hero-university.svg
+featuredSection: # optional with max items 3
+- title: Learning Path
+  subTitle: Cloud Administrator
+  summary: Explore Carnegie Mellon University's beginner-friendly Cloud Administrator course.
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/cloud-administrator.svg
+  link:
+    url: ../paths/cmu-cloud-admin-basics/
+    text: Get started
+- title: Learning Path
+  subTitle: AI Edge Engineer
+  summary: Learn about IoT and AI with the University of Oxford's AI Edge Engineer course.
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/ai-engineer.svg
+  link:
+    url: ../paths/ai-edge-engineer/
+    text: Get started
+- title: Learning Path
+  subTitle: Foundations of Data Science
+  summary: Learn Python programming and data science together with UC Berkeley's Data 8 - Foundations of Data Science course.
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/topics/data-scientist.svg
+  link:
+    url: https://data.berkeley.edu/education/courses/data-8
+    text: Get started
+curatedSection: # optional with max items 6
+- title: Your path to getting started
+  items:
+  - learn-dynamics.starter-portals
+  - learn-bizapps.customer-service-hub-cases-slas
+  - learn-bizapps.dyn365-voice-of-customer
+trendingSection:
+  title: Popular learning paths and modules for students
+  filters: # 1 or more metadata values corresponding to the taxonomies on learn (product, role, level, type)
+    products:
+      - dynamics-customer-service
+    roles:
+      - functional-consultant
+    types:
+      - module
+      - learning path
+  linkText: See what others are learning

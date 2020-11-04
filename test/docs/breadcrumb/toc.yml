@@ -1,0 +1,11 @@
+- name: Docs
+  href: /
+  items:
+  - name: Browse
+    items:
+    - name: Sample
+      href: /test/docs/browse/sample
+  - name: Sample Azure
+    href: /test/docs/sample/azure-azureapi
+  - name: Sample Many
+    href: /test/docs/sample/sample-with-may-contributors

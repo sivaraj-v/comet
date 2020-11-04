@@ -1,0 +1,88 @@
+### YamlMime:Landing
+
+title: Azure Test Page
+summary: Aliquip nulla ea proident sunt occaecat pariatur anim in enim proident dolor. Sit ut qui fugiat aute fugiat aliquip. Laborum nulla ea Lorem et deserunt deserunt nulla exercitation occaecat incididunt excepteur.
+
+landingContent:
+  - title: Test 1
+    linkLists: 
+      - linkListType: quickstart
+        links: 
+          - text: Consequat ea sit nostrud deserunt magna laborum labore deserunt.
+            url: www.docs.microsoft.com
+          - text: Id culpa non reprehenderit deserunt est do adipisicing cillum adipisicing ullamco nulla.
+            url: www.docs.microsoft.com
+          - text: Ea cupidatat cillum commodo incididunt.
+            url: www.docs.microsoft.com
+          - text: Elit et in dolor occaecat voluptate aute quis commodo esse velit pariatur ad minim eu.
+            url: www.docs.microsoft.com
+      - linkListType: learn
+        links: 
+          - text: Eiusmod veniam consectetur pariatur ea aute qui veniam reprehenderit commodo officia.
+            url: www.docs.microsoft.com
+  - title: Test 2
+    linkLists: 
+      - linkListType: get-started
+        links: 
+          - text: Enim fugiat Lorem amet culpa commodo magna enim voluptate.
+            url: www.docs.microsoft.com
+      - linkListType: deploy
+        links: 
+          - text: Esse ipsum dolore culpa voluptate officia ipsum consectetur exercitation nulla aliqua excepteur aute aute.
+            url: www.docs.microsoft.com
+          - text: Id culpa non reprehenderit deserunt est do adipisicing cillum adipisicing ullamco nulla.
+            url: www.docs.microsoft.com
+          - text: Tempor ea esse adipisicing irure elit amet incididunt.
+            url: www.docs.microsoft.com
+          - text: Elit et in dolor occaecat voluptate aute quis commodo esse velit pariatur ad minim eu.
+            url: www.docs.microsoft.com
+          - text: Aute culpa labore ullamco sunt mollit et ex ea magna labore esse Lorem voluptate.
+            url: www.docs.microsoft.com
+          - text: Est incididunt sit labore in minim.
+            url: www.docs.microsoft.com
+  - title: Test 3
+    linkLists: 
+      - linkListType: tutorial
+        links: 
+          - text: Fugiat excepteur ad aliqua ex quis tempor.
+            url: www.docs.microsoft.com
+          - text: Nisi nostrud enim in aute in sint commodo fugiat.
+            url: www.docs.microsoft.com
+          - text: Sint aliquip dolore dolor adipisicing Lorem elit velit cillum do ad.
+            url: www.docs.microsoft.com
+          - text: Eiusmod ipsum irure duis incididunt non laboris commodo irure sunt.
+            url: www.docs.microsoft.com
+  - title: Test 4
+    linkLists: 
+      - linkListType: download
+        links: 
+          - text: Ad consectetur reprehenderit ut in reprehenderit laborum nostrud enim quis nisi reprehenderit excepteur.
+            url: www.docs.microsoft.com
+          - text: Ut laborum id reprehenderit dolore minim deserunt anim reprehenderit veniam.
+            url: www.docs.microsoft.com
+          - text: Lorem cupidatat non quis tempor adipisicing tempor velit eu fugiat consectetur ipsum..
+            url: www.docs.microsoft.com
+          - text: Minim ullamco in ex adipisicing ut elit enim dolor cillum elit elit excepteur officia.
+            url: www.docs.microsoft.com
+  - title: Test 5
+    linkLists: 
+      - linkListType: architecture
+        links: 
+          - text: Veniam minim consectetur et enim commodo mollit.
+            url: www.docs.microsoft.com
+  - title: Test 6
+    linkLists: 
+      - linkListType: learn
+        links: 
+          - text: Magna adipisicing magna sint aute culpa ullamco minim voluptate nulla minim Lorem officia.
+            url: www.docs.microsoft.com
+          - text: Sint culpa dolor mollit incididunt.
+            url: www.docs.microsoft.com
+          - text: Officia do qui amet laborum qui pariatur pariatur laborum aliqua.
+            url: www.docs.microsoft.com
+          - text: Veniam culpa ad enim minim culpa Lorem aliquip minim incididunt in.
+            url: www.docs.microsoft.com
+          - text: Aliquip aliqua commodo officia do.
+            url: www.docs.microsoft.com
+          - text: Anim mollit officia minim officia occaecat aliquip et et consequat ut eu qui est.
+            url: www.docs.microsoft.com

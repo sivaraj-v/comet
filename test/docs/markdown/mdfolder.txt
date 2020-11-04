@@ -1,0 +1,9 @@
+C:\Repos\apex\test\docs\markdown\code
+C:\Repos\apex\test\docs\markdown\code-highlighting
+C:\Repos\apex\test\docs\markdown\code-include
+C:\Repos\apex\test\docs\markdown\code-snippets
+C:\Repos\apex\test\docs\markdown\footnotes
+C:\Repos\apex\test\docs\markdown\image
+C:\Repos\apex\test\docs\markdown\list
+C:\Repos\apex\test\docs\markdown\code-highlighting\snippets
+C:\Repos\apex\test\docs\markdown\code-include\includes

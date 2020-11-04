@@ -1,0 +1,96 @@
+### YamlMime:PowerConnector
+# This file is auto-generated. Any manual changes will be overwritten.
+"title": "YouTube"
+"iconUrl": "https://connectoricons-prod.azureedge.net/youtube/icon_1.0.1083.1301.png"
+"summary": "YouTube allows billions of people to discover, watch and share videos."
+"remarks": "This connector is available in the following products and regions: \r\n\r\nService | Class | Regions \r\n --- | --- | --- \r\n __Logic Apps__ |Standard|All [Logic Apps regions](https://azure.microsoft.com/global-infrastructure/services/?products=logic-apps&regions=all) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Azure China regions \r\n __Power Automate__ |Standard|All [Power Automate regions](https://docs.microsoft.com/flow/regions-overview) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; US Government (GCC High) \r\n\r\nTo use this integration, you will need a Google account. If you are not a user yet,  [sign up](https://google.com/) for a new account.\r\nWhen trying to make a connection, you will be prompted to authenticate against your account. If you have multiple accounts, pick the one you would like to use and **Sign in**. Click on **Allow** to continue. \r\n\r\n![Image 1](media/Figure_1.png)\r\n\r\nYou're now ready to start using this integration. "
+"limits":
+- "name": "Frequency of trigger polls"
+  "count": 1
+  "renewalPeriod": "900 seconds"
+"metadata":
+  "title": "YouTube"
+  "description": "YouTube allows billions of people to discover, watch and share videos."
+"triggers":
+- "operationId": "OnNewVideoInChannel"
+  "name": "When a video is uploaded by a channel"
+  "summary": "This operation triggers when a new video is uploaded by a channel."
+  "parameters":
+  - "name": "Channel Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick a channel."
+    "key": "channelId"
+  "response":
+    "singleSchema":
+      "name": "Video List"
+      "type": "VideoList"
+      "summary": "A list of YouTube videos."
+- "operationId": "OnMyNewVideo"
+  "name": "When I upload a video"
+  "summary": "This operation triggers when you upload a public or scheduled video to your channel."
+  "response":
+    "singleSchema":
+      "name": "Video List"
+      "type": "VideoList"
+      "summary": "A list of YouTube videos."
+- "operationId": "OnNewVideoMatchingSearch"
+  "name": "When a new video matches a search"
+  "summary": "This operation triggers when a new video matches a search."
+  "parameters":
+  - "name": "Query"
+    "required": true
+    "type": "string"
+    "summary": "The search query."
+    "key": "q"
+  "response":
+    "singleSchema":
+      "name": "Video List"
+      "type": "VideoList"
+      "summary": "A list of YouTube videos."
+"definitions":
+- "name": "VideoList"
+  "summary": "A list of YouTube videos."
+  "properties":
+  - "name": "Videos"
+    "type": "array of Video"
+    "summary": "List of all videos."
+    "path": "items"
+- "name": "Video"
+  "summary": "Details about a specific video."
+  "properties":
+  - "name": "Video Id"
+    "type": "string"
+    "summary": "Unique identifier of the video."
+    "path": "id"
+  - "name": "Web Link"
+    "type": "string"
+    "summary": "Hyperlink to the video."
+    "path": "htmlLink"
+  - "name": "Video Summary"
+    "type": "VideoSnippet"
+    "summary": "A short summary of a given YouTube video."
+    "path": "snippet"
+- "name": "VideoSnippet"
+  "summary": "A short summary of a given YouTube video."
+  "properties":
+  - "name": "Title"
+    "type": "string"
+    "summary": "The video's title."
+    "path": "title"
+  - "name": "Description"
+    "type": "string"
+    "summary": "The video's description."
+    "path": "description"
+  - "name": "Channel Title"
+    "type": "string"
+    "summary": "Title of the channel."
+    "path": "channelTitle"
+  - "name": "Channel Id"
+    "type": "string"
+    "summary": "Unique identifier of the channel."
+    "path": "channelId"
+  - "name": "Published Date-Time"
+    "type": "date-time"
+    "summary": "yyyy-MM-ddTHH:mm:ss.fffZ (UTC format)"
+    "path": "publishedAt"

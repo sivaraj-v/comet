@@ -1,0 +1,23 @@
+items:
+- name: Content Nav
+  href: ./content-nav/index.md
+- name: Docs
+  href: ./docs/index.md
+- name: Learn
+  href: ./learn/index.md
+- name: Community
+  href: ./community/index.md
+- name: Blogs
+  href: ./blogs/index.md
+- name: Dotnet
+  href: ./dotnet/api/CatLibrary.yml
+- name: OData
+  href: ./odata/index.md
+- name: OpenAPI
+  href: ./openapi/index.md
+- name: Profile
+  href: ./profile/index.md
+- name: QSharp
+  href: ./qsharp/index.md
+- name: Rest
+  href: ./rest/index.md

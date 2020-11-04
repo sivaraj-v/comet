@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: 'Microsoft Power Apps + Dynamics 365 Developer'
+metadata:
+  title: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+  description: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+uid: exam.mb-400-test
+displayName: MB-400
+summary: |-
+  Candidates for this exam are Developers who work with Microsoft Power Apps model-driven apps in Dynamics 365 to design, develop, secure, and extend a Dynamics 365 implementation. Candidates implement components of a solution that include application enhancements, custom user experience, system integrations, data conversions, custom process automation, and custom visualizations.
+
+  Candidates must have strong applied knowledge of Power Apps model-driven apps in Dynamics 365, including in-depth understanding of customization, configuration, integration, and extensibility, as well as boundaries and constraints. Candidates should have a basic understanding of DevOps practices for Power Apps model-driven apps in Dynamics 365. Candidates must expose, store, and report on data.
+
+  Candidates should have development experience that includes JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET, and PowerBI.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: create a technical design; configure Common Data Service (CDS); create and configure Power Apps; configure business process automation; extend the user experience; extend the platform; and develop integrations.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Create a Technical Design (10-15%)
+- Configure Common Data Service (CDS) (15-20%)
+- Create and Configure Power Apps (10-15%)
+- Configure business process automation (10-15%)
+- Extend the user experience (15-20%)
+- Extend the platform (15-20%)
+- Develop Integrations (10-15%)
+roles:
+- developer
+products:
+- dynamics
+- dynamics-customer-engagement
+exams:
+- uid: exam.mb-200-test
+courses:
+- uid: course.mb-400t00-test
+paths:
+- uid: learn-dynamics.extend-power-platform-common-data-service
+- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-dynamics.introduction-development
+- uid: learn-dynamics.extend-portals
+relatedCertifications:
+- related:
+    uid: certification.power-apps-and-d365-developer-associate-test
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Power Apps + Dynamics 365 Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

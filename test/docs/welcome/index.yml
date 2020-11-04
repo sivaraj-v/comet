@@ -1,0 +1,52 @@
+### YamlMime:Welcome
+title: Microsoft Docs
+heroTitle: docs.microsoft.com
+summary: The home for Microsoft documentation and learning for developers and technology professionals.
+searchPlaceholder: Search for articles, training, and code samples ...
+featured:
+  title: Microsoft Learn
+  supertitle: Featured
+  summary: Whether you're just starting or an experienced professional, our hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
+  imageUrl: /en-us/media/home-and-directory/docs-and-friends-selfie-stick.png?branch=master
+  links:
+    - title: Learn on your own schedule
+      supertitle: Learning paths
+      summary: Explore a topic in-depth through guided paths or learn how to accomplish a specific task through individual modules.
+      imageUrl: /en-us/media/home-and-directory/featured-learning-paths-2x.png?branch=master
+      link:
+        url: /learn/
+        text: Browse all learning options
+    - title: Become Microsoft certified
+      supertitle: Certifications
+      summary: Jump-start your career and demonstrate your achievements through industry-recognized Microsoft certifications.
+      imageUrl: /en-us/media/home-and-directory/featured-certifications-2x.png?branch=master
+      link:
+        url: /learn/certifications/
+        text: Explore Certifications
+    - title: Watch live and recorded events
+      supertitle: Learn TV
+      summary: View streaming technical content about Microsoft products from the experts that build and use it every day.
+      imageUrl: /en-us/media/home-and-directory/featured-learn-tv-2x.png?branch=master
+      link:
+        url: /learn/tv/
+        text: Start watching now
+resources:
+  title: Recommended Resources
+  links:
+    - title: Startups
+      imageUrl: /en-us/media/home-and-directory/startups-icon.svg?branch=master
+      summary: 'Stronger together: Calling Social Entrepreneurs around the globe with COVID-19 solutions.'
+      url: https://startups.microsoft.com/en-us/
+    - title: Students
+      imageUrl: /en-us/media/home-and-directory/students-icon.svg?branch=master
+      summary: Put professional developer tools and software in the hands of faculty and students.
+      url: https://azureforeducation.microsoft.com/en-us/Institutions
+    - title: Learn TV
+      imageUrl: /en-us/media/home-and-directory/learn-tv-icon.svg?branch=master
+      summary: Video content by developers and technical enthusiasts devoted to including you in the conversation.
+      url: /learn/tv/
+  addendum:
+    text: Interested in the latest announcements and updates to Microsoft Docs?
+    link:
+      text: Check out the team blog
+      url: /teamblog/

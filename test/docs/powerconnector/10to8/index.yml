@@ -1,0 +1,253 @@
+### YamlMime:PowerConnector
+# This file is auto-generated. Any manual changes will be overwritten.
+"title": "10to8 Appointment Scheduling (Preview)"
+"iconUrl": "https://connectoricons-prod.azureedge.net/10to8/icon_1.0.1285.1773.png"
+"summary": "10to8 is a powerful appointment management, communications & online booking system."
+"remarks": "This connector is available in the following products and regions: \r\n\r\nService | Class | Regions \r\n --- | --- | --- \r\n __Logic Apps__ |Standard|All [Logic Apps regions](https://azure.microsoft.com/global-infrastructure/services/?products=logic-apps&regions=all) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Azure Government regions <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Azure China regions \r\n __Power Automate__ |Standard|All [Power Automate regions](https://docs.microsoft.com/flow/regions-overview) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; US Government (GCC) <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; US Government (GCC High) \r\n __Power Apps__ |Standard|All [Power Apps regions](https://docs.microsoft.com/powerapps/administrator/regions-overview#what-regions-are-available) except the following: <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; US Government (GCC) <br> &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; US Government (GCC High) \r\n"
+"limits":
+- "name": "API calls per connection"
+  "count": 100
+  "renewalPeriod": "60 seconds"
+"moreInformation":
+- "url": "https://ms.flow.microsoft.com/en-us/blog/making-bookings-easy-with-10to8-and-flow/"
+  "text": "Making bookings easy with 10to8 and Flow"
+"metadata":
+  "title": "10to8 Appointment Scheduling"
+  "description": "10to8 is a powerful appointment management, communications & online booking system."
+"actions":
+- "operationId": "BookAppointment"
+  "name": "Book new appointment"
+  "summary": "Book a new appointment in 10to8."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  - "name": "Start Date-Time"
+    "required": true
+    "type": "date-time"
+    "summary": "(UTC format) yyyy-MM-ddTHH:mm:ss.fffZ"
+    "key": "start"
+  - "name": "End Date-Time"
+    "required": true
+    "type": "date-time"
+    "summary": "(UTC format) yyyy-MM-ddTHH:mm:ss.fffZ"
+    "key": "end"
+  - "name": "Name"
+    "required": true
+    "type": "string"
+    "summary": "Appointment name."
+    "key": "title"
+  - "name": "Description"
+    "required": true
+    "type": "string"
+    "summary": "Appointment description."
+    "key": "description"
+"triggers":
+- "operationId": "GetAppointments"
+  "name": "When a booking is made"
+  "summary": "Triggers when a new booking is made in 10to8."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "properties":
+    - "name": "Start Date-Time"
+      "type": "date-time"
+      "summary": "yyyy-MM-ddTHH:mm:ss.fffZ"
+      "path": "start"
+    - "name": "End Date-Time"
+      "type": "date-time"
+      "summary": "yyyy-MM-ddTHH:mm:ss.fffZ"
+      "path": "end"
+    - "name": "Name of Appointment"
+      "type": "string"
+      "summary": "The name or type of the appointment."
+      "path": "name"
+    - "name": "Customer's Name"
+      "type": "string"
+      "summary": "The full name of the customer."
+      "path": "customers_name"
+    - "name": "Customer's Email Address"
+      "type": "string"
+      "summary": "The email address of the customer."
+      "path": "customers_email"
+    - "name": "Customer's Phone Number"
+      "type": "string"
+      "summary": "The phone number of the customer."
+      "path": "customers_number"
+    - "name": "Appointment ID number"
+      "type": "integer"
+      "summary": "The unique identifier of the appointment in 10to8."
+      "path": "id"
+- "operationId": "GetInboxBookingRequestAppeared"
+  "name": "When a booking request appears in your inbox"
+  "summary": "Triggers when a booking request appears in your inbox."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "singleSchema":
+      "name": "Body"
+      "type": "EventProposal"
+      "summary": "A booking, change or cancellation request for a booking from a customer"
+- "operationId": "GetInboxBookingRequestDisappeared"
+  "name": "When a booking request disappears from your inbox"
+  "summary": "Triggers when a booking request disappears from your inbox."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "singleSchema":
+      "name": "Body"
+      "type": "EventProposal"
+      "summary": "A booking, change or cancellation request for a booking from a customer"
+- "operationId": "GetInboxChangeCancellationRequestAppeared"
+  "name": "When a change or cancellation request appears in your inbox"
+  "summary": "Triggers when a change or cancellation request appears in your inbox."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "singleSchema":
+      "name": "Body"
+      "type": "EventProposal"
+      "summary": "A booking, change or cancellation request for a booking from a customer"
+- "operationId": "GetInboxChangeCancellationRequestDisappeared"
+  "name": "When a change or cancellation request disappears from your inbox"
+  "summary": "Triggers when a change or cancellation request disappears from your inbox."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "singleSchema":
+      "name": "Body"
+      "type": "EventProposal"
+      "summary": "A booking, change or cancellation request for a booking from a customer"
+- "operationId": "GetCustomers"
+  "name": "When a new customer is added"
+  "summary": "Triggers when a new customer is added in 10to8."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "properties":
+    - "name": "Description"
+      "type": "string"
+      "summary": "The description of the appointment."
+      "path": "name"
+    - "name": "Customer's Email Address"
+      "type": "string"
+      "summary": "The contact email address of the customer."
+      "path": "email"
+    - "name": "Customer's Mobile Number"
+      "type": "string"
+      "summary": "The contact mobile phone number of the customer."
+      "path": "mobile_number"
+    - "name": "Customer ID Number"
+      "type": "integer"
+      "summary": "The unique identifier of the customer in 10to8."
+      "path": "id"
+- "operationId": "GetInboxIncomingMessagesAppeared"
+  "name": "When an incoming message appears in your inbox"
+  "summary": "Triggers when an incoming message appears in your inbox."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "singleSchema":
+      "name": "Body"
+      "type": "IncomingMessage"
+      "summary": "An incoming message from a customer, either by email or SMS."
+- "operationId": "GetInboxIncomingMessagesDisappeared"
+  "name": "When an incoming message disappears from your inbox"
+  "summary": "Triggers when an incoming message disappears from your inbox."
+  "parameters":
+  - "name": "Organisation Id"
+    "required": true
+    "type": "string"
+    "summary": "Pick your organisation."
+    "key": "organisation-id"
+  "response":
+    "singleSchema":
+      "name": "Body"
+      "type": "IncomingMessage"
+      "summary": "An incoming message from a customer, either by email or SMS."
+"definitions":
+- "name": "IncomingMessage"
+  "summary": "An incoming message from a customer, either by email or SMS."
+  "properties":
+  - "name": "Customer Name"
+    "type": "string"
+    "summary": "The name of the customer who sent the message."
+    "path": "from_name"
+  - "name": "Phone Number or Email Address"
+    "type": "string"
+    "summary": "The phone number or email address that the message was sent from."
+    "path": "from_contact"
+  - "name": "Message Content"
+    "type": "string"
+    "summary": "The Content of the Message."
+    "path": "content"
+  - "name": "Received at Date-Time"
+    "type": "date-time"
+    "summary": "yyyy-MM-ddTHH:mm:ss.fffZ"
+    "path": "received"
+  - "name": "Message ID"
+    "type": "integer"
+    "summary": "The unique identifier of the message in 10to8."
+    "path": "id"
+- "name": "EventProposal"
+  "summary": "A booking, change or cancellation request for a booking from a customer"
+  "properties":
+  - "name": "Customer Name"
+    "type": "string"
+    "summary": "The name of the customer who made the request."
+    "path": "from_name"
+  - "name": "Email Address or Phone Number"
+    "type": "string"
+    "summary": "The phone number or email address of the customer who made the request."
+    "path": "from_contact"
+  - "name": "Appointment Name"
+    "type": "string"
+    "summary": "The name of the appointment."
+    "path": "appointment_name"
+  - "name": "Appointment Start Date-Time"
+    "type": "date-time"
+    "summary": "yyyy-MM-ddTHH:mm:ss.fffZ"
+    "path": "appointment_start"
+  - "name": "Request Received Date-Time"
+    "type": "date-time"
+    "summary": "yyyy-MM-ddTHH:mm:ss.fffZ"
+    "path": "received"
+  - "name": "Type of Request"
+    "type": "string"
+    "summary": "Booking, rebooking or cancellation."
+    "path": "type"
+  - "name": "Request ID Number"
+    "type": "integer"
+    "summary": "The unique identifier of the request in 10to8."
+    "path": "id"
+    

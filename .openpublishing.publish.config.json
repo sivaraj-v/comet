@@ -1,37 +1,110 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "v-haiboz",
-      "build_source_folder": "v-haiboz",
-      "build_output_subfolder": "v-haiboz",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    }
-  ],
-  "notification_subscribers": [],
-  "sync_notification_subscribers": [],
-  "branches_to_filter": [],
-  "skip_source_output_uploading": false,
-  "need_preview_pull_request": true,
-  "contribution_branch_mappings": {},
-  "dependent_repositories": [
-    {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
-      "branch_mapping": {}
-    }
-  ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  }
+	"build_entry_point": "docs",
+	"need_generate_pdf": false,
+	"need_generate_pdf_url_template": false,
+	"need_generate_intellisense": false,
+	"need_preview_pull_request": true,
+	"docsets_to_publish": [
+		{
+			"docset_name": "test",
+			"build_source_folder": "test",
+			"build_output_subfolder": "en-us/test",
+			"locale": "en-us",
+			"version": 0,
+			"open_to_public_contributors": false,
+			"xref_query_tags": [
+				"/dotnet",
+				"/cli/azure"
+			],
+			"type_mapping": {
+				"Achievements": "Toc",
+				"Architecture": "Content",
+				"Assessment": "Toc",
+				"AssessmentsHome": "Content",
+				"AzureCLIGroup": "Content",
+				"Banner": "Toc",
+				"Certification": "Content",
+				"CertificationHome": "Content",
+				"CertificationRenewal": "Content",
+				"Challenge": "Content",
+				"Conceptual": "Content",
+				"ContentBrowser": "Content",
+				"ContentNav": "Toc",
+				"ContextObject": "Toc",
+				"Course": "Content",
+				"EmailOptInPreferences": "Toc",
+				"Examination": "Content",
+				"ExamPricing": "Toc",
+				"FAQ": "Content",
+				"Hub": "Content",
+				"LandingData": "Content",
+				"LearnHome": "Content",
+				"LearningPath": "Content",
+				"LearnProduct": "Content",
+				"LearnTV": "Content",
+				"Lifecycle": "Content",
+				"LocaleList": "Content",
+				"Module": "Content",
+				"ModuleAvailability": "Toc",
+				"ModuleUnit": "Content",
+				"NetDelegate": "Content",
+				"NetEnum": "Content",
+				"NetMember": "Content",
+				"NetNamespace": "Content",
+				"NetType": "Content",
+				"Odata": "Content",
+				"OdataIndex": "Content",
+				"OpenAPIGroup": "Content",
+				"OpenAPIOperation": "Content",
+				"OpenAPIType": "Content",
+				"PowerConnector": "Content",
+				"PowershellCmdlet": "Content",
+				"PowershellModule": "Content",
+				"Profile": "Content",
+				"ProfileList": "Content",
+				"QSharpNamespace": "Content",
+				"QSharpType": "Content",
+				"Quiz": "Toc",
+				"RESTOperation": "Content",
+				"Role": "Content",
+				"Sample": "Content",
+				"SurveyQuestions": "Toc",
+				"TopicLanding": "Content",
+				"Tutorial": "Content",
+				"Twitter": "Content",
+				"ZonePivotGroups": "Toc",
+				"ReferenceContainer": "Content",
+				"Directory": "Content",
+				"Welcome": "Content",
+				"RecertificationExam": "Content"
+			},
+			"template_folder": "_themes",
+			"customized_tasks": {
+				"docset_postbuild": [
+					"_dependentPackages/CommonPlugins/tools/TripleCrownValidation.ps1"
+				]
+			},
+			"build_entry_point": "docs"
+		}
+	],
+	"notification_subscribers": [],
+	"branches_to_filter": [],
+	"skip_source_output_uploading": false,
+    "dependent_repositories": [
+        {
+          "path_to_root": "_themes",
+          "url": "https://github.com/Microsoft/templates.docs.msft",
+          "branch": "develop",
+          "branch_mapping": {}
+        }
+      ],
+	  "dependent_packages": [
+		{
+			"id": "Microsoft.OpenPublishing.CommonPlugins",
+			"nuget_feed": "https://www.myget.org/F/op/api/v2",
+			"path_to_root": "_dependentPackages/CommonPlugins",
+			"target_framework": "net45",
+			"version": "latest"
+		}
+	]
 }

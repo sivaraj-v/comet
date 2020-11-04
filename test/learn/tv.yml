@@ -1,0 +1,94 @@
+### YamlMime:LearnTV
+videoSection:
+  noSchedule: false
+  backgroundImage:
+    alt: ""
+    src: ../media/learnTV/learnTV-bg.png?branch=master
+  video:
+    title: Live Video test
+    href: https://mediastream.microsoft.com/events/2020/MSLearn/player/MSLearn.html
+    isSpecialWidePlayer: false
+
+aboutSection:
+  title: Microsoft Learn Live
+  summary: Learn how to build solutions and use Microsoft products from the experts that built them! Microsoft Learn Live is the place to find the latest digital content so you can always keep updated on the latest announcements, features and products from Microsoft.
+
+featuredContentSection:
+  title: Featured Content
+  items:
+  - image:
+      alt: alt for card 1
+      src: ../media/learnTV/Build.png?branch=master
+    title: Test Card Title 1
+    summary: Test card summary 1
+    href: https://bing.com
+    durationInSeconds: 10
+  - image:
+      alt: alt for card 2
+      src: ../media/learnTV/DevOpLabs.png?branch=master
+    title: Test Card Title 2
+    summary: test card summary 3  test card summary 3 test card summary 3 test card summary 3 test card summary 3 test card summary 3
+    href: https://bing.com
+    durationInSeconds: 65
+  - image:
+      alt: alt for card 3
+      src: ../media/learnTV/IOTShow.png?branch=master
+    title: Test Card Title 3
+    summary: test card summary 3
+    href: https://bing.com
+    durationInSeconds: 256
+  - image:
+      alt: alt for card 4
+      src: ../media/learnTV/OnDotNet.png?branch=master
+    title: Test Card Title 4
+    summary: test card summary 4
+    href: https://bing.com
+    durationInSeconds: 658
+  - image:
+      alt: alt for card 5
+      src: ../media/learnTV/VisualStudioToolbox.png?branch=master
+    title: Test Card Title 5
+    summary: test card summary 5
+    href: https://bing.com
+    durationInSeconds: 3657
+  - image:
+      alt: alt for card 6
+      src: ../media/learnTV/VisualStudioToolbox.png?branch=master
+    title: Test Card Title 6
+    summary: test card summary 6
+    href: https://bing.com
+    durationInSeconds: 4504
+  - image:
+      alt: alt for card 7
+      src: ../media/learnTV/OnDotNet.png?branch=master
+    title: Test Card Title 7
+    summary: test card summary 7
+    href: https://bing.com
+  - image:
+      alt: alt for card 8
+      src: ../media/learnTV/IOTShow.png?branch=master
+    title: Test Card Title 8
+    summary: test card summary 8
+    href: https://bing.com
+  - image:
+      alt: alt for card 9
+      src: ../media/learnTV/DevOpLabs.png?branch=master
+    title: Test Card Title 9
+    summary: test card summary 9
+    href: https://bing.com
+  - image:
+      alt: alt for card 10
+      src: ../media/learnTV/Build.png?branch=master
+    title: Test Card Title 10
+    summary: test card summary 10
+    href: https://bing.com
+
+browseMoreSection:
+  title: Browse more videos on Channel 9
+  href: https://channel9.msdn.com
+
+twitterHashtag: learnTV
+
+metadata:
+  author: geoffrk
+  activeMenuId: learn-tv

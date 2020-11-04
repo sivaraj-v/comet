@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals (beta)
+metadata:
+  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals (beta)'
+  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals (beta)'
+uid: exam.mb-901-test
+displayName: MB-901
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>The content of this exam was updated on January 21, 2020. Please download the skills measured document below to see what changed.<br/><br/></div>
+
+  This exam is designed for candidates who want to validate foundational knowledge of Microsoft Dynamics 365 and the cloud computing model. This exam covers the considerations and benefits of adopting Dynamics 365 and cloud services in general. This exam covers cloud security; the role-based security model in Dynamics 365; and how, and with which products, both the model-driven apps and the Finance and Operations apps integrate. This exam can be taken as a precursor to other Dynamics 365 certifications and training.
+
+  Candidates for this exam should have general knowledge or relevant working experience in an Information Technology (IT) environment. Candidates should also have a basic understanding of business scenarios and experience in addressing business, legal, and security requirements for IT projects.
+subTitle: This exam measures your ability to understand Microsoft Dynamics 365; artificial intelligence (AI); mixed reality (MR); the Power Platform; cloud concepts; cloud security; role-based security in Dynamics 365; Common Data Service; data management framework; Dynamics 365 reporting; Dynamics 365 integrations; and cloud deployment.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+locales:
+- en
+levels:
+- beginner
+skills:
+- The content of this exam was updated on January 21, 2020. Please download the skills measured document below to see what changed.
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Identify Microsoft platform components for Dynamics 365 (30-35%)
+- Understand AI and mixed reality for Dynamics 365 (10-15%)
+- Understand customer engagement apps (25-30%)
+- Understand Dynamics 365 Finance and Operations apps (25-30%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+courses:
+- uid: course.mb-901t00-test
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals-test
+resources:
+- title: Certification learning path
+  description: 'Discover training resources to become a Microsoft Certified: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md

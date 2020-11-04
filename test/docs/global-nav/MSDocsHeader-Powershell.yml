@@ -1,0 +1,18 @@
+### YamlMime:ContentNav
+
+category:
+  href: /powershell
+  title: PowerShell
+items:
+  - href: /powershell/module
+    title: Module Browser
+  - href: /dotnet/api/?view=powershellsdk-7.0.0
+    title: API Reference
+  - href: https://code.visualstudio.com/docs/languages/powershell
+    title: VS Code Extension
+  - href: http://www.powershellgallery.com/
+    title: PowerShell Gallery
+callToAction:
+  primary:
+    href: https://github.com/PowerShell/PowerShell/releases/latest
+    title: Download PowerShell

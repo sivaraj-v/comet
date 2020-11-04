@@ -1,0 +1,22 @@
+### YamlMime:Banner
+banners:
+    - uid: 'development-in-progress-isolated'
+      content:
+          text: 'You may experience reduced functionality with empty pages and broken links. Development is in progress to improve your experience.'
+      location: 'sectional'
+      scope:
+          accessLevels:
+              - 'isolated'
+          paths:
+              - '/learn/browse/'
+              - '/learn/certifications/browse/'
+              - '/samples/browse/'
+              - '/lifecycle/products/'
+              - '/dotnet/api/'
+              - '/javascript/api/'
+              - '/java/api/'
+              - '/powershell/module/'
+              - '/python/api/'
+              - '/rest/api/'
+          startDate: '2020-10-01T05:00:00-04:00'
+          endDate: '2021-07-18T05:00:00-04:00'

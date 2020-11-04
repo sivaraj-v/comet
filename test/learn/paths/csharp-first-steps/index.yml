@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-test.languages.csharp-first-steps
+hidden: true
+metadata:
+  title: Take your first steps with C#
+  description: Interested in learning a programming language but aren't sure where to start?  Start here!  Learn the basic syntax and thought processes required to build simple applications using C#.
+  brand: azure
+  ms.date: 10/30/2019
+  author: bobtabor-msft
+  ms.author: rotabor
+  #ms.learn-contact: rotabor
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Take your first steps with C#
+summary: |
+  Interested in learning a programming language but aren't sure where to start?  Start here!  Learn the basic syntax and thought processes required to build simple applications using C#.
+
+  In this learning path, you'll:
+    - Write your first lines of C# code
+    - Store and manipulate data to modify its type and appearance
+    - Execute built-in functionality available from libraries of code
+    - Add logic to your code to enable complex business functionality
+  
+  Once you complete this learning path, you will have a great foundation to build upon in subsequent C# Learning Paths.
+prerequisites: None
+iconUrl: /learn/achievements/generic-trophy.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- dotnet
+modules:
+- learn-test.languages.csharp-write-first
+- learn-test.languages.csharp-arrays
+trophy:
+  uid: learn-test.languages.csharp-first-steps.trophy

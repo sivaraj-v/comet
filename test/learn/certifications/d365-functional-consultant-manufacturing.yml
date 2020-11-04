@@ -1,0 +1,67 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+  description: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants integrate digital and physical systems; improve visibility, manufacturing efficiency, and flexibility; and lower costs for their clients.'
+uid: certification.d365-functional-consultant-manufacturing-test
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+   Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants integrate digital and physical systems; improve visibility, manufacturing efficiency, and flexibility; and lower costs for their clients.
+subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants integrate digital and physical systems; improve visibility, manufacturing efficiency, and flexibility; and lower costs for their clients.'
+levels:
+- intermediate
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Use common functionality and implementation tools
+- Configure security, processes, and options
+- Perform data migration
+- Validate and support the solution
+- Set up and configure manufacturing
+- Create and manage production and lean orders
+- Create, process, and manage production batch orders
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics
+- dynamics-finance-operations
+courses:
+- uid: course.mb-300t01-test
+- uid: course.mb-300t02-test
+- uid: course.mb-300t03-test
+- uid: course.mb-320t01-test
+- uid: course.mb-320t02-test
+- uid: course.mb-320t03-test
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+- uid: learn-dynamics.configure-and-use-discrete-manufacturing-in-d365-finance-ops
+- uid: learn-dynamics.configure-and-use-process-manufacturing-in-d365-finance-ops
+- uid: learn-dynamics.configure-and-use-lean-manufacturing-in-d365-finance-ops
+- uid: learn-dynamics.use-warehouse-in-manufacturing-dyn365-fo
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUX
+exams:
+- uid: exam.mb-300-test
+- uid: exam.mb-320-test
+resources:
+- title: Certification learning path
+  description: 'Discover training resources to become a Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: deals.md
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx

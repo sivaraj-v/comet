@@ -1,0 +1,58 @@
+### YamlMime:ContentNav
+
+category:
+  href: /windows/mixed-reality/
+  title: Mixed Reality
+items:
+  - title: Products
+    items:
+      - href: /hololens/
+        title: HoloLens
+      - href: /windows/mixed-reality/enthusiast-guide/
+        title: Windows Mixed Reality
+      - href: /windows/mixed-reality/whats-new/azure-services
+        title: Azure mixed reality services
+      - href: /dynamics365/mixed-reality/
+        title: Dynamics 365 mixed reality 
+  - title: Developers
+    items:
+      - href: /windows/mixed-reality/discover/get-started-with-mr#understand-the-basics
+        title: Discover
+      - href: /windows/mixed-reality/design/design
+        title: Design
+      - href: /windows/mixed-reality/develop/development?tabs=unity
+        title: Develop
+  - title: IT Pros
+    items:
+      - href: /hololens/hololens-requirements
+        title: Prepare
+      - href: /hololens/hololens-identity
+        title: Configure
+      - href: /hololens/hololens-enroll-mdm
+        title: Deploy
+      - href: /hololens/hololens-updates
+        title: Maintain
+  - title: VR Enthusiasts
+    items:
+      - href: /windows/mixed-reality/enthusiast-guide/before-you-buy-faqs
+        title: Before you buy
+      - href: /windows/mixed-reality/enthusiast-guide/before-you-start
+        title: Getting started
+      - href: /windows/mixed-reality/enthusiast-guide/learn-mixed-reality
+        title: Use your device
+  - title: Support
+    items:
+      - href: https://holodevelopersslack.azurewebsites.net/
+        title: HoloDevelopers Slack
+      - href: https://support.microsoft.com/supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f
+        title: HoloLens Support
+      - href: /windows/mixed-reality/enthusiast-guide/troubleshooting-windows-mixed-reality
+        title: Troubleshoot Windows Mixed Reality
+      - href: https://partner.microsoft.com/en-us/dashboard/home
+        title: Partner Dashboard
+      - href: https://www.microsoft.com/en-us/hololens/developers
+        title: Join the developer program
+callToAction:
+  primary: 
+    href: https://www.microsoft.com/en-us/hololens
+    title: Get HoloLens

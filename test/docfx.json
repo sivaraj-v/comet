@@ -1,0 +1,150 @@
+﻿{
+	"build": {
+		"content": [
+			{
+				"src": "azure",
+				"files": [
+					"**/*.yml"
+				],
+				"dest": "modules"
+			},
+			{
+				"files": [
+					"**/*.md",
+					"**/swagger/*.json",
+					"**/*.yml",
+					"context/*.yml"
+				],
+				"exclude": [
+					"**/obj/**",
+					"test/**",
+					"**/includes/**"
+				]
+			}
+		],
+		"resource": [
+			{
+				"files": [
+					"**/*.png",
+					"**/*.svg",
+					"**/*.jpg",
+					"**/breadcrumb.json",
+					"**/assessment.json",
+					"**/rest-products.json",
+					"**/recommendations.json"
+				],
+				"exclude": [
+					"**/obj/**",
+					"test/**",
+					"**/includes/**"
+				]
+			}
+		],
+		"globalMetadata": {
+			"open_to_public_contributors": true,
+			"searchScope": [
+				"Team Foundation Server"
+			],
+			"extendBreadcrumb": true,
+			"breadcrumb_path": "/test/breadcrumb.json",
+			"brand": "dynamics",
+			"apiPlatform": "dotnet",
+			"feedback_system": "GitHub",
+			"feedback_github_repo": "MicrosoftDocs/SamplesPages",
+			"feedback_product_url": "mailto://duncanma@microsoft.com",
+			"pdf_url_template": "https://docs.microsoft.com/pdfstore/en-us/VS.core-docs/{branchName}{pdfName}",
+			"recommendations": true
+		},
+		"markdownEngineName": "markdig",
+		"overwrite": [],
+		"externalReference": [],
+		"fileMetadata": {
+			"open_to_public_contributors": {
+				"profile/**/*.md": false,
+				"docs/architecture/*.yml": false
+			},
+			"brand": {
+				"rest/**/*": [
+					"azure"
+				]
+			},
+			"featureFlags": {
+				"docs/tutorial/**/*.yml": [
+					"enable_tutorial_feedback"
+				],
+				"docs/banners/learn-banner/**/*.md": [
+					"show_learn_banner",
+					"show_binary_rating"
+				],
+				"docs/banners/build-banner/**/*.md": [
+					"show_star_rating"
+				]
+			},
+			"searchScope": {
+				"docs/conceptual/**/*.md": [
+					".NET"
+				]
+			},
+			"uhfHeaderId": {
+				"learn/**/*": [
+					"MSDocsHeader-Learn"
+				],
+				"community/*": [
+					"MSDocsHeader-Advocates"
+				],
+				"dotnet/**/*": [
+					"MSDocsHeader-DotNet"
+				],
+				"openapi/**/*": [
+					"MSDocsHeader-DotNet"
+				],
+				"odata/**/*": [
+					"MSDocsHeader-DotNet"
+				],
+				"rest/**/*": [
+					"azure"
+				]
+			},
+			"learn_banner_products": {
+				"docs/banners/learn-banner/azure-virtual-machines/**/*.md": [
+					"azure-virtual-machines"
+				]
+			},
+			"latex_macros": {
+				"qsharp/*.*": {
+					"ket": [
+						"\\left| #1\\right\\rangle",
+						1
+					],
+					"bra": [
+						"\\left\\langle #1\\right|",
+						1
+					],
+					"braket": [
+						"\\left\\langle #1 \\right\\rangle",
+						1
+					],
+					"id": "\\mathbb{1}",
+					"boldone": "\\mathbf{1}",
+					"expect": "\\mathbb{E}",
+					"variance": "\\operatorname{Var}",
+					"defeq": "\\mathrel{:=}",
+					"dd": "\\mathrm{d}"
+				}
+			}
+		},
+		"template": [],
+		"dest": "test",
+		"groups": {
+			"vs-2015": {
+				"moniker_range": "vs-2015",
+				"dest": "vs-2015-dest"
+			},
+			"vs-2017-2019": {
+				"moniker_range": ">= vs-2017",
+				"dest": "vs-2017-2019-dest"
+			}
+		},
+		"monikerDefinition": "../monikers.json"
+	}
+}

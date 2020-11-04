@@ -1,0 +1,13 @@
+### YamlMime:ReferenceContainer
+uid: Microsoft.ServicePage.SDP.TestPage
+name: Service Page Test
+fullName: Microsoft Service Page Test
+children:
+  - uid: CatLibrary.Cat`2.Age
+    name: Age Property
+  - uid: CatLibrary.Cat`2.#ctor*
+  - uid: CatLibrary.Cat`2
+    name: Cat<T,K> Class
+pageType: service
+metadata:
+  open_to_public_contributors: false

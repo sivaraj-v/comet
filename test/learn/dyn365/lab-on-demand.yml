@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-dynamic-test.configure-perform-procure-to-purchase-in-dynamics-365-finance-ops.11-exercise-create-purchase-policies 
+title: Lab - Create purchase policies
+labId: 64202
+metadata: 
+  title: Lab - Create purchase policies 
+  description: Practice creating purchase policies in Supply Chain Management.
+  ms.date: 03/30/2019 
+  author: cstorega 
+  ms.author: cstorega 
+  ms.topic: interactive-tutorial 
+  ms.prod: learning-d365-finance-operations 
+durationInMinutes: 10
+content: |
+  [!include[](includes/unit-banner.md)]
+  [!include[](includes/accessing-labs.md)]
+  [!include[](includes/11-exercise-create-purchase-policies.md)] 

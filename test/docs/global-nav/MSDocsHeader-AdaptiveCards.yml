@@ -1,0 +1,16 @@
+### YamlMime:ContentNav
+
+category:
+  href: /adaptive-cards/
+  title: Adaptive Cards
+items:
+  - href: https://adaptivecards.io/explorer/
+    title: Schema Explorer
+  - href: https://adaptivecards.io/samples/
+    title: Sample Cards
+  - href: https://adaptivecards.io/blog/
+    title: Blog
+callToAction:
+  primary:
+    href: https://adaptivecards.io/designer
+    title: Open Card Designer

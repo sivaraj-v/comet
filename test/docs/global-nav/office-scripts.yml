@@ -1,0 +1,24 @@
+### YamlMime:ContentNav
+
+category:
+  href: /office/dev/scripts
+  title: Office Scripts
+items:
+  - href: /office/dev/scripts/tutorials/excel-tutorial
+    title: Tutorials
+  - href: /office/dev/scripts/resources/excel-samples
+    title: Samples
+  - href: /javascript/api/office-scripts/overview
+    title: API Reference
+  - href: https://developer.microsoft.com/office/gallery/?filterBy=&search=%22office%20scripts%22
+    title: Resources
+  - title: Developer Program
+    items:
+      - href: https://developer.microsoft.com/microsoft-365/dev-program
+        title: Join Now
+      - href: https://developer.microsoft.com/microsoft-365/profile
+        title: My Dashboard
+      - href: /office/developer-program/office-365-developer-program
+        title: Dev Program Docs
+      - href: /office/developer-program/office-365-developer-program-faq
+        title: FAQ

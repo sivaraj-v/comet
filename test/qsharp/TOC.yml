@@ -1,0 +1,15 @@
+- name: Index
+  href: index.md
+- name: QSharp conceptual pages
+  href:  ./conceptual/mathjax.md
+- name: QSharp content pages
+  items:
+  - name: Microsoft.Quantum.Math
+    uid: microsoft.quantum.math
+  - name: QuantumROM
+    uid: microsoft.quantum.preparation.quantumrom
+  - name: SignedLittleEndian
+    uid: microsoft.quantum.arithmetic.signedlittleendian
+  - name: Message
+    uid: microsoft.quantum.intrinsic.message
+

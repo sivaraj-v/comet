@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: Microsoft 365 Fundamentals
+metadata:
+  title: 'Exam MS-900: Microsoft 365 Fundamentals'
+  description: 'Exam MS-900: Microsoft 365 Fundamentals'
+uid: exam.ms-900-test
+displayName: MS-900
+summary: |-
+  This exam is designed for candidates looking to demonstrate foundational knowledge on the considerations and benefits of adopting cloud services in general and the Software as a Service (SaaS) cloud model. This exam also covers knowledge of available options and benefits gained by implementing Microsoft 365 cloud service offerings.
+
+  This exam can be taken as a precursor to cloud computing and technologies exams, such as Office 365, Microsoft Intune, Azure Information Protection (AIP), and Windows 10.
+subTitle: Prove that you understand cloud concepts; core Microsoft 365 services and concepts; security, compliance, privacy, and trust in Microsoft 365; and Microsoft 365 pricing and support.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
+practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+locales:
+- en
+- ja
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
+- beginner
+skills:
+- 'NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.'
+- Understand cloud concepts (15-20%)
+- Understand core Microsoft 365 services and concepts (30-35%)
+- Understand security, compliance, privacy, and trust in Microsoft 365 (25-30%)
+- Understand Microsoft 365 pricing and support (25-30%)
+roles:
+- administrator
+products:
+- m365
+- windows
+- office-365
+courses:
+- uid: course.ms-900t01-test
+paths:
+- uid: learn-m365.microsoft-365-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.microsoft-365-fundamentals-test
+resources:
+- title: Certification Learning Path
+  description: 'Discover training resources to become a Microsoft Certified: Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Learn more about requesting an accommodation for your exam.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Exam policies and FAQs
+  description: Review the exam policies and frequently asked questions.
+  href: ../certification-exam-policies.md
+

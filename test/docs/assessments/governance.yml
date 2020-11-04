@@ -1,0 +1,49 @@
+### YamlMime:Assessment
+id: governance
+locale: en-us
+title: Governance Benchmark
+description: Identify gaps in your organizations current state of governance. Get a personalized benchmark report and curated guidance on how to get started. 30 mins]
+version: '0'
+categories:
+- isRequired: true
+  id: intro
+  title: Introduction
+  description: Defining your goals and mapping your vision will enable your organization to have a clear focus and move forward strategically in the right direction. Get started by telling us about your vision for the future. .
+  questions:
+  - type: singleSelect
+    id: '1'
+    title: Which of the following is most important to accomplish?
+    choices:
+    - id: A
+      text: Optimizing operations to reduce costs
+    - id: B
+      text: Engaging customers with improved digital experiences
+    - id: C
+      text: Transforming products and services to drive new revenue opportunities
+    - id: D
+      text: Empowering employees to improve agility
+guidance: 
+  title: Understanding your cloud adoption journey,
+  description: Successfully cloud adoption requires a clear understanding of your current state and what business objectives you want to achieve. This report will help you identify your cloud adoption needs based on the questions your assessment survey answers.,
+  nextSteps: 
+      title: Recommended next steps,
+      steps: 
+        - title: Complete Governance Assessment,
+          description: Governance Assessment will help you identify gaps in your organization across six key domains as defined in the Microsoft Cloud Adoption Framework.,
+          links: 
+                - text: Take the assessment,
+                  url: /en-us/assessments/
+  recommendation:
+    title: Your migration readiness assessment,
+    categories: 
+            - id: business,
+              title: Business Strategy,
+              description: Defining business justification and expected outcomes will set you up for success.,
+              iconUrl: /azure/cloud-adoption-framework/_images/caf-strategy.png,
+              links: 
+                - text: Azure pricing calculator,
+                  url: https://azure.microsoft.com/en-us/pricing/calculator/,
+                  anyOf: 
+                    - business.1.A,
+                      business.1.B,
+                      business.1.C

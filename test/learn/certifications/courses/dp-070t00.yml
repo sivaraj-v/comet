@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Migrate Open Source Data Workloads to Azure
+metadata:
+  title: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
+  description: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
+uid: course.dp-070t00-test
+courseNumber: 'DP-070T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Migrate on-premises MySQL to Azure SQL DB for MySQL
+- skill: Migrate on-premises PostgreSQL to Azure SQL DB for PostgreSQL
+learningPartnersLink: https://www.microsoft.com/en-us/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  This course will enable the students to understand Azure SQL Database, and educate the students on what is required to migrate MySQL and PostgreSQL workloads to Azure SQL Database.
+
+  #### Audience profile
+  The primary audience for this course is database developers who plan to migrate their MySQL or Postgres DB workloads to Azure SQL DB.
+  The secondary audience for this course is MySQL/Postgres administrators to raise awareness of the features and benefits of Azure SQL DB.
+prerequisitesSection: |-
+  In addition to their professional experience, students who attend this training should already have the following technical knowledge&#58;
+  - Some knowledge of open source relational database management systems such as Postgres and/or MySQL, SQL administration, backup and recovery techniques i.e. dumping table data
+outlineSection: |-
+  ### Module  1&#58; Migrate to Azure SQL DB for MySQL & PostgreSQL
+  This module describes the benefits and architecture of Azure SQL DB.
+  #### Lessons
+  - OSS databases overview
+  - Common OSS database workloads
+  - Customer challenges in migration
+
+
+  #### Lab &#58; Creating source OSS databases
+  - Installation of Postgres migration DB server
+  - Installation of MySQL migration DB server
+  - Backups / data dumps from Postgres / MySQL
+  - Restore from data dumps
+
+  At the end of this module, the students will be able to&#58;
+  - OSS databases overview
+  - Common OSS database workloads
+  - Customer challenges in migration
+
+
+  ### Module  2&#58; Migrate on-premises MySQL to Azure SQL DB for MySQL
+  This module describes the benefits and process of migrating MySQL workloads to Azure SQL DB
+  #### Lessons
+  - Configure and Manage Azure SQL DB for MySQL
+  - Migrate on-premises MySQL to SQL DB for MySQL
+  - Application Migration
+  - Post-migration considerations
+
+
+  #### Lab &#58; Migrating MySQL DB Workloads to Azure SQL DB
+  - Migrating MySQL DB Workloads to Azure SQL DB
+  - Define Source and Target DBs
+  - Perform Migration
+  - Verify Migration
+
+  At the end of this module, the students will be able to&#58;
+  - Configure and Manage Azure SQL DB for MySQL
+  - Migrate on-premises MySQL to SQL DB for MySQL
+  - Application Migration
+  - Post-migration considerations
+
+
+  ### Module  3&#58; Migrate on-premises PostgreSQL to Azure SQL DB for PostgreSQL
+  This module describes the benefits and process of migrating PostgreSQL DB workloads to Azure SQL DB
+  #### Lessons
+  - Configure and Manage Azure SQL DB for PostgreSQL
+  - Migrate on-premises MySQL to SQL DB for PostgreSQL
+  - Application Migration
+  - Post-migration considerations
+
+
+  #### Lab &#58; Migrating PostgreSQL DB Workloads to Azure SQL DB
+  - Configure Azure SQL DB for PostgreSQL
+  - Define Source and Target DBs
+  - Perform Migration
+  - Verify Migration
+
+  At the end of this module, the students will be able to&#58;
+  - Configure and Manage Azure SQL DB for PostgreSQL
+  - Migrate on-premises MySQL to SQL DB for PostgreSQL
+  - Application Migration
+  - Post-migration considerations
+
+  #### Additional Reading
+  
+  No additional reading is required to take this course

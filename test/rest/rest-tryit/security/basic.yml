@@ -1,0 +1,840 @@
+### YamlMime:RESTOperation
+uid: rest-sandbox.security.basic
+name: Query
+service: Test
+groupName: Test History
+apiVersion: 5.0-preview.1
+summary: Get history of a test method using TestHistoryQuery
+consumes:
+- application/json
+produces:
+- application/json
+paths:
+- content: POST https://dev.azure.com/{organization}/{project}/_apis/test/Results/testhistory?api-version=5.0-preview.1
+uriParameters:
+- name: organization
+  in: path
+  isRequired: true
+  description: The name of the Azure DevOps organization.
+  types:
+  - uid: string
+- name: project
+  in: path
+  isRequired: true
+  description: Project ID or project name
+  types:
+  - uid: string
+- name: api-version
+  in: query
+  isRequired: true
+  description: Version of the API to use.  This should be set to '5.0-preview.1' to use this version of the api.
+  types:
+  - uid: string
+responses:
+- name: 200 OK
+  description: successful operation
+  types:
+  - uid: TestHistoryQuery
+requestBody:
+- name: default
+  parameters:
+  - name: automatedTestName
+    in: body
+    description: Automated test name of the TestCase.
+    types:
+    - uid: string
+  - name: branch
+    in: body
+    description: Results to be get for a particular branches.
+    types:
+    - uid: string
+  - name: buildDefinitionId
+    in: body
+    description: Get the results history only for this BuildDefinationId. This to get used in query GroupBy should be Branch. If this is provided, Branch will have no use.
+    types:
+    - uid: integer
+  - name: continuationToken
+    in: body
+    description: It will be filled by server. If not null means there are some results still to be get, and we need to call this REST API with this ContinuousToken.
+    types:
+    - uid: string
+  - name: groupBy
+    in: body
+    description: Group the result on the basis of TestResultGroupBy. This can be Branch, Environment or null(if results are fetched by BuildDefinitionId)
+    types:
+    - uid: TestResultGroupBy
+  - name: maxCompleteDate
+    in: body
+    description: History to get between time interval MaxCompleteDate and  (MaxCompleteDate - TrendDays). Default is current date time.
+    types:
+    - uid: string
+  - name: releaseEnvDefinitionId
+    in: body
+    description: Get the results history only for this ReleaseEnvDefinitionId. This to get used in query GroupBy should be Environment.
+    types:
+    - uid: integer
+  - name: resultsForGroup
+    in: body
+    description: List of TestResultHistoryForGroup which are grouped by GroupBy
+    types:
+    - uid: TestResultHistoryForGroup
+      isArray: true
+  - name: trendDays
+    in: body
+    description: Number of days for which history to collect. Maximum supported value is 7 days. Default is 7 days.
+    types:
+    - uid: integer
+requestHeader: []
+definitions:
+- name: TestResultHistoryForGroup
+  description: List of test results filtered on the basis of GroupByValue
+  kind: object
+  properties:
+  - name: displayName
+    description: Display name of the group.
+    types:
+    - uid: string
+  - name: groupByValue
+    description: Name or Id of the group identifier by which results are grouped together.
+    types:
+    - uid: string
+  - name: results
+    description: List of results for GroupByValue
+    types:
+    - uid: TestCaseResult
+      isArray: true
+- name: TestHistoryQuery
+  description: Filter to get TestCase result history.
+  kind: object
+  properties:
+  - name: automatedTestName
+    description: Automated test name of the TestCase.
+    types:
+    - uid: string
+  - name: branch
+    description: Results to be get for a particular branches.
+    types:
+    - uid: string
+  - name: buildDefinitionId
+    description: Get the results history only for this BuildDefinationId. This to get used in query GroupBy should be Branch. If this is provided, Branch will have no use.
+    types:
+    - uid: integer
+  - name: continuationToken
+    description: It will be filled by server. If not null means there are some results still to be get, and we need to call this REST API with this ContinuousToken.
+    types:
+    - uid: string
+  - name: groupBy
+    description: Group the result on the basis of TestResultGroupBy. This can be Branch, Environment or null(if results are fetched by BuildDefinitionId)
+    types:
+    - uid: TestResultGroupBy
+  - name: maxCompleteDate
+    description: History to get between time interval MaxCompleteDate and  (MaxCompleteDate - TrendDays). Default is current date time.
+    types:
+    - uid: string
+  - name: releaseEnvDefinitionId
+    description: Get the results history only for this ReleaseEnvDefinitionId. This to get used in query GroupBy should be Environment.
+    types:
+    - uid: integer
+  - name: resultsForGroup
+    description: List of TestResultHistoryForGroup which are grouped by GroupBy
+    types:
+    - uid: TestResultHistoryForGroup
+      isArray: true
+  - name: trendDays
+    description: Number of days for which history to collect. Maximum supported value is 7 days. Default is 7 days.
+    types:
+    - uid: integer
+- name: TestCaseResult
+  description: Represents a test result.
+  kind: object
+  properties:
+  - name: afnStripId
+    description: Test attachment ID of action recording.
+    types:
+    - uid: integer
+  - name: area
+    description: Reference to area path of test.
+    types:
+    - uid: ShallowReference
+  - name: associatedBugs
+    description: Reference to bugs linked to test result.
+    types:
+    - uid: ShallowReference
+      isArray: true
+  - name: automatedTestId
+    description: ID representing test method in a dll.
+    types:
+    - uid: string
+  - name: automatedTestName
+    description: Fully qualified name of test executed.
+    types:
+    - uid: string
+  - name: automatedTestStorage
+    description: Container to which test belongs.
+    types:
+    - uid: string
+  - name: automatedTestType
+    description: Type of automated test.
+    types:
+    - uid: string
+  - name: automatedTestTypeId
+    description: ''
+    types:
+    - uid: string
+  - name: build
+    description: Shallow reference to build associated with test result.
+    types:
+    - uid: ShallowReference
+  - name: buildReference
+    description: Reference to build associated with test result.
+    types:
+    - uid: BuildReference
+  - name: comment
+    description: Comment in a test result.
+    types:
+    - uid: string
+  - name: completedDate
+    description: Time when test execution completed.
+    types:
+    - uid: string
+  - name: computerName
+    description: Machine name where test executed.
+    types:
+    - uid: string
+  - name: configuration
+    description: Test configuration of a test result.
+    types:
+    - uid: ShallowReference
+  - name: createdDate
+    description: Timestamp when test result created.
+    types:
+    - uid: string
+  - name: customFields
+    description: Additional properties of test result.
+    types:
+    - uid: CustomTestField
+      isArray: true
+  - name: durationInMs
+    description: Duration of test execution in milliseconds.
+    types:
+    - uid: number
+  - name: errorMessage
+    description: Error message in test execution.
+    types:
+    - uid: string
+  - name: failingSince
+    description: Information when test results started failing.
+    types:
+    - uid: FailingSince
+  - name: failureType
+    description: Failure type of test result.
+    types:
+    - uid: string
+  - name: id
+    description: ID of a test result.
+    types:
+    - uid: integer
+  - name: iterationDetails
+    description: Test result details of test iterations.
+    types:
+    - uid: TestIterationDetailsModel
+      isArray: true
+  - name: lastUpdatedBy
+    description: Reference to identity last updated test result.
+    types:
+    - uid: IdentityRef
+  - name: lastUpdatedDate
+    description: Last updated datetime of test result.
+    types:
+    - uid: string
+  - name: outcome
+    description: Test outcome of test result.
+    types:
+    - uid: string
+  - name: owner
+    description: Reference to test owner.
+    types:
+    - uid: IdentityRef
+  - name: priority
+    description: Priority of test executed.
+    types:
+    - uid: integer
+  - name: project
+    description: Reference to team project.
+    types:
+    - uid: ShallowReference
+  - name: release
+    description: Shallow reference to release associated with test result.
+    types:
+    - uid: ShallowReference
+  - name: releaseReference
+    description: Reference to release associated with test result.
+    types:
+    - uid: ReleaseReference
+  - name: resetCount
+    description: ''
+    types:
+    - uid: integer
+  - name: resolutionState
+    description: Resolution state of test result.
+    types:
+    - uid: string
+  - name: resolutionStateId
+    description: ID of resolution state.
+    types:
+    - uid: integer
+  - name: resultGroupType
+    description: Hierarchy type of the result, default value of None means its leaf node.
+    types:
+    - uid: ResultGroupType
+  - name: revision
+    description: Revision number of test result.
+    types:
+    - uid: integer
+  - name: runBy
+    description: Reference to identity executed the test.
+    types:
+    - uid: IdentityRef
+  - name: stackTrace
+    description: Stacktrace.
+    types:
+    - uid: string
+  - name: startedDate
+    description: Time when test execution started.
+    types:
+    - uid: string
+  - name: state
+    description: State of test result.
+    types:
+    - uid: string
+  - name: subResults
+    description: List of sub results inside a test result, if ResultGroupType is not None, it holds corresponding type sub results.
+    types:
+    - uid: TestSubResult
+      isArray: true
+  - name: testCase
+    description: Reference to the test executed.
+    types:
+    - uid: ShallowReference
+  - name: testCaseReferenceId
+    description: Reference ID of test used by test result.
+    types:
+    - uid: integer
+  - name: testCaseRevision
+    description: Name of test.
+    types:
+    - uid: integer
+  - name: testCaseTitle
+    description: Name of test.
+    types:
+    - uid: string
+  - name: testPlan
+    description: Reference to test plan test case workitem is part of.
+    types:
+    - uid: ShallowReference
+  - name: testPoint
+    description: Reference to the test point executed.
+    types:
+    - uid: ShallowReference
+  - name: testRun
+    description: Reference to test run.
+    types:
+    - uid: ShallowReference
+  - name: testSuite
+    description: Reference to test suite test case workitem is part of.
+    types:
+    - uid: ShallowReference
+  - name: url
+    description: Url of test result.
+    types:
+    - uid: string
+- name: TestResultGroupBy
+  description: Group the result on the basis of TestResultGroupBy. This can be Branch, Environment or null(if results are fetched by BuildDefinitionId)
+  kind: enum
+  properties:
+  - name: branch
+    description: Group the results by branches
+    types:
+    - uid: string
+  - name: environment
+    description: Group the results by environment
+    types:
+    - uid: string
+- name: ShallowReference
+  description: An abstracted reference to some other resource. This class is used to provide the build data contracts with a uniform way to reference other resources in a way that provides easy traversal through links.
+  kind: object
+  properties:
+  - name: id
+    description: ID of the resource
+    types:
+    - uid: string
+  - name: name
+    description: Name of the linked resource (definition name, controller name, etc.)
+    types:
+    - uid: string
+  - name: url
+    description: Full http link to the resource
+    types:
+    - uid: string
+- name: BuildReference
+  description: Reference to a build.
+  kind: object
+  properties:
+  - name: branchName
+    description: Branch name.
+    types:
+    - uid: string
+  - name: buildSystem
+    description: Build system.
+    types:
+    - uid: string
+  - name: definitionId
+    description: Build Definition ID.
+    types:
+    - uid: integer
+  - name: id
+    description: Build ID.
+    types:
+    - uid: integer
+  - name: number
+    description: Build Number.
+    types:
+    - uid: string
+  - name: repositoryId
+    description: Repository ID.
+    types:
+    - uid: string
+  - name: uri
+    description: Build URI.
+    types:
+    - uid: string
+- name: CustomTestField
+  description: A custom field information.
+  kind: object
+  properties:
+  - name: fieldName
+    description: Field Name.
+    types:
+    - uid: string
+  - name: value
+    description: Field value.
+    types:
+    - uid: object
+- name: FailingSince
+  description: Failing since information of a test result.
+  kind: object
+  properties:
+  - name: build
+    description: Build reference since failing.
+    types:
+    - uid: BuildReference
+  - name: date
+    description: Time since failing.
+    types:
+    - uid: string
+  - name: release
+    description: Release reference since failing.
+    types:
+    - uid: ReleaseReference
+- name: TestIterationDetailsModel
+  description: Represents a test iteration result.
+  kind: object
+  properties:
+  - name: actionResults
+    description: Test step results in an iteration.
+    types:
+    - uid: TestActionResultModel
+      isArray: true
+  - name: attachments
+    description: Refence to attachments in test iteration result.
+    types:
+    - uid: TestCaseResultAttachmentModel
+      isArray: true
+  - name: comment
+    description: Comment in test iteration result.
+    types:
+    - uid: string
+  - name: completedDate
+    description: Time when execution completed.
+    types:
+    - uid: string
+  - name: durationInMs
+    description: Duration of execution.
+    types:
+    - uid: number
+  - name: errorMessage
+    description: Error message in test iteration result execution.
+    types:
+    - uid: string
+  - name: id
+    description: ID of test iteration result.
+    types:
+    - uid: integer
+  - name: outcome
+    description: Test outcome if test iteration result.
+    types:
+    - uid: string
+  - name: parameters
+    description: Test parameters in an iteration.
+    types:
+    - uid: TestResultParameterModel
+      isArray: true
+  - name: startedDate
+    description: Time when execution started.
+    types:
+    - uid: string
+  - name: url
+    description: Url to test iteration result.
+    types:
+    - uid: string
+- name: IdentityRef
+  description: ''
+  kind: object
+  properties:
+  - name: directoryAlias
+    description: ''
+    types:
+    - uid: string
+  - name: id
+    description: ''
+    types:
+    - uid: string
+  - name: imageUrl
+    description: ''
+    types:
+    - uid: string
+  - name: inactive
+    description: ''
+    types:
+    - uid: boolean
+  - name: isAadIdentity
+    description: ''
+    types:
+    - uid: boolean
+  - name: isContainer
+    description: ''
+    types:
+    - uid: boolean
+  - name: isDeletedInOrigin
+    description: ''
+    types:
+    - uid: boolean
+  - name: profileUrl
+    description: ''
+    types:
+    - uid: string
+  - name: uniqueName
+    description: ''
+    types:
+    - uid: string
+  - name: _links
+    description: This field contains zero or more interesting links about the graph subject. These links may be invoked to obtain additional relationships or more detailed information about this graph subject.
+    types:
+    - uid: ReferenceLinks
+  - name: descriptor
+    description: The descriptor is the primary way to reference the graph subject while the system is running. This field will uniquely identify the same graph subject across both Accounts and Organizations.
+    types:
+    - uid: string
+  - name: displayName
+    description: This is the non-unique display name of the graph subject. To change this field, you must alter its value in the source provider.
+    types:
+    - uid: string
+  - name: url
+    description: This url is the full route to the source resource of this graph subject.
+    types:
+    - uid: string
+- name: ReleaseReference
+  description: Reference to a release.
+  kind: object
+  properties:
+  - name: attempt
+    description: ''
+    types:
+    - uid: integer
+  - name: creationDate
+    description: ''
+    types:
+    - uid: string
+  - name: definitionId
+    description: Release definition ID.
+    types:
+    - uid: integer
+  - name: environmentCreationDate
+    description: ''
+    types:
+    - uid: string
+  - name: environmentDefinitionId
+    description: Release environment definition ID.
+    types:
+    - uid: integer
+  - name: environmentDefinitionName
+    description: Release environment definition name.
+    types:
+    - uid: string
+  - name: environmentId
+    description: Release environment ID.
+    types:
+    - uid: integer
+  - name: environmentName
+    description: Release environment name.
+    types:
+    - uid: string
+  - name: id
+    description: Release ID.
+    types:
+    - uid: integer
+  - name: name
+    description: Release name.
+    types:
+    - uid: string
+- name: ResultGroupType
+  kind: enum
+  properties:
+  - name: none
+    description: Leaf node of test result.
+    types:
+    - uid: string
+  - name: rerun
+    description: Hierarchy type of test result.
+    types:
+    - uid: string
+  - name: dataDriven
+    description: Hierarchy type of test result.
+    types:
+    - uid: string
+  - name: orderedTest
+    description: Hierarchy type of test result.
+    types:
+    - uid: string
+  - name: generic
+    description: Unknown hierarchy type.
+    types:
+    - uid: string
+- name: TestSubResult
+  description: Represents a sub result of a test result.
+  kind: object
+  properties:
+  - name: comment
+    description: Comment in sub result.
+    types:
+    - uid: string
+  - name: completedDate
+    description: Time when test execution completed.
+    types:
+    - uid: string
+  - name: computerName
+    description: Machine where test executed.
+    types:
+    - uid: string
+  - name: configuration
+    description: Reference to test configuration.
+    types:
+    - uid: ShallowReference
+  - name: customFields
+    description: Additional properties of sub result.
+    types:
+    - uid: CustomTestField
+      isArray: true
+  - name: displayName
+    description: Name of sub result.
+    types:
+    - uid: string
+  - name: durationInMs
+    description: Duration of test execution.
+    types:
+    - uid: integer
+  - name: errorMessage
+    description: Error message in sub result.
+    types:
+    - uid: string
+  - name: id
+    description: ID of sub result.
+    types:
+    - uid: integer
+  - name: lastUpdatedDate
+    description: Time when result last updated.
+    types:
+    - uid: string
+  - name: outcome
+    description: Outcome of sub result.
+    types:
+    - uid: string
+  - name: parentId
+    description: Immediate parent ID of sub result.
+    types:
+    - uid: integer
+  - name: resultGroupType
+    description: Hierarchy type of the result, default value of None means its leaf node.
+    types:
+    - uid: ResultGroupType
+  - name: sequenceId
+    description: Index number of sub result.
+    types:
+    - uid: integer
+  - name: stackTrace
+    description: Stacktrace.
+    types:
+    - uid: string
+  - name: startedDate
+    description: Time when test execution started.
+    types:
+    - uid: string
+  - name: subResults
+    description: List of sub results inside a sub result, if ResultGroupType is not None, it holds corresponding type sub results.
+    types:
+    - uid: TestSubResult
+      isArray: true
+  - name: testResult
+    description: Reference to test result.
+    types:
+    - uid: TestCaseResultIdentifier
+  - name: url
+    description: Url of sub result.
+    types:
+    - uid: string
+- name: TestActionResultModel
+  description: Represents a test step result.
+  kind: object
+  properties:
+  - name: actionPath
+    description: Path identifier test step in test case workitem.
+    types:
+    - uid: string
+  - name: iterationId
+    description: Iteration ID of test action result.
+    types:
+    - uid: integer
+  - name: sharedStepModel
+    description: Reference to shared step workitem.
+    types:
+    - uid: SharedStepModel
+  - name: stepIdentifier
+    description: 'This is step Id of test case. For shared step, it is step Id of shared step in test case workitem; step Id in shared step. Example: TestCase workitem has two steps: 1) Normal step with Id = 1 2) Shared Step with Id = 2. Inside shared step: a) Normal Step with Id = 1 Value for StepIdentifier for First step: "1" Second step: "2;1"'
+    types:
+    - uid: string
+  - name: url
+    description: Url of test action result.
+    types:
+    - uid: string
+  - name: comment
+    description: Comment in result.
+    types:
+    - uid: string
+  - name: completedDate
+    description: Time when execution completed.
+    types:
+    - uid: string
+  - name: durationInMs
+    description: Duration of execution.
+    types:
+    - uid: number
+  - name: errorMessage
+    description: Error message in result.
+    types:
+    - uid: string
+  - name: outcome
+    description: Test outcome of result.
+    types:
+    - uid: string
+  - name: startedDate
+    description: Time when execution started.
+    types:
+    - uid: string
+- name: TestCaseResultAttachmentModel
+  description: Test attachment information in a test iteration.
+  kind: object
+  properties:
+  - name: actionPath
+    description: Path identifier test step in test case workitem.
+    types:
+    - uid: string
+  - name: id
+    description: Attachment ID.
+    types:
+    - uid: integer
+  - name: iterationId
+    description: Iteration ID.
+    types:
+    - uid: integer
+  - name: name
+    description: Name of attachment.
+    types:
+    - uid: string
+  - name: size
+    description: Attachment size.
+    types:
+    - uid: integer
+  - name: url
+    description: Url to attachment.
+    types:
+    - uid: string
+- name: TestResultParameterModel
+  description: Test parameter information in a test iteration.
+  kind: object
+  properties:
+  - name: actionPath
+    description: Test step path where parameter is referenced.
+    types:
+    - uid: string
+  - name: iterationId
+    description: Iteration ID.
+    types:
+    - uid: integer
+  - name: parameterName
+    description: Name of parameter.
+    types:
+    - uid: string
+  - name: stepIdentifier
+    description: 'This is step Id of test case. For shared step, it is step Id of shared step in test case workitem; step Id in shared step. Example: TestCase workitem has two steps: 1) Normal step with Id = 1 2) Shared Step with Id = 2. Inside shared step: a) Normal Step with Id = 1 Value for StepIdentifier for First step: "1" Second step: "2;1"'
+    types:
+    - uid: string
+  - name: url
+    description: Url of test parameter.
+    types:
+    - uid: string
+  - name: value
+    description: Value of parameter.
+    types:
+    - uid: string
+- name: ReferenceLinks
+  description: The class to represent a collection of REST reference links.
+  kind: object
+  properties:
+  - name: links
+    description: The readonly view of the links.  Because Reference links are readonly, we only want to expose them as read only.
+    types:
+    - uid: object
+      isDictionary: true
+      additionalTypes:
+      - uid: string
+      - uid: object
+- name: TestCaseResultIdentifier
+  description: Reference to a test result.
+  kind: object
+  properties:
+  - name: testResultId
+    description: Test result ID.
+    types:
+    - uid: integer
+  - name: testRunId
+    description: Test run ID.
+    types:
+    - uid: integer
+- name: SharedStepModel
+  description: Reference to shared step workitem.
+  kind: object
+  properties:
+  - name: id
+    description: WorkItem shared step ID.
+    types:
+    - uid: integer
+  - name: revision
+    description: Shared step workitem revision.
+    types:
+    - uid: integer
+examples: []
+security:
+- type: basic
+  description: Personal access token. Use any value for the user name and the token as the password.
+metadata:
+  enable_rest_try_it: true

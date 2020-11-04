@@ -1,0 +1,86 @@
+### YamlMime:RESTOperation
+uid: rest-sandbox.security.none
+name: Get Apps
+service: Power BI REST APIs
+groupName: Apps
+apiVersion: v1.0
+summary: "Returns a list of installed apps.  \n<br/>**Required scope**: App.Read.All<br/>To set the permissions scope, see [Register an app](https://docs.microsoft.com/power-bi/developer/register-app)."
+consumes: []
+produces:
+- application/json
+paths:
+- content: GET https://api.powerbi.com/v1.0/myorg/apps
+uriParameters: []
+responses:
+- name: 200 OK
+  description: OK
+  types:
+  - uid: ODataResponse[List[App]]
+requestHeader: []
+definitions:
+- name: ODataResponse[List[App]]
+  description: Odata response wrapper for a Power BI installed App list
+  kind: object
+  properties:
+  - name: odata.context
+    description: OData context
+    types:
+    - uid: string
+  - name: value
+    description: The installed apps
+    types:
+    - uid: App
+      isArray: true
+- name: App
+  description: A Power BI Installed App
+  kind: object
+  properties:
+  - name: id
+    description: The app id
+    types:
+    - uid: string
+  - name: name
+    description: The app name
+    types:
+    - uid: string
+  - name: description
+    description: The app description
+    types:
+    - uid: string
+  - name: lastUpdate
+    description: The last time the app was updated
+    types:
+    - uid: string
+  - name: publishedBy
+    description: The app publisher
+    types:
+    - uid: string
+examples:
+- name: example
+  request:
+    uri: GET https://api.powerbi.com/v1.0/myorg/apps
+  responses:
+  - statusCode: "200"
+    body: >-
+      {
+        "value": [
+          {
+            "id": "f089354e-8366-4e18-aea3-4cb4a3a50b48",
+            "description": "The finance app",
+            "name": "Finance",
+            "publishedBy": "Bill",
+            "lastUpdate": "2019-01-13T07:46:53.094+00:00"
+          },
+          {
+            "id": "3d9b93c6-7b6d-4801-a491-1738910904fd",
+            "description": "The marketing app",
+            "name": "Marketing",
+            "publishedBy": "Ben",
+            "lastUpdate": "2018-11-13T07:46:53.094+00:00"
+          }
+        ]
+      }
+security: []
+errorCodes: []
+metadata:
+  enable_rest_try_it: true

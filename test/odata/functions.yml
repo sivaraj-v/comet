@@ -1,0 +1,29 @@
+### YamlMime:ODataIndex
+uid: Microsoft.Dynamics.CRM.FunctionIndex
+name: Web API Function Reference
+title: "Dynamics 365 Customer Engagement Web API Function Reference | MicrosoftDocs"
+metadata:   
+  ms.date: "03/20/2018"
+  ms.service: "crm-online"
+  ms.topic: "reference"
+  applies_to: 
+    - "Dynamics 365 (online)"
+  ms.assetid: ab719434-7c3c-4bc3-8fee-bb14335d3f9d
+  author: "jimdaly"
+  ms.author: "jdaly"
+  manager: "jdaly"
+description: "A function is an operation which does not have observable side effects. They typically retrieve data. They may have parameters and they may return values. Functions may be bound to entity types."
+in_this_section:
+- type: Microsoft.Dynamics.CRM.CalculateTotalTimeIncident
+  description: "Calculates the total time, in minutes, that you used while you worked on an incident (case).  "
+- type: Microsoft.Dynamics.CRM.RetrieveExchangeRate
+  description: "Retrieves the exchange rate.  "
+href_see_also:
+- text: "Use the Microsoft Dynamics 365 Customer Engagement Web API"
+  href: "https://docs.microsoft.com/dynamics365/customer-engagement/developer/use-microsoft-dynamics-365-web-api"
+xref_see_also:
+- Microsoft.Dynamics.CRM.Above
+- Microsoft.Dynamics.CRM.activitypointer
+- Microsoft.Dynamics.CRM.MailboxTrackingFolderMapping
+- Microsoft.Dynamics.CRM.RelationshipType
+- Microsoft.Dynamics.CRM.RetrieveExchangeRate

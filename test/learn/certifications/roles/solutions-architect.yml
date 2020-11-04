@@ -1,0 +1,91 @@
+### YamlMime:Role 
+title: Solutions Architect 
+metadata: 
+  title: Solutions Architect
+  description: Solutions Architects have expertise in compute, network, storage, security. 
+uid: role.solution-architect-test 
+summary: | 
+  Solutions Architects have expertise in compute, network, storage, security.
+subTitle: Solutions Architects have expertise in compute, network, storage, security.
+certificationPaths: 
+- title: Azure Solutions Architect
+  linkedInKeywords: Azure Solutions Architect
+  uid: certification-path.azure-solutions-architect-test
+  prerequisites: 
+  - uid: certification.azure-fundamentals-test
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-solutions-architect-test
+    levels:
+    - advanced    
+- title: Dynamics 365 Finance and Operations Apps Solution Architect
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
+  uid: certification.d365-finance-and-operations-apps-solution-architect-expert
+  prerequisites: 
+  - uid: certification.d365-fundamentals-test
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-financials-test
+    levels:
+    - intermediate  
+  - uid: certification.d365-functional-consultant-manufacturing-test
+    levels:
+    - intermediate 
+  - uid: certification.d365-functional-consultant-supply-chain-management-test
+    levels:
+    - intermediate 
+  - uid: certification.d365-finance-and-operations-apps-developer-associate-test
+    levels:
+    - intermediate 
+  - uid: certification.d365-finance-and-operations-apps-solution-architect-expert-test
+    levels:
+    - advanced  
+- title: Power Apps + Dynamics 365 Solution Architect
+  linkedInKeywords: Power Apps + Dynamics 365 Solution Architect
+  uid: certification.power-apps-and-d365-solution-architect-expert-test
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals-test
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.power-apps-and-d365-developer-associate-test
+    levels:
+    - intermediate
+  - uid: certification.d365-functional-consultant-sales-test
+    levels:
+    - intermediate
+    - uid: certification.d365-functional-consultant-marketing-test
+    levels:
+    - intermediate
+  - uid: certification.d365-functional-consultant-customer-service-test
+    levels:
+    - intermediate
+  - uid: certification.d365-functional-consultant-field-service-test
+    levels:
+    - intermediate
+  - uid: certification.power-apps-and-d365-solution-architect-expert-test
+    levels:
+    - advanced
+certifications:
+- uid: certification.azure-solutions-architect-test
+  requiredExams:
+  - uid: exam.az-300-test
+  - uid: exam.az-301-test
+- uid: certification.d365-finance-and-operations-apps-solution-architect-expert-test
+  requiredExams:
+  - uid: exam.mb-700-test
+- uid: certification.power-apps-and-d365-solution-architect-expert-test
+  requiredExams:
+  - uid: exam.mb-600-test
+resources:
+- title: Microsoft Training and Certifications Guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Training and Certifications Poster
+  description: Choose your path to success with this training and certifications poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certifications
+  href: ../help.md
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
